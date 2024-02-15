@@ -175,20 +175,11 @@ colnames(ft_pro)[colnames(ft_pro) == 'Consumo urbano'] <- 'Consumo_urbano_L/100k
 ft_pro$`Consumo extraurbano`<- gsub(".*?([0-9.]+).*", "\\1", fichas_tecnicas$`Consumo extraurbano`)
 colnames(ft_pro)[colnames(ft_pro) == 'Consumo extraurbano'] <- 'Consumo_extraurbano_L/100km'
 
-
-coincidencias <- vector("list", ncol(ft_pro))
-
-# Recorrer cada columna del dataframe
-for (i in seq_along(ft_pro)) {
-  # Buscar coincidencias en la columna actual
-  coincidencias[[i]] <- ft_pro[ft_pro[,i] == "radio", i]
-}
-
-
 ft_pro <- ft_pro %>%
   mutate(id = seq_along(Brand))
 
 aux <- anadir_feature(ft_pro, "bluetooth")
+aux <- anadir_feature(ft_pro, "navegador")
 
 #La funcion buscar feature devuelve las columnas donde aparece la palabra introducida
 existe_radio <- buscar_feature(ft_pro, "radio")
@@ -208,30 +199,12 @@ existe_android
 existe_auto<- buscar_feature(ft_pro, "auto")
 existe_auto
 
-# Combinar los resultados en un único vector
-coincidencias <- unlist(coincidencias)
-
-# Imprimir las coincidencias encontradas
-print(coincidencias)
-
 nombres <- paste0(ft_pro$Brand, " ", ft_pro$Model, " ", ft_pro$Versión)
 nombres <- data.frame(nombres)
 
 versiones <- csv$title
 versiones <- data.frame(versiones)
-for (i in 1:nrow(versiones)) {
-  valor_actual <- versiones[i, 1]
-  print(valor_actual)
-  encontrado <- FALSE
-  j <- 1
-  while( j <= nrow(nombres) && !encontrado){
-    if(valor_actual == nombres[j, 1]){
-      encontrado<-TRUE
-      print(encontrado)
-    }
-    j <- j+1
-  }
-}
+versiones$year <- csv$year
 
 sum <- 0
 for (i in 1:nrow(versiones)) {
@@ -241,38 +214,11 @@ for (i in 1:nrow(versiones)) {
   #print(posicion)
   if (length(posicion) > 0 && !is.na(posicion)) {
     #print(posicion)
-    print(paste0(valor_actual,"---",nombres[posicion, 1 ]))
+    print(paste0(valor_actual,"---", versiones[i, 2],"---",nombres[posicion, 1 ]))
     sum <- sum +1
   }
 }
-
-print(paste0("-",versiones[1,1],"-"))
-print(paste0("-",nombres[1,1],"-"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-OPEL Astra 1.6 CDTi 81kW 110CV Selective 5p.
-
-
-
-
-
-
-
-
-
-
+sum 
 
 
 fichas_tecnicas_final <- ft_pro[, c("Brand", "Model", "Precio", "Caja de cambios", "Combustible", "Potencia_Maxima_CV",
@@ -285,13 +231,20 @@ fichas_tecnicas_final <- ft_pro[, c("Brand", "Model", "Precio", "Caja de cambios
                                     "Consumo_urbano_L/100km", "Consumo_extraurbano_L/100km")]
 
 
+csv <- read.csv("car_data.csv")
 
+versiones <- as.data.frame(unique(csv$title))
 
+csv_ <- csv %>%
+  group_by(title) %>%
+  slice(1) %>%
+  ungroup()
 
-
-
-
-
+csv_ <- csv_ %>%
+    filter(brand == "RENAULT" | brand == "SEAT"| brand == "TOYOTA"
+         | brand == "KIA"| brand == "VOLKSWAGEN"| brand == "HYUNDAI"
+         | brand == "PEUGEOT" | brand == "DACIA" | brand == "CITROEN"
+         | brand == "MERCEDES-BENZ")
 
 
 
