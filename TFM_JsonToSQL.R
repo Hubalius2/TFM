@@ -52,6 +52,42 @@ fichas_tecnicas_fun <- function(df){
   return(df_salida)
 }
 
+buscar_feature <- function(df, feature){
+  coincidencias <- data.frame(columnas = integer(), repeticiones = integer())
+  for(i in 1:nrow(df)){
+    for (j in 1:ncol(df)){
+      if (grepl(feature, df[i, j], ignore.case = TRUE)) {
+        existe <- any(coincidencias$columnas == j)
+        if(existe){
+          coincidencias$repeticiones[coincidencias$columnas == j] <- coincidencias$repeticiones[coincidencias$columnas == j] + 1
+        }else{
+          coincidencias <- rbind(coincidencias, data.frame(columnas = j, repeticiones = 1))
+        }
+      }
+    }
+  }
+  return(coincidencias[order(coincidencias$repeticiones, decreasing = TRUE), ])
+}
+
+anadir_feature <- function(df, feature) {
+  coincidencias <-
+    data.frame(columnas = integer(), repeticiones = integer())
+  for (i in 1:nrow(df)) {
+    encontrado <- FALSE
+    j <- 1
+    while(j <= ncol(df) && !encontrado){
+      if (grepl(feature, df[i, j], ignore.case = TRUE)) {
+        df[i, feature] <- 1
+        encontrado <- TRUE
+      } else{
+        df[i, feature] <- 0
+      }
+      j <- j+1
+    }
+  }
+  return(df)
+}
+
 # Crearemos una función para obtener el número de columnas de un dataframe
 num_columnas <- function(df) {
   ncol(df)
@@ -138,6 +174,103 @@ colnames(ft_pro)[colnames(ft_pro) == 'Consumo urbano'] <- 'Consumo_urbano_L/100k
 
 ft_pro$`Consumo extraurbano`<- gsub(".*?([0-9.]+).*", "\\1", fichas_tecnicas$`Consumo extraurbano`)
 colnames(ft_pro)[colnames(ft_pro) == 'Consumo extraurbano'] <- 'Consumo_extraurbano_L/100km'
+
+
+coincidencias <- vector("list", ncol(ft_pro))
+
+# Recorrer cada columna del dataframe
+for (i in seq_along(ft_pro)) {
+  # Buscar coincidencias en la columna actual
+  coincidencias[[i]] <- ft_pro[ft_pro[,i] == "radio", i]
+}
+
+
+ft_pro <- ft_pro %>%
+  mutate(id = seq_along(Brand))
+
+aux <- anadir_feature(ft_pro, "bluetooth")
+
+#La funcion buscar feature devuelve las columnas donde aparece la palabra introducida
+existe_radio <- buscar_feature(ft_pro, "radio")
+existe_consumo <- buscar_feature(ft_pro, "consumo medio")
+existe_consumo
+existe_emisiones <- buscar_feature(ft_pro, "emisiones")
+existe_emisiones
+existe_radio <- buscar_feature(ft_pro, "radio")
+existe_radio
+
+existe_bluetooth<- buscar_feature(ft_pro, "bluetooth")
+existe_bluetooth
+
+existe_android<- buscar_feature(ft_pro, "android")
+existe_android
+
+existe_auto<- buscar_feature(ft_pro, "auto")
+existe_auto
+
+# Combinar los resultados en un único vector
+coincidencias <- unlist(coincidencias)
+
+# Imprimir las coincidencias encontradas
+print(coincidencias)
+
+nombres <- paste0(ft_pro$Brand, " ", ft_pro$Model, " ", ft_pro$Versión)
+nombres <- data.frame(nombres)
+
+versiones <- csv$title
+versiones <- data.frame(versiones)
+for (i in 1:nrow(versiones)) {
+  valor_actual <- versiones[i, 1]
+  print(valor_actual)
+  encontrado <- FALSE
+  j <- 1
+  while( j <= nrow(nombres) && !encontrado){
+    if(valor_actual == nombres[j, 1]){
+      encontrado<-TRUE
+      print(encontrado)
+    }
+    j <- j+1
+  }
+}
+
+sum <- 0
+for (i in 1:nrow(versiones)) {
+  valor_actual <- versiones[i, 1]
+  #print(valor_actual)
+  posicion <- match(valor_actual, nombres[, 1])
+  #print(posicion)
+  if (length(posicion) > 0 && !is.na(posicion)) {
+    #print(posicion)
+    print(paste0(valor_actual,"---",nombres[posicion, 1 ]))
+    sum <- sum +1
+  }
+}
+
+print(paste0("-",versiones[1,1],"-"))
+print(paste0("-",nombres[1,1],"-"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPEL Astra 1.6 CDTi 81kW 110CV Selective 5p.
+
+
+
+
+
+
+
+
 
 
 
