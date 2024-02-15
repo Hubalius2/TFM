@@ -1,0 +1,446 @@
+[
+  {
+    "feature": "Car",
+    "value": "BMW X7"
+  },
+  {
+    "feature": "Precio",
+    "value": "134000"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "530 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "750 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "250 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "83 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "M50i"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5151 x 2000 x 1805mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "750 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "7"
+  },
+  {
+    "feature": "Peso",
+    "value": "2565 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "530 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "390 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "250 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado (clasificación JATO: deportivo S9)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: CLAR, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente con con sistema de control de descenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 4,4 litros ( 4.395 cc ) , ocho cilindros en V con cuatro válvulas por cilindro, 89,0 mm de diámetro, 88,3 mm de carrera, relación de compresión: 10,5 y distribución variable ; código del motor: N63B44T3 10,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 250 km/h de velocidad máxima y 4,7 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 530 CV ( CEE ) 390 kW @ 5.500 rpm (potencia max) 750 Nm de par máximo @ 1.800 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble triángulo con barra estabilizadora mediante aire con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante aire con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: GA8X76DZ"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dieciséis altavoces ( Harman/Kardon ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color, 0 y radio reproduce MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte, cargador y antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 12,3 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 31,2 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros, traseros antipinchazo de 21 pulgadas de diametro, 285 mm de ancho, 45 % de perfil y índice de velocidad: Y con índice de carga: 113 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor en color combinado con carrocería con ajuste eléctrico desempañable con antideslumbrante automático y intermitente integrado, retrovisor exterior del acompañante en color combinado con carrocería con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aleación ligera de 21 pulgadas de diámetro y 9,5 pulgadas de ancho bi-tono, 53,3 y 24,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con division horizontal apertura sin manos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con radar, sensores de aparcamiento traseros con radar y cámara, sensores de aparcamiento en los lados con radar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor ajustable en altura con pretensores, cinturón de seguridad trasero en lado acompañante ajustable en altura con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de frenada en curva"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 20.729,28 y 14.559,85"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras y traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, luces direccionales y sensor de luz ambiental luces de carretera activas y matrix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) ( trasero ) con control remoto inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aleación y cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo combustión y controles en pantalla táctil"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de 4 zonas con mandos traseros para el climatizador de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente automática con entrada sin llave, arranque sin llave y memoria de posición de los asientos incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.151 mm de largo, 2.000 mm de ancho, 1.805 mm de alto, 221 mm de altura libre sobre el suelo sin carga, 3.105 mm de batalla, 1.684 mm de ancho de vía delantero, 1.705 mm de ancho de vía trasero, 13.000 mm de diámetro de giro entre paredes, 2.218 y 2.000"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.064 mm de altura entre banqueta-techo (delante), 1.013 mm de altura entre banqueta-techo (detrás), 1.560 mm de anchura en las caderas (delante), 1.527 mm de anchura en las caderas (detrás), 1.011 mm de espacio para las piernas (delante), 954 mm de espacio para las piernas (detrás), 1.525 mm de anchura en los hombros (delante), 1.475 mm de anchura en los hombros (detrás), 1.013 mm de espacio para las caderas en 3ª fila y 1.218 mm de espacio para los hombros en 3ª fila"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 750 litros (hasta las ventanas con asientos montados) y 2.120 litros (hasta el techo con asientos plegados) ( medición ISO )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros, asientos traseros y la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo con ajuste eléctrico ( cinco ajustes eléctricos ) térmico, memorizado y memorizado con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido de orientación delantera con banqueta fija y respaldo abatible 40/20/40 con plegado remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 12,3 l/100km (mixto), 8,1 km/l  (mixto), 675 Km de autonomía (combinado), 12,3, 12,8, 8,1 y 7,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de madera noble BMW Individual veta de fresno Silbergrau de brillo intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de madera noble 'Fineline Stripe' marrón de brillo intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de madera noble veta de álamo antracita-marrón de poros abiertos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de madera noble veta de fresno marrón-metalizado de brillo intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de madera noble veta de fresno negro con efecto bronce de poros abiertos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Soporte lumbar en los asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Entretenimiento en la parte trasera Professional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sintonizador de TV"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero activo con función Stop&Go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz láser BMW"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de aire ambiente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Persiana solar, ventanillas laterales traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo de cristal panorámico Sky Lounge"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alpinweiss sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Anagrama de modelo, supresión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de emergencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Night Vision con reconocimiento de personas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Juego para reparación de pinchazos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parking Assistant Plus"
+  }
+]

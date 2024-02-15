@@ -1,0 +1,410 @@
+[
+  {
+    "feature": "Car",
+    "value": "DS DS 9"
+  },
+  {
+    "feature": "Precio",
+    "value": "75650"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "250 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "473 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "240 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "42 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "ETENSE 250 OPERA"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4934 x 1932 x 1460mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "473 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1844 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "250 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "250 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "184 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "15.3 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "73 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "15.6 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "360 min (0% - 100%)"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "8 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "240 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado OPERA (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo sedán con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: EMP2, carrocería & puertas (local): sedán de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,6 litros ( 1.598 cc ) , cuatro cilindros en línea con 77,0 mm de diámetro y 85,8 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico, combustible adicional: sin plomo y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 240 km/h de velocidad máxima, 8,1 segs de aceleración 0-100 km/h y 135 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 250 CV ( CEE ) 184 kW @ 6.000 rpm (potencia max) 360 Nm de par máximo @ 3.000 rpm (par max) ; 110 CV (potencia máx. motor eléctrico), 81 kW (potencia máx. motor eléctrico) y 320 Nm (torque máx. motor eléctrico) potencia con combustible secundario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: EAT8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Catorce altavoces ( Focal ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color y 515 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 12,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 30,5, 36 y 0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros, traseros y en los lados con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 13.129,34, 0,00 y IVA de I.V.A. IVA al 21,00 % 13.129,34 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales y sensor de oscuridad luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona con mandos traseros para el climatizador de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.934 mm de largo, 1.932 mm de ancho, 1.460 mm de alto, 2.895 mm de batalla, 1.584 mm de ancho de vía delantero, 1.586 mm de ancho de vía trasero, 2.079, 1.932, 81,9 y 76,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 473 litros (hasta las ventanas con asientos montados) y 990 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 235 mm de ancho, 45 % de perfil y índice de velocidad: Y con índice de carga: 99 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático, antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 48,3, 21,6 y ZHMP"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( seis ajustes eléctricos ) térmico, activo, ventilado, memorizado, memorizado y eléctrico de dos direcciones con ajuste memorizado del respaldo y ajuste manual del suplemento de la banqueta, asiento delantero del acompañante individual con ajuste eléctrico ( cuatro ajustes eléctricos ) térmico, activo, ventilado, eléctrico, ajuste eléctrico en altura y eléctrico con ajuste eléctrico del respaldo, ajuste manual del suplemento de la banqueta y controles para los pasajeros traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco térmicos y ventilados de orientación delantera con banqueta fija, respaldo abatible asimétrico y comunicado con el maletero de tipo activos/con masaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 1,5 l/100km (mixto), 66,7 km/l  (mixto), 1,5, 1,5, 66,7, 66,7, 6,8, 6,9, 14,7, 14,5, 157, 157, 35 y 34, consumo de combustible ( WLTP HEV modo descarga de la batería ): 1,5 l/100km (mixto), 66,7 km/l  (mixto), 1,5, 1,5, 66,7, 66,7, 8,9, 11,2, 14,5, 14,3, 6,9, 7,0, 157, 157, 26, 16 y 16, consumo de combustible ( WLTP HEV Factor de Utilidad ponderado ): 1,5 l/100km (mixto), 66,7 km/l  (mixto), 1,5, 1,5, 66,7, 66,7, 6,9, 7,0, 14,5, 14,3, 157, 157, 34 y 34"
+  },
+  {
+    "feature": "Informacion",
+    "value": "INTERIOR OPERA GRIS PERLA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "INTERIOR OPERA NEGRO BASALTO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "INTERIOR OPERA RED RUBIS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Midnight"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristal Pearl"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Platino"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada / opaca"
+  }
+]

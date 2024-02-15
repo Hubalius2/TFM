@@ -1,0 +1,602 @@
+[
+  {
+    "feature": "Car",
+    "value": "SEAT ARONA"
+  },
+  {
+    "feature": "Precio",
+    "value": "30101"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "110 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "400 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "190 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "4.8 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "40 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.0 TSI 81kW DSG Xperience XM"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4153 x 1780 x 1537mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "400 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1235 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "110 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "81 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "190 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "5.4 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "4.4 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "4.8 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado XPERIENCE XM, Edición limitada: Edición Limitada (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB A0, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,0 litros ( 999 cc ) , tres cilindros en línea con 74,5 mm de diámetro y 76,4 mm de carrera ; código del motor: DS8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 190 km/h de velocidad máxima y 10,8 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 110 CV ( CEE ) 81 kW @ 5.500 rpm (potencia max) 200 Nm de par máximo @ 2.000 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el suelo , código transmisión: DQ200-7F"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 5.026,94, 1.137,05 y IVA de IVA IVA al 21,00 % 5.026,94 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del conductor y del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.153 mm de largo, 1.780 mm de ancho, 1.537 mm de alto, 2.566 mm de batalla, 10.600 mm de diámetro de giro entre paredes, 1.942, 34,8 y 76,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.059 mm de altura entre banqueta-techo (delante), 990 mm de altura entre banqueta-techo (detrás), 1.425 mm de anchura en las caderas (delante) y 1.403 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 400 litros (hasta las ventanas con asientos montados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 205 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 91 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 6,5 pulgadas de ancho 43,2 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 5,4 l/100km (urbano), 4,4 l/100km (extraurbano), 4,8 l/100km (mixto), 18,5 km/l (urbano), 22,7 km/l  (extraurbano), 20,8 km/l  (mixto) y 833 Km de autonomía (combinado) (fuente: EU6AP ), consumo de combustible ( WLTP ICE ): 5,8 l/100km (mixto), 17,2 km/l  (mixto), 690 Km de autonomía (combinado), 5,8, 6,4, 17,2, 15,6, 41 y 37"
+  },
+  {
+    "feature": "Informacion",
+    "value": "SEAT Drive Profile"
+  },
+  {
+    "feature": "Informacion",
+    "value": "LUXE PACK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MARINA PACK - Tapicería Sequal con plásticos marinos reciclados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK X-PERIENCE CONFORT"
+  },
+  {
+    "feature": "Informacion",
+    "value": "WINTER PACK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aireadores en color gris neutro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aireadores iluminados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma volumétrica antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros antiniebla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Marina Pack (tapricería SEAQUAL)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro (tela)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Dinamica/Velour (tela)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de Navegación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Saphire (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Saphire (metalizado) Techo Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Saphire (metalizado) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Saphire (metalizado) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco (sólido) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco (sólido) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Nevada (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Nevada (metalizado) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Nevada (metalizado) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cliff Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cliff Grey (metalizado) Techo Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cliff Grey (metalizado) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cliff Grey (metalizado) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Color exterior uniforme, no Bicolor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales traseros tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eliminación de nombre, acabado y motorización en parte trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Magnetic (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Magnetic (metalizado) Techo Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Magnetic (metalizado) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llanta de aleación de 43cm (17\") Sport Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 46cm (18\") en Gris Nuclear"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 46cm (18\") PERFORMANCE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Midnight (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Midnight (metalizado) Techo Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Midnight (metalizado) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Custom"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Custom (bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metalizada (bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura roja sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Suave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Suave (bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Urban (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Urban (metalizado) Techo Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Urban (metalizado) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Urban (metalizado) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo (sólido) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo (sólido) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Desire (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Desire (metalizado) Techo Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Desire (metalizado) Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuadro de mandos Digital Cockpit"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía de 1 años"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía de 2 años"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Safe & Driving Pack XL"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero adaptativo + Asistente de luces cortas/largas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto minimizada 46cm (18\")"
+  }
+]

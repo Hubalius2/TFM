@@ -1,0 +1,382 @@
+[
+  {
+    "feature": "Car",
+    "value": "DACIA SPRING"
+  },
+  {
+    "feature": "Precio",
+    "value": "23415"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "65 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "270 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "13.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "125 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "Extreme Electric 48kW 65CV"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3734 x 1579 x 1516mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "270 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "970 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "65 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "65 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "48 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "14.5 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "220 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "28.3 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "811 min (0% - 100%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "10 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "13.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "125 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado EXTREME (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: CMF-A, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 125 km/h de velocidad máxima, 13,7 segs de aceleración 0-100 km/h y 125 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 65 CV ( CEE ) 48 kW @ 4.057 rpm (potencia max) 113 Nm de par máximo @ 500 rpm (par max) ; 65 CV (potencia máx. motor eléctrico), 48 kW (potencia máx. motor eléctrico) y 113 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 7,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 17,8, 36 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 4.063,76, 0,00 y IVA de IVA IVA al 21,00 % 4.063,76 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.734 mm de largo, 1.579 mm de ancho, 1.516 mm de alto, 2.423 mm de batalla, 1.385 mm de ancho de vía delantero, 1.365 mm de ancho de vía trasero, 9.500 mm de diámetro de giro entre bordillos, 1.770 y 69,7"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 896 mm de altura entre banqueta-techo (delante), 843 mm de altura entre banqueta-techo (detrás), 1.281 mm de anchura en las caderas (delante), 1.256 mm de anchura en las caderas (detrás), 1.250 mm de anchura en los hombros (delante) y 1.231 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 270 litros (hasta las ventanas con asientos montados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 14 pulgadas de diametro, 165 mm de ancho, 70 % de perfil y índice de velocidad: T con índice de carga: 81 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 14 pulgadas de diámetro y 4,5 pulgadas de ancho llanta 'structure', 35,6 y 11,4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible en una pieza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable Modo 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carga rápida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Extreme gris (cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Pizarra (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Caolin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Caolin (opaco)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Rayo (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Liquen Caqui (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Azul Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Gris Rayo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Liquen Caqui"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto"
+  }
+]

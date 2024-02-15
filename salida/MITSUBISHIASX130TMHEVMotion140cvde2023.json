@@ -1,0 +1,374 @@
+[
+  {
+    "feature": "Car",
+    "value": "MITSUBISHI ASX"
+  },
+  {
+    "feature": "Precio",
+    "value": "25990"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "140 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "536 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "196 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "48 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "130T MHEV Motion"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4228 x 1797 x 1573mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "536 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1247 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "140 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "103 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "196 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado MOTION (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: CMF-B, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,3 litros ( 1.333 cc ) , cuatro cilindros en línea con 72,2 mm de diámetro y 81,3 mm de carrera ; código del motor: HR13DDT N0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 196 km/h de velocidad máxima y 10,3 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 140 CV ( CEE ) 103 kW @ 4.500 rpm (potencia max) 260 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión con barra estabilizadora mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo , código transmisión: TX26M6Fg2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM/LW, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 215 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 96 y baja resitencia a la rodadura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 17 pulgadas de diámetro y 6,5 pulgadas de ancho llanta 'structure', 43,2 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 4.340,28, 981,73 y IVA de IVA IVA al 21,00 % 4.340,28 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en aluminio y cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.228 mm de largo, 1.797 mm de ancho, 1.573 mm de alto, 173 mm de altura libre sobre el suelo sin carga, 2.639 mm de batalla, 1.561 mm de ancho de vía delantero, 1.547 mm de ancho de vía trasero, 11.100 mm de diámetro de giro entre bordillos, 2.003 y 78,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.260 mm de anchura en las caderas (delante) y 1.372 mm de anchura en los hombros (delante)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 536 litros (hasta las ventanas con asientos montados) y 1.275 litros (hasta el techo con asientos plegados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo y ajuste longitudinal manual con banqueta fija, respaldo abatible asimétrico y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 5,7 l/100km (mixto), 17,5 km/l  (mixto) y 842 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de tela Negra/Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Charcoal (Sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Royal (Metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Crystal (Metalizado Especial)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Steel (Metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Onyx (Metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Sunrise (Metalizado Especial)"
+  }
+]

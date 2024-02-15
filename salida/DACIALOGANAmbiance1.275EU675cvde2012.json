@@ -1,0 +1,366 @@
+[
+  {
+    "feature": "Car",
+    "value": "DACIA LOGAN"
+  },
+  {
+    "feature": "Precio",
+    "value": "9180"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "75 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "510 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "14.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "162 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "5.8 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Ambiance 1.2 75 EU6"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4346 x 1733 x 1517mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "510 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "974 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Distribución",
+    "value": "Doble árbol de levas en cabeza (DOHC)"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "75 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "55 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "14.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "162 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "7.4 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "4.9 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "5.8 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado AMBIANCE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo sedán con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: RN B, carrocería & puertas (local): sedán de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco con dos de ellos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,1 litros ( 1.149 cc ) , cuatro cilindros en línea con cuatro válvulas por cilindro, 69,0 mm de diámetro, 76,8 mm de carrera, relación de compresión: 9,8 y distribución de doble árbol de levas en cabeza (DOHC) ; código del motor: D4F 732"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 162 km/h de velocidad máxima y 14,5 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 75 CV ( CEE ) 55 kW @ 5.500 rpm (potencia max) 107 Nm de par máximo @ 4.250 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo , código transmisión: JH3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM/LW, reproductor de CD, RDS y lector de CD para MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras laterales en  negro/gris (sin pintar)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 15 pulgadas de diametro, 185 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 88"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) y ajustable desde el interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 15 pulgadas de diámetro y 6,0 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y incluye protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%) y Impuesto de Matriculación (4,75%)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( un )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja y bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.346 mm de largo, 1.733 mm de ancho, 1.517 mm de alto, 155 mm de altura libre sobre el suelo sin carga, 2.634 mm de batalla, 1.493 mm de ancho de vía delantero, 1.476 mm de ancho de vía trasero y 10.820 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 900 mm de altura entre banqueta-techo (delante), 868 mm de altura entre banqueta-techo (detrás), 1.417 mm de anchura en las caderas (delante), 1.434 mm de anchura en las caderas (detrás), 1.387 mm de anchura en los hombros (delante) y 1.389 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 510 litros (hasta las ventanas con asientos montados) y 1.250 litros (hasta el techo con asientos plegados) ( medición ISO )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 7,4 l/100km (urbano), 4,9 l/100km (extraurbano), 5,8 l/100km (mixto), 13,5 km/l (urbano), 20,4 km/l  (extraurbano), 17,2 km/l  (mixto) y 862 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería en gris oscuro (tela)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Cobalto (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Marino (opaco)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Beige Ceniza (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Glaciar (opaco)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Platino (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Nacarado (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fuego (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto"
+  }
+]

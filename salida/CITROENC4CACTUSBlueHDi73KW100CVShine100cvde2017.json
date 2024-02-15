@@ -1,0 +1,434 @@
+[
+  {
+    "feature": "Car",
+    "value": "CITROEN C4 CACTUS"
+  },
+  {
+    "feature": "Precio",
+    "value": "21250"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "100 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "358 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "184 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "3.6 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "45 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "BlueHDi 73KW 100CV Shine"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4157 x 1729 x 1530mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "358 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1070 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "100 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "73 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "184 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "4.2 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "3.3 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "3.6 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SHINE (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: PF1, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,6 litros ( 1.560 cc ) , cuatro cilindros en línea con dos válvulas por cilindro, 75,0 mm de diámetro y 88,3 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diesel y Combustible primario: diesel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 184 km/h de velocidad máxima y 10,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 100 CV ( CEE ) 73 kW @ 3.750 rpm (potencia max) 254 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS y pantalla táctil pantalla color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 7,0 \" con información por mapa completo y voz, control mediante pantalla táctil y información de tráfico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 205 mm de ancho, 50 % de perfil y índice de velocidad: V con índice de carga: 89"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aleación ligera de 17 pulgadas de diámetro y 7,0 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con radar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 3.688,02 y 0,00"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 24 meses y ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de luz ambiental"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de tipo automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.157 mm de largo, 1.729 mm de ancho, 1.530 mm de alto, 2.595 mm de batalla, 1.477 mm de ancho de vía delantero, 1.477 mm de ancho de vía trasero y 10.900 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.420 mm de anchura en las caderas (delante) y 1.392 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 358 litros (hasta las ventanas con asientos montados) y 1.170 litros (hasta el techo con asientos plegados) ( medición VDA )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 4,2 l/100km (urbano), 3,3 l/100km (extraurbano), 3,6 l/100km (mixto), 23,8 km/l (urbano), 30,3 km/l  (extraurbano), 27,8 km/l  (mixto) y 1.250 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Armonía interior Habana"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbump@ Chocolate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbump@ Duna"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Armonía gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Armonía Habana"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Báltico (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Perla nacarado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Platino (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 17\" Negras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Obsidien"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura \"Blanco Perla Nacarado\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanco Banquise"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada/opaca (salvo Rojo Adén)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Adén"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Park Assist con sensor de aparcamiento delantero + cámara de visión trasera en pantalla táctil"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto tipo galleta"
+  }
+]

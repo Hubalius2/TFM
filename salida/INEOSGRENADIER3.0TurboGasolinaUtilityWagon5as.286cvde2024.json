@@ -1,0 +1,526 @@
+[
+  {
+    "feature": "Car",
+    "value": "INEOS GRENADIER"
+  },
+  {
+    "feature": "Precio",
+    "value": "73243"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "286 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "160 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "90 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "3.0 Turbo Gasolina Utility Wagon 5 as."
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4683 x 1930 x 2036mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2665 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "286 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "210 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "160 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno comercial con cabina sencilla y 5 puertas, techo bajo, batalla corta normal, volante al lado izquierdo, carrocería & puertas (local): todoterreno comercial de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente con con sistema de control de descenso control de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,0 litros ( 2.998 cc ) , seis cilindros en línea con 82,0 mm de diámetro y 94,6 mm de carrera ; código del motor: B58"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 160 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 286 CV ( CEE ) 210 kW @ 4.750 rpm (potencia max) 450 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera de eje rígido con barra estabilizadora mediante muelle helicoidal con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con reductora, paso a modo manual y palanca en el suelo , código transmisión: ZF 8HP51"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con pantalla a color de 12,30 \" con control mediante pantalla táctil 31,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), 12.711,59 y IVA de I.V.A. IVA al 21,00 % 12.711,59 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y apertura del maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con intermitencia variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.683 mm de largo, 1.930 mm de ancho, 2.036 mm de alto, 2.922 mm de batalla, 1.645 mm de ancho de vía delantero, 1.645 mm de ancho de vía trasero, 13.500 mm de diámetro de giro entre bordillos, 874 mm de voladizo posterior, 2.146 y 84,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo todo terreno de 17 pulgadas de diametro, 265 mm de ancho, 70 % de perfil y índice de velocidad: S con índice de carga: 116 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante ajustable desde el exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 17 pulgadas de diámetro y 8,0 pulgadas de ancho 43,2 y 20,3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante ( fabricado por Recaro) ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 13,2, 15,3, 7,6, 6,5, 18 y 15"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Rough"
+  },
+  {
+    "feature": "Informacion",
+    "value": "TECHO EN CONTRASTE, PINTADO. Inky Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "TECHO EN CONTRASTE, PINTADO. Scottish White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros con calefacción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Driver's de cuero Saddle"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de cuero, Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de cuero, Grey/Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puntos de recarga auxiliares"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de Sonido Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma antirrobo e inmovilizador avanzados (cat. 1 Thatcham)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Barras interiores Utility"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería auxiliar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Brújula con altímetro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Caja de almacenamiento en la rueda de repuesto con cierre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cajón de almacenamiento central con cerradura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "CHASIS DE LARGUEROS EN CONTRASTE, PINTURA ELECTROSTÁTICA. Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "CHASIS DE LARGUEROS EN CONTRASTE, PINTURA ELECTROSTÁTICA. Red"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de herramientas exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Filtro de combustible de gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Leather Trim - Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Leather Trim - Grey/Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Líquido limpiaparabrisas calefactable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Smooth"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación eléctrica y panel de interruptores auxiliares de alta capacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Separador diésel/agua"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Toma de aire elevada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Utility Trim"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventanillas Safari"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bola de remolque de 50 mm, abrazadera y componentes electrónicos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bola de remolque fija y componentes eléctricos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Britannia Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cabestrante integrado de gran resistencia, 5,5 toneladas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristal tintado termorreflectante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Donny Grey Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eldoret Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Escalera de acceso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque y componentes eléctricos NATO Pintle"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inky Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llanta de acero de 18”"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llanta de aleación de 17”"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 18”"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Magic Mushroom"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumático BFGoodrich All-Terrain T/A KO2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Queen's Red Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores exteriores eléctricos con calefacción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Scottish White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sela Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shale Blue Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sterling Silver Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tuerca antirrobo de la rueda"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventanillas laterales traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bloqueos del diferencial delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Power Take-Off, 400W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de aparcamiento frontal (sensor de aparcamiento)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de visión trasera"
+  }
+]

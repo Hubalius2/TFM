@@ -1,0 +1,378 @@
+[
+  {
+    "feature": "Car",
+    "value": "ABARTH 500"
+  },
+  {
+    "feature": "Precio",
+    "value": "43000"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "155 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "185 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7 segundos"
+  },
+  {
+    "feature": "Versión",
+    "value": "500e Scorpionissima 42kwh 113kw 154cv"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "3"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3673 x 1682 x 1518mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "185 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1290 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "155 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "155 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "114 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "18.1 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "253 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "42.2 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "915 min (undefined% - undefined%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida (85.0 kW)",
+    "value": "34 min (0% - 80%)"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "13 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7 segundos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SCORPIONISSIMA, Edición limitada: Edición Limitada (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón de 3 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): berlina con portón de 3 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 7,0 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 155 CV ( CEE ) 114 kW y 235 Nm de par máximo @ 0 rpm (par max) ; 155 CV (potencia máx. motor eléctrico), 114 kW (potencia máx. motor eléctrico) y 235 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión con barra estabilizadora mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces ( JBL ) con sonido surround mejora 3D"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 200 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,25 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 26,0 y 999"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 18 pulgadas de diametro, 205 mm de ancho, 40 % de perfil y índice de velocidad: W con índice de carga: 86 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro bi-tono, 45,7 y 0R4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 7.462,81 y 0,00 IVA al 21,00 % 7.462,81 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en ante y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen controles en pantalla táctil y calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.673 mm de largo, 1.682 mm de ancho, 1.518 mm de alto, 2.322 mm de batalla, 1.470 mm de ancho de vía delantero, 1.460 mm de ancho de vía trasero, 9.700 mm de diámetro de giro entre bordillos, 1.900 y 74,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 185 litros (hasta las ventanas con asientos montados) y 550 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros, dos reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo, térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante deportivo, térmico y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco/deportivo de orientación delantera con banqueta fija y respaldo abatible simétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 312 Km de autonomía (combinado) (fuente: Euro 6.4 )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de carga MODO 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bolsa cable MODO 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Poisson (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Acido (metalizado)"
+  }
+]

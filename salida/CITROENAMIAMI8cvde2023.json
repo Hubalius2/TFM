@@ -1,0 +1,238 @@
+[
+  {
+    "feature": "Car",
+    "value": "CITROEN AMI"
+  },
+  {
+    "feature": "Precio",
+    "value": "7990"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "8 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "45 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "AMI"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "2410 x 1390 x 1525mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "2"
+  },
+  {
+    "feature": "Peso",
+    "value": "471 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "8 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "8 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "6 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "11.9 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "75 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "6.3 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "240 min (0% - 100%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "45 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado AMI (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo cuadriciclo de 2 puertas, batalla corta, volante al lado izquierdo, código de plataforma: PF1, carrocería & puertas (local): cuadriciclo de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 45 km/h de velocidad máxima, 10,0 segs de aceleración 0-100 km/h y 45 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 8 CV ( CEE ) 6 kW ; 8 CV (potencia máx. motor eléctrico) y 6 kW (potencia máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar y mediante muelle helicoidal con ruedas independientes, suspensión trasera de brazos tirados longitudinales y mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 1.386,70, 0,00 y IVA de IVA IVA al 21,00 % 1.386,70 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 2.410 mm de largo, 1.390 mm de ancho, 1.525 mm de alto, 1.728 mm de batalla, 1.210 mm de ancho de vía delantero, 1.210 mm de ancho de vía trasero y 7.200 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: ( medición propia del fabricante) 63 l de almacenamiento delantero y 2,2 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante en material plástico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 14 pulgadas de diametro, 155 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 79 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) y ajustable desde el exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 14 pulgadas de diámetro y 5,5 pulgadas de ancho 35,6 y 14,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras traseras, puerta pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual y ajuste longitudinal manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ):"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro mistral"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blue solido"
+  }
+]

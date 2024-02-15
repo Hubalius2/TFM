@@ -1,0 +1,394 @@
+[
+  {
+    "feature": "Car",
+    "value": "SWM G01F"
+  },
+  {
+    "feature": "Precio",
+    "value": "37194"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gas licuado (GLP)"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "131 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "570 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "54 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.5T Premium ECO"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4670 x 1855 x 1740mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "570 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1620 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gas licuado (GLP)"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "131 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "96 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado F PREMIUM (clasificación JATO: mediano M2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.499 cc ) , cuatro cilindros en línea ; código del motor: SWD15T"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: GLP, combustible adicional: sin plomo y Combustible primario: gas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima y 10,0 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 131 CV 96 kW @ 5.400 rpm (potencia max) 215 Nm de par máximo @ 2.000 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de seis marchas con paso a modo manual y palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nueve altavoces con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 18 pulgadas de diametro, 225 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 100"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 6,5 pulgadas de ancho bi-tono, 45,7 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de menor tamaño que el resto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 5.753,90, 4.041,43 y IVA de I.V.A. IVA al 21,00 % 5.753,90 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en aluminio y cuero sintético ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.670 mm de largo, 1.855 mm de ancho, 1.740 mm de alto, 197 mm de altura libre sobre el suelo sin carga, 2.750 mm de batalla, 1.575 mm de ancho de vía delantero y 1.575 mm de ancho de vía trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 570 litros (hasta las ventanas con asientos montados) ( medición propia del fabricante)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( tres ajustes eléctricos ) térmico, ventilado, eléctrico y ajuste eléctrico en altura con ajuste eléctrico del respaldo, asiento delantero del acompañante individual, térmico y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta abatible en una pieza, respaldo abatible asimétrico y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 9,3 l/100km (mixto), 10,8 km/l  (mixto) y 581 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de piel negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Azul (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Azul bicolor (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanca (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanca bicolor (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Gris (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Gris bicolor (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Negra (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Roja (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Roja bicolor (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "2 años extensión de garantía"
+  }
+]

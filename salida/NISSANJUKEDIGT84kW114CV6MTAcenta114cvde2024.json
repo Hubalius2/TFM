@@ -1,0 +1,390 @@
+[
+  {
+    "feature": "Car",
+    "value": "NISSAN JUKE"
+  },
+  {
+    "feature": "Precio",
+    "value": "25775"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "114 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "422 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "46 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "DIGT 84 kW 114 CV 6MT Acenta"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4210 x 1827 x 1595mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "422 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1186 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "114 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "84 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ACENTA (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: RN B, carrocería & puertas (local): crossover de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,0 litros ( 999 cc ) , tres cilindros en línea con 72,2 mm de diámetro y 81,3 mm de carrera ; código del motor: HR10DDT"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima y 10,7 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 114 CV ( CEE ) 84 kW @ 5.000 rpm (potencia max) 200 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 215 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 96 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho bi-tono, 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 4.304,37, 973,61 y IVA de IVA IVA al 21,00 % 4.304,37 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.210 mm de largo, 1.827 mm de ancho, 1.595 mm de alto, 2.636 mm de batalla, 1.555 mm de ancho de vía delantero, 10.570 mm de diámetro de giro entre bordillos, 11.000 mm de diámetro de giro entre paredes, 1.983, 36,1 y 78,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 422 litros (hasta las ventanas con asientos montados) y 1.189 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,8 l/100km (mixto), 17,2 km/l  (mixto) y 793 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Connect"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Textil Negro Kuro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Burgundy Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diamond Silver Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuji Sunset Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Katana Grey Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lunar White Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Magnetic Blue Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Midnight Black Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura especial metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida (Sapporo white)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sapporo White Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Skline Grey Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Yokohama Red Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Comfort"
+  }
+]

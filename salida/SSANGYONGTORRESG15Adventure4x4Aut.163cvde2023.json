@@ -1,0 +1,318 @@
+[
+  {
+    "feature": "Car",
+    "value": "SSANGYONG TORRES"
+  },
+  {
+    "feature": "Precio",
+    "value": "43500"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "163 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "191 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "G15 Adventure 4x4 Aut."
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4700 x 1890 x 1720mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1610 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "163 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "120 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "191 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ADVENTURE (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: X100, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frenos de disco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso y selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.497 cc ) , cuatro cilindros en línea con 76,0 mm de diámetro y 82,5 mm de carrera ; código del motor: G15T"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 191 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 163 CV ( CEE ) 120 kW @ 5.000 rpm (potencia max) 280 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de seis marchas con paso a modo manual y palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 6.729,28, 4.726,52 y 6.729,28 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.700 mm de largo, 1.890 mm de ancho, 1.720 mm de alto, 200 mm de altura libre sobre el suelo sin carga, 2.680 mm de batalla, 1.610 mm de ancho de vía delantero, 1.630 mm de ancho de vía trasero y 10.840 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 1.662 litros (hasta el techo con asientos plegados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 20 pulgadas de diametro, 245 mm de ancho, 45 % de perfil y índice de velocidad: Y con índice de carga: 103 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante con ajuste eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 50,8 y 21,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de menor tamaño que el resto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico térmico, ventilado, eléctrico y ajuste eléctrico en altura con ajuste eléctrico del respaldo, asiento delantero del acompañante individual con ajuste eléctrico térmico, ventilado y eléctrico con ajuste eléctrico del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas térmicos de orientación delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 9,1 l/100km (mixto), 11,0 km/l  (mixto), 549 Km de autonomía (combinado), 10,8, 9,3, 8,4, 11,9, 7,7, 13,0, 10,0, 10,0, 22, 28, 31 y 24"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Vegano Siena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Vegano Tundra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dandy Blue Azul Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Forest Green Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grand White Blanco Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iron Metal Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Platinum Gris Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Space Black Negro Metalizado"
+  }
+]

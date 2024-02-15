@@ -1,0 +1,506 @@
+[
+  {
+    "feature": "Car",
+    "value": "FIAT PUNTO"
+  },
+  {
+    "feature": "Precio",
+    "value": "17680"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "120 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "275 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "195 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "6.6 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "45 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.4 16v TJet 120 CV Sport"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4030 x 1687 x 1490mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "275 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1170 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Distribución",
+    "value": "Doble árbol de levas en cabeza (DOHC)"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "120 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "88 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "195 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "8.7 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "5.4 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "6.6 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SPORT (clasificación JATO: deportivo S3)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Berlina con portón con 5 puertas batalla corta, volante al lado izquierdo, código de plataforma: SCCS y carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco y dos de ellos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,4 litros ( 1.368 cc ) , 4 cilindros en línea con cuatro válvulas por cilindro, 72,0 mm de diámetro, 84,0 mm de carrera, relación de compresión: 9,8, doble árbol de levas en cabeza (DOHC) y distribución variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 195 km/h de velocidad máxima y 8,9 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 120 CV (CEE) - 88 kW @ 5.000 rpm , par máximo: 206 Nm @ 2.000 rpm"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora y muelles helicoidales ; ruedas independientes, suspensión trasera de eje de torsión con muelles helicoidales ; ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión manual de cinco velocidades con palanca en suelo, 3,909 :1 relación de la primera velocidad, 2,238 :1 relación de la segunda velocidad, 1,444 :1 relación de la tercera velocidad, 1,029 :1 relación de la cuarta velocidad, 0,838 :1 relación de la quinta velocidad y 3,733 :1 relación de la marcha atrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio ( Blaupunkt ) con radio AM/FM/LW, reproductor de CD y RDS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con mandos en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros, traseros 205 mm de ancho, 45 % de perfil y índice de velocidad: V tipo convencional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior lado conductor y acompañante eléctrico, desempañable y Pintado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras de aleación ligera, 17 pulgadas de diámetro y 6,5 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frenos ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina, delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, lado acompañante y asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos I.V.A. (16%), Impuesto de Matriculación (4,75%) y 16.984,51"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: duración 24 meses, distancia ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura del maletero a distancia con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inmovilizador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros halógenos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia inc. apertura del maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida tipo con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con controles digitales con filtro de partículas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona con climatizador automático auto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros ; uno de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.030 mm de largo, 1.687 mm de ancho, 1.490 mm de alto, 2.510 mm de batalla, 1.473 mm de ancho de vía delantero, 1.466 mm de ancho de vía trasero y 11.000 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 985 mm de altura entre banqueta-techo (delante), 957 mm de altura entre banqueta-techo (detrás), 1.431 mm de anchura en las caderas (delante), 1.414 mm de anchura en las caderas (detrás), 1.365 mm de anchura en los hombros (delante) y 1.300 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 275 litros (hasta las ventanas con asientos montados) y 1.030 litros (hasta el techo con asientos plegados)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en F y R ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste en altura manual, asiento delantero del acompañante deportivo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas , tipo banco partido y orientados delantero ; banqueta partida con respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ECE 99/100 : 8,7 l/100km (urbano), 5,4 l/100km (extraurbano) y 6,6 l/100km (mixto)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Piel Deportiva"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reposacabezas anteriores activos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tercer reposacabezas posterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo sonido Hi-Fi"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Blue&Sound"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Tech"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radio CD con MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Axel negro/negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargo box"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos bicolor negro/acero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos color blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel deportiva color negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preinstalación cargador de CD´s"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar abrible Skydome"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul New Orleans (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Abarth"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Doble franja cuadros en techo y capó blanca"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Doble franja cuadros en techo y capó negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Doble franja cuadros en techo y capó roja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos color negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos cromados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral alta circuito blanco 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral alta circuito negro 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral alta circuito rojo 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral alta cuadros blanca 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral alta cuadros negra 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral alta cuadros roja 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral baja cuadros gris linea blanca 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral baja cuadros gris linea negra 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral baja cuadros gris linea roja 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja lateral Italia 5p"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Chemical (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas aleación 17\" color Chrome Shadow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas aleación 17\" diseño 15 radios en color Silver + neumáticos 205/45 V"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Crossover (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Rally"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura extraserie"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura pastel especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Exotica (extraserie)"
+  }
+]

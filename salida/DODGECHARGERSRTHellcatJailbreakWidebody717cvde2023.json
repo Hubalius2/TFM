@@ -1,0 +1,558 @@
+[
+  {
+    "feature": "Car",
+    "value": "DODGE CHARGER"
+  },
+  {
+    "feature": "Precio",
+    "value": "148917"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "717 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "470 litros"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "70 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "SRT Hellcat Jailbreak Widebody"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5105 x 1989 x 1463mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "470 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2150 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "717 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "535 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SRT (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo sedán con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: LD, carrocería & puertas (local): sedán de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 6,2 litros ( 6.166 cc ) , ocho cilindros en V con 103,9 mm de diámetro y 90,9 mm de carrera ; código del motor: ESD"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 717 CV ( SAE ) 535 kW @ 6.000 rpm (potencia max) 881 Nm de par máximo @ 4.800 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: 8HP90 ( TorqueFlite® )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diecinueve altavoces ( Harman/Kardon ) con subwoofer y sonido surround"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, Tarjeta digital, radio digital, radio por satélite y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 8,40 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 21,3 y 60"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el maletero/parte inferior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 20 pulgadas de diametro, 305 mm de ancho, 35 % de perfil y índice de velocidad: W (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático y antideslumbrante automático, retrovisor exterior del acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 11,0 pulgadas de ancho 50,8, 27,9 y WSC"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 23.037,00, 16.180,75 y IVA de IVA IVA al 21,00 % 23.037,00 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 200.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y stop"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable eléctricamente, en altura y en profundidad controles táctiles"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y memoria de posición de los asientos incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.105 mm de largo, 1.989 mm de ancho, 1.463 mm de alto, 3.048 mm de batalla, 1.666 mm de ancho de vía delantero, 1.659 mm de ancho de vía trasero, 11.890 mm de diámetro de giro entre bordillos, 2.101 y 82,7"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 980 mm de altura entre banqueta-techo (delante), 930 mm de altura entre banqueta-techo (detrás), 1.427 mm de anchura en las caderas (delante), 1.425 mm de anchura en las caderas (detrás), 1.062 mm de espacio para las piernas (delante), 1.019 mm de espacio para las piernas (detrás), 1.511 mm de anchura en los hombros (delante) y 1.471 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 470 litros (hasta las ventanas con asientos montados) ( medición EPA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, dos reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste eléctrico ( cinco ajustes eléctricos ) térmico, ventilado, memorizado, memorizado y eléctrico con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta, asiento delantero del acompañante deportivo, térmico, ventilado y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco térmicos de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 14,6 l/100km (mixto), 6,8 km/l  (mixto) y 480 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad grises Hammerhead"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad rojos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad sepia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcantara/Laguna negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos negros/Demonic Red rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Encuadernación de tapete gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Encuadernación de tapete rojo Demonic Red"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Encuadernación de tapete sepia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo interior de gamuza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos de cuero Performance con logotipo Hellcat Laguna/Demonic Red rojo/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos de cuero Performance con logotipo Hellcat Laguna/Hammerhead gris/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos de cuero Performance con logotipo Hellcat Laguna/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos de cuero Performance con logotipo Hellcat Laguna/Sepia/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos Performance Alcantara/Laguna/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carbon Fiber Interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dub Plate Interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hectic Mesh Interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Insignia exterior Brass Monkey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Insignia exterior negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Insignia exterior roja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Insignia exterior Satin Chrome"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de gráficos en negro satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante de cuero SRT con LED blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante SRT Alcantara con LED blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante SRT Alcantara con LED rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20x11 Brass Monkey Ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20X11 Carbon Black Lightweight Ruedas Ligero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20X11 Carbon Black Ruedas de aluminio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20X11 Carbon Black Warp Speed Ruedas de velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20X11 Granite Lightweight Ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20X11 Satin Carbon Warp Speed Ruedas de velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón trasero SRT negro satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "B5 Blue azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capucha de satén trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Destroyer Grey gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "F8 Green verde"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frostbite azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Go Mango naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Granite gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Octane Red rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pitch Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plum Crazy Morado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raya doble - Azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raya doble - Carbón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raya doble - Gunmetal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raya doble - Plata"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raya doble - Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rayas para capó/techo/tapa de cajuela SRT"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de bajos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sinamon Stick naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sublime Green verde"
+  },
+  {
+    "feature": "Informacion",
+    "value": "TorRed rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Triple Nickel gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "White Knuckle blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno grises plomizo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno naranjas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno negras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía AEC 48 meses"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía AEC 60 meses"
+  }
+]

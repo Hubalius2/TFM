@@ -1,0 +1,594 @@
+[
+  {
+    "feature": "Car",
+    "value": "SKODA FABIA"
+  },
+  {
+    "feature": "Precio",
+    "value": "21350"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "80 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "380 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "15.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "175 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "40 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.0 MPI 59KW 80CV Selection"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4108 x 1780 x 1459mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "380 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1133 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "80 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "59 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "15.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "175 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SELECTION (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB A0, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,0 litros ( 999 cc ) , tres cilindros en línea con 74,5 mm de diámetro y 76,4 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 175 km/h de velocidad máxima y 15,7 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 80 CV ( (ISO) 59 kW @ 5.000 rpm (potencia max) 160 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces con sonido surround"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, Tarjeta digital, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 15 pulgadas de diametro, 185 mm de ancho, 65 % de perfil y índice de velocidad: H con índice de carga: 88 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 15 pulgadas de diámetro y 5,5 pulgadas de ancho bi-tono, 38,1, 14,0 y PJ2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 3.705,25, 0,00 y IVA de IVA IVA al 21,00 % 3.705,25 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del conductor y del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.108 mm de largo, 1.780 mm de ancho, 1.459 mm de alto, 2.564 mm de batalla, 1.525 mm de ancho de vía delantero, 1.509 mm de ancho de vía trasero, 10.700 mm de diámetro de giro entre paredes, 1.954, 35,1 y 76,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.032 mm de altura entre banqueta-techo (delante), 976 mm de altura entre banqueta-techo (detrás), 1.428 mm de anchura en las caderas (delante) y 1.417 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 380 litros (hasta las ventanas con asientos montados) y 1.190 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,2 l/100km (mixto), 19,1 km/l  (mixto) y 763 Km de autonomía (combinado) (fuente: Calculated )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Función de carga larga para el asiento del acompañante (respaldo del asiento completamente abatible)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Comfort Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Conducción Asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cuero pequeño (volante multif. cuero de 2 radios, con calefacción, pomo de palanca de cambios y freno mano cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cuero pequeño (volante multif. deportivo de cuero de 3 radios con calefacción, pomo de palanca de cambios y freno mano cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cuero pequeño (volante multif. deportivo de cuero de 3 radios, pomo de palanca de cambios y freno mano cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Charging"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Sistema de Navegación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de cambio de carril Side Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de carga USB-C a Apple Lightning (Elimina cable de carga USB-C a USB-C)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado \"EASY START\" con mando a distancia (func. SAFELOCK) alarma con vigilancia del habitáculolo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatronic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "KESSY - Cierre centralizado con función de encendido/apagado del motor sin llave (sin función SAFELOCK)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "KESSY (función SAFELOCK) y alarma con vigilancia del habitáculo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Luz y Visibilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Luz y Visibilidad Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack PARK & GO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack transporte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Winter"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de regulación de la velocidad con limitador de velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo de cristal panorámico (sin estuche para gafas, sin cortinilla parasol)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Loft Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suelo de carga variable en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Energy (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Race (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Race con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Race Metalizado Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Candy (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Candy con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Candy Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Luna (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Luna con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Luna Metalizado Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Luna Metalizado Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Graphite (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Graphite con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas aleación ligera \"ROTARE\", pint. en Negro Metal., 5,5J x 15 + tapacubos aerod. incl. resist. rodadura superopt."
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"LIBRA\", Negro, torneado brillante, 7J x 18\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"PROXIMA AERO\", pint. en Negro Metal., 6J x 16, incl. resist. a rodadura superoptimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"PROXIMA AERO\", pint. Gris Metalizado, 6J x 16, incl. resist. a rodadura superoptimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"Proxima\", Plata, 6J x 16, incl. resistencia a rodadura superoptimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Phoenix (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Phoenix con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Mágico Efecto Perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Mágico Efecto Perla Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Cromo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cromo II"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada con techo negro/gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Uniforme"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura uniforme con techo negro/gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Brillante (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata brillante con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Brilliant Metalizado Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Velvet (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Velvet con techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Velvet Metalizado Gris Graphite Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tren de rodaje deportivo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Virtual Cockpit 10\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 60.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 90.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 5 años y 100.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de marcha atrás con boquilla de lavaparabrisas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de acero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros y traseros"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "feature": "Car",
+    "value": "JEEP RENEGADE"
+  },
+  {
+    "feature": "Precio",
+    "value": "34100"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "351 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "188 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "48 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "eHybrid 1.5 96kW130CV Limited ATX"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4236 x 1805 x 1667mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "351 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1420 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "96 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "188 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado LIMITED (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: SCCS, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera con con sistema de control de descenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.469 cc ) , cuatro cilindros en línea con 71,2 mm de diámetro y 92,2 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 188 km/h de velocidad máxima y 9,5 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 130 CV ( CEE ) 96 kW @ 5.500 rpm (potencia max) 240 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, Tarjeta digital, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo all weather de 17 pulgadas de diametro, 215 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 96 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho bi-tono, 43,2, 17,8 y 1MD, llantas traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho bi-tono, 43,2, 17,8 y 1M6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 5.694,63, 1.288,07 y IVA de IVA IVA al 21,00 % 5.694,63 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en aluminio y cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.236 mm de largo, 1.805 mm de ancho, 1.667 mm de alto, 175 mm de altura libre sobre el suelo sin carga, 2.570 mm de batalla, 1.541 mm de ancho de vía delantero, 1.540 mm de ancho de vía trasero y 11.070 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.045 mm de altura entre banqueta-techo (delante), 1.029 mm de altura entre banqueta-techo (detrás), 1.348 mm de anchura en las caderas (delante), 1.319 mm de anchura en las caderas (detrás), 1.046 mm de espacio para las piernas (delante), 891 mm de espacio para las piernas (detrás), 1.419 mm de anchura en los hombros (delante) y 1.400 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 351 litros (hasta las ventanas con asientos montados) y 1.297 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( una ajuste eléctrico ) ajuste longitudinal manual, ajuste manual en altura y eléctrico de dos direcciones con ajuste manual del respaldo, asiento delantero del acompañante individual, abatible y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 5,7 l/100km (mixto), 17,5 km/l  (mixto), 842 Km de autonomía (combinado), 5,7, 6,1, 17,5, 16,4, 41 y 39"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Kit fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Caja telemática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Convenience"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Winter"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alpine White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alpine White + Techo negro (sólido bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bikini (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bikini + Techo negro (metalizado bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blue Shade (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blue Shade + Techo negro (metalizado bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Colorado Red (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Colorado Red + Techo negro (sólido bicolor)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Graphite Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Style"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Azul shade + Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Bikini"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Bikini + Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanco Alpine + Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura color Blanco Alpine"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura color Negro Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Gris Grafito"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Azul shade"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Rojo Colorado + Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Solid Black (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Visibility"
+  }
+]

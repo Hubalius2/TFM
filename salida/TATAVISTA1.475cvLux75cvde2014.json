@@ -1,0 +1,366 @@
+[
+  {
+    "feature": "Car",
+    "value": "TATA VISTA"
+  },
+  {
+    "feature": "Precio",
+    "value": "9297"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "75 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "232 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "16 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "5.9 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "44 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.4 75cv Lux"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3850 x 1695 x 1550mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "232 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1225 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Distribución",
+    "value": "Árbol de levas en cabeza (OHC)"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "75 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "55 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "16 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "8 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "4.7 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "5.9 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado LUX (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: SCCS, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco con dos de ellos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,4 litros ( 1.368 cc ) , cuatro cilindros en línea con dos válvulas por cilindro, 72,0 mm de diámetro, 84,0 mm de carrera, relación de compresión: 11,0 y distribución de árbol de levas en cabeza (OHC) ; código del motor: 750E4000"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 170 km/h de velocidad máxima y 16,0 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 75 CV ( CEE ) 55 kW @ 6.000 rpm (potencia max) 114 Nm de par máximo @ 3.250 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo, 3,909 :1 relación de la marcha atrás, 4,273 :1 relación de la primera velocidad, 2,238 :1 relación de la segunda velocidad, 1,520 :1 relación de la tercera velocidad, 1,156 :1 relación de la cuarta velocidad y 0,872 :1 relación de la quinta velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, reproductor de CD, RDS y lector de CD para MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras laterales en  color carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 14 pulgadas de diametro, 175 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 82 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aleación ligera de 14 pulgadas de diámetro y 5,0 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%) y Impuesto de Matriculación (4,75%)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero de tipo mecánico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con bombilla halógena y lente de superficie compleja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.850 mm de largo, 1.695 mm de ancho, 1.550 mm de alto, 165 mm de altura libre sobre el suelo sin carga, 2.470 mm de batalla, 1.450 mm de ancho de vía delantero, 1.440 mm de ancho de vía trasero, 10.000 mm de diámetro de giro entre bordillos y 10.600 mm de diámetro de giro entre paredes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 232 litros (hasta las ventanas con asientos montados) y 610 litros (hasta el techo con asientos plegados)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual con ajuste manual del respaldo, asiento delantero del acompañante individual, ajuste longitudinal manual y ajuste lumbar manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido de orientación delantera con banqueta partida y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 8,0 l/100km (urbano), 4,7 l/100km (extraurbano), 5,9 l/100km (mixto) y 746 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Negro/Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Artic Silver (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Brilliant Blue (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cavern Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Infinity Black (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mint White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Oro After Glow (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura mica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Spice Red"
+  }
+]

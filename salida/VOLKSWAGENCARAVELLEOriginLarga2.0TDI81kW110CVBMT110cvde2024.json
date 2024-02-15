@@ -1,0 +1,1118 @@
+[
+  {
+    "feature": "Car",
+    "value": "VOLKSWAGEN CARAVELLE"
+  },
+  {
+    "feature": "Precio",
+    "value": "50456"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "110 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "164 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "70 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Origin Larga 2.0 TDI 81kW 110CV BMT"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5304 x 1904 x 1990mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "8"
+  },
+  {
+    "feature": "Peso",
+    "value": "2168 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "110 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "81 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "164 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ORIGIN (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo monovolumen con 4 puertas, batalla larga, volante al lado izquierdo, código de plataforma: T6, carrocería & puertas (local): monovolumen de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.968 cc ) , cuatro cilindros en línea con 81,0 mm de diámetro y 95,5 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 164 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 110 CV ( CEE ) 81 kW @ 3.200 rpm (potencia max) 250 Nm de par máximo @ 1.250 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de brazos tirados longitudinales con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, reproductor de CD, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor, cinturón seguridad tercera fila en lado acompañante, cinturón seguridad tercera fila en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (9,75%), 8.103,90, 3.762,52 y 8.103,90 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero de tipo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de semi-automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.304 mm de largo, 1.904 mm de ancho, 1.990 mm de alto, 165 mm de altura libre sobre el suelo sin carga, 3.400 mm de batalla, 1.628 mm de ancho de vía delantero, 1.628 mm de ancho de vía trasero, 13.200 mm de diámetro de giro entre paredes, 2.297, 43,3 y 90,4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 16 pulgadas de diametro, 215 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 106 y baja resitencia a la rodadura (datos del neumático oficiales de la marca), neumáticos traseros de 16 pulgadas de diametro, 215 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 104 y baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 16 pulgadas de diámetro y 6,5 pulgadas de ancho 40,6 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado pasajero) ( deslizante )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura, tres reposacabezas en la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante tipo butaca, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco desmontables de orientación delantera con respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 7,9 l/100km (mixto), 12,7 km/l  (mixto), 886 Km de autonomía (combinado), 8,0, 12,5, 7,0, 14,3, 6,6, 15,2, 8,6, 11,6, 29, 34, 36 y 27"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de cambio de carril Side Assist incl. asistente de aviso de salida del carri Lane Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grupo óptico trasero LED, rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete complementario banqueta del acompañante doble"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de reconocimiento de señales de tráfico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "2 alfombrillas, de goma, en Negro Titanio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ajuste de altura para el asiento individual izquierdo en la cabina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ajuste de altura para el asiento individual izquierdo en la cabina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyo lumbar para asiento individual izquierdo en la 1ª fila de asientos (ajuste eléctrico)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyo lumbar para asiento individual izquierdo en la 1ª fila de asientos (ajuste manual)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento giratorio a la derecha, en la 1ª fila de asientos (sin ajuste de altura)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento giratorio a la izquierda, en la 1ª fila de asientos (sin regulación de altura)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefacción para asientos en la cabina, a izquierda y derecha, regulable por separado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipamiento de fumador: toma de corriente de 12 V con encendedor y cenicero en el tablero de instrumentos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 5 plazas = 2-3-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 5 plazas = 2-3-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 5 plazas = 2-3-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 6 plazas = 3-3-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 6 plazas = 3-3-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 9 plazas = 3-3-3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reposabrazos para el asiento izquierdo de la cabina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sin ajuste de altura para el asiento individual izquierdo y derecho en la cabina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapizado de asientos en cuero sintético, diseño \"Mesh\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de navegación Discover Media incl. Streaming & Internet"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tensión de servicio 12 V y toma de corriente de 230 V en el marco del asiento del conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Banco de acompañante doble a la derecha, con compartimento con cierre en elcajón del asiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Banqueta de 3 plazas, abatible y plegable, en la 2ª fila de asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Masa máxima autorizada 3200 kg con llantas de acero de 17\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 4 plazas = 2-2-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 5 plazas = 3-2-0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 6 plazas = 2-2-2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 7 plazas = 2-2-3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 7 plazas = 3-2-2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 8 plazas = 3-2-3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 9 plazas = 2-2-2-3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete 9 plazas = 3-3-3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta corrediza en el habitáculo/zona de carga, a laizquierda"
+  },
+  {
+    "feature": "Informacion",
+    "value": "4 llaves plegables con mano a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma antirrobo con vigilancia del habitáculo, bocina auxiliar y protección antirremolcado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amortiguación reforzada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Botiquín con triángulo de preseñalización y chaleco reflectante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador \"Air Care Climatronic\" con regulación de temperatura 3 zonas, filtro alérgenos, calefacción adicional y techo clima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador de 3 zonas Air Care Climatronic con panel decontrol adicional en el habitáculo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cortinillas parasol en las ventanillas laterales del habitáculo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida electromecánica para discapacitados (se necesita mucha menosfuerza de dirección)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros LED y grupo óptico trasero LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Herramientas de a bordo y gato, reforzados para vehículos con masa máxima autorizada de 3,2 t"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inscripción \"Caravelle\" en la aleta, sin inscripción en la parte trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interfaz eléctrica y unidad de control multifunción para uso externo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "LED-Hauptscheinwerfer mit LED-Tagfahrlicht"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz & visibilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portón trasero con abertura para ventanilla y cierre final asistido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radio \"Composition Media\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regleta de bornes eléctrica y preparación para unidad de control de funciones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulador de velocidad con limitador de velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento del suelo en moqueta en la cabina y en el habitáculo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de control de la presión de los neumáticos (medición en marcha)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de fijación de asientos modular"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión y amortiguación, estándar, barras estabilizadoras reforzadas delante y detrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapizado de asientos en tela, diseño \"Bricks\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventanillas delanteras de cristal termoaislante, ventanillas traseras y luneta oscurecida (Privacy)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Depósito de combustible con capacidad de 80 l"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión y amortiguación, reforzadas (aptas para carreteras en mal estado); masa máxima autorizada en eje delantero de 1680 kg"
+  },
+  {
+    "feature": "Informacion",
+    "value": "AA-Yellow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Azufre R1016"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Colza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Cromo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Espectral"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Retama R1032"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Saturno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Shell"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Tráfico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Tráfico R1023"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Zinc R1018"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Acero R5011"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Azur R5009"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Celeste R5015"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Danés"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Genciana"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Genciana R5010"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Hielo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul India"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Luminoso R5012"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Piedra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Ravenna Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Ravenna metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Scania"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Turquesa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Ultramar R5002"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Zafiro R5003"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bay Leaf Green metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Candy"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Grisáceo (R9002)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Puro R9010"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Tráfico R9016"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carcasas retrovisores exteriores y manillas puertas en el color de la carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Copper Bronze metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Deep Black efecto perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Deep Ocean"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grape Yellow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Franela"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Indio metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Luz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Luz R7035"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Guardabarros delante y detrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Guías de fijación sobre el techo (preparación para barras portacargas desplazables)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lila Azulado R4005"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"Aracaju\" 7J x 17, en Plata"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"Clayton\" 6,5J x 16"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"Devonport\" 7J x 17, en Plata"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera \"Posada\" 7J x 17 en Negro, superficie torneada brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Marfil"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Marfil Claro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Marfil Claro R1015"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Marfil R1014"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Masa máxima autorizada 3200 kg con llantas de acero de 16\" reforzadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mojave Beige metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Amarillo R2000"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Intenso R2011"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Luminoso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos 205/65 R16 C 107/105 T, resistencia a la rodadura optimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos 215/60 R17 C 109/107T, resistencia a la rodadura optimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos 235/55 R17 103H xl resistencia a la rodadura optimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos para todas las estaciones 215/65 R16 C 106/104 T, resistencia a la rodadura optimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos para todas las estaciones 235/55 R17 103H XL, resistencia a la rodadura superoptimizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ontario Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete cristal aislante acústico con cristales oscurecidos en habitáculo y parabrisas térmico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parachoques pintado en el color de la carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Peppermint Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura efecto perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura uniforme"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Réflex metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta corrediza eléctrica a izquierda y derecha"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta de dos hojas con lunetas, térmicas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pure Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retr. ext. ajustables/abatibles eléct. y térmicos, incl. función de plegado mediantellave de contacto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Cereza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Coca-Cola/2000"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Essent"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fortana metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fuego (R3000) llantasNegro Rallye"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fuego (R3000) llantasNegro Rallye, parachoquesBlanco Puro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fuego (R3000)parachoques Blanco Puro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Miele"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Pimiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Tornado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Tráfico R3020"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de aleación ligera con neumático normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Salsa Red"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Scarab Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Starlight Blue metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Summer Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunny Yellow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Surf Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapacubos central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tornillos de rueda con cierre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Turkish Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Abeto R6009"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Amarillento R6018"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Escorial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Frisia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Hoja R6002"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Holanda"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Iguana"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Industria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Java"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Menta R6029"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Musgo R6005"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Ópalo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Oscuro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Oscuro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Vaillant"
+  },
+  {
+    "feature": "Informacion",
+    "value": "2ª batería (75 Ah, AGM) con relé de separación y supervisión de la batería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "2ª batería con relé separador, libre de mantenimiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería con mayor capacidad y alternador estándar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería estándar y alternador con mayor capacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería y alternador con mayor capacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefacción adicional de agua con función de calefacción independiente programable y mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Filtro de aire para países con niveles altos de polvo con indicador de saturación del filtro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión y amortiguación, reforzadas (aptas paracarreteras en mal estado); masa máx. autor. eje delantero1680 kg"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión y amortiguación, reforzadas (según el modelo, la altura del vehículo puede aumentar en hasta 20 mm)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía, contrato 2 años, kilometraje total máximo 120 000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Anclaje del asiento para niños ISOFIX y Top Tether"
+  },
+  {
+    "feature": "Informacion",
+    "value": "As. maniobras remolque con ayuda de aparcamiento delantera y trasera y cámara marcha atrás (líneas dinámicas)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente para maniobras con remolque con cámara de marcha atrás (líneas dinámicas)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de marcha atrás \"Rear View\" (líneas estáticas)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero adaptativo ACC hasta 210 km/h y sistema de vigilancia \"Front Assist\" con frenado de emergencia en ciudad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dispositivo de remolque, desmontable y con cerradura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dispositivo de remolque, rígido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para dispositivo de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sin anclaje adicional del asiento para niños ISOFIX ni Top Tether"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de vigilancia \"Front Assist\" con función de frenada de emergencia en ciudad"
+  }
+]

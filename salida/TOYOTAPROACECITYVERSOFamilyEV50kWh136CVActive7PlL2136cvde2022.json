@@ -1,0 +1,370 @@
+[
+  {
+    "feature": "Car",
+    "value": "TOYOTA PROACE CITY VERSO"
+  },
+  {
+    "feature": "Precio",
+    "value": "45700"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "136 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "209 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "135 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "Family EV 50kWh 136CV Active 7Pl L2"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4753 x 1848 x 1880mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "209 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "7"
+  },
+  {
+    "feature": "Peso",
+    "value": "1664 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "136 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "136 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "100 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "23 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "245 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "50 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "1680 min (0% - 100%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida (100.0 kW)",
+    "value": "30 min (0% - 80%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "10 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "135 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado FAMILY ACTIVE (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo monovolumen con 5 puertas, batalla larga, volante al lado izquierdo, código de plataforma: EMP2, carrocería & puertas (local): monovolumen de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 135 km/h de velocidad máxima, 11,2 segs de aceleración 0-100 km/h y 135 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 136 CV ( CEE ) 100 kW y 260 Nm de par máximo ; 136 CV (potencia máx. motor eléctrico), 100 kW (potencia máx. motor eléctrico) y 260 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y ajustable en altura con pretensores, cinturón de seguridad delantero en asiento acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 7.931,41, 0,00 y IVA de IVA IVA al 21,00 % 7.931,41 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 180 meses y 250.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.753 mm de largo, 1.848 mm de ancho, 1.880 mm de alto, 160 mm de altura libre sobre el suelo sin carga, 2.975 mm de batalla, 1.563 mm de ancho de vía delantero, 1.577 mm de ancho de vía trasero, 11.500 mm de diámetro de giro entre bordillos, 12.000 mm de diámetro de giro entre paredes, 1.848, 1.848, 39,4, 72,8 y 72,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 209 litros (hasta las ventanas con asientos montados), 3.500 litros (hasta el techo con asientos plegados), 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 205 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 92 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 16 pulgadas de diámetro y 6,5 pulgadas de ancho 40,6 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado conductor) ( deslizante ), puerta trasera (lado pasajero) ( deslizante )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura, dos reposacabezas en la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual ( con mesa en el respaldo del asiento) con ajuste manual del respaldo, asiento delantero del acompañante individual, abatible y ajuste longitudinal manual con respaldo plegable a posición de mesa ( con mesa en el respaldo del asiento) con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo individual desmontables de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible individual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela gris Toyota Manhattan"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Navy (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Polar (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Falcon (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Misty (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Atomium (metalizado)"
+  }
+]

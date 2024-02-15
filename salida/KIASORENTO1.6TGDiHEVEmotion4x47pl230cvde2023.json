@@ -1,0 +1,426 @@
+[
+  {
+    "feature": "Car",
+    "value": "KIA SORENTO"
+  },
+  {
+    "feature": "Precio",
+    "value": "58935"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "230 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "179 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "193 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "67 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.6 TGDi HEV Emotion 4x4 7pl"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4810 x 1900 x 1700mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "179 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "7"
+  },
+  {
+    "feature": "Peso",
+    "value": "1847 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "230 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "230 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "169 kW"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "1.5 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "193 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado EMOTION (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQ4, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,6 litros ( 1.598 cc ) , cuatro cilindros en línea con 75,6 mm de diámetro y 89,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 193 km/h de velocidad máxima, 9,0 segs de aceleración 0-100 km/h y 120 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 230 CV ( CEE ) 169 kW @ 5.500 rpm (potencia max) 350 Nm de par máximo @ 1.500 rpm (par max) ; 60 CV (potencia máx. motor eléctrico), 44 kW (potencia máx. motor eléctrico) y 264 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de seis marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Doce altavoces ( Bose ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,30 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 26,2, 84 y 84"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 235 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 105"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 7,5 pulgadas de ancho bi-tono, 48,3 y 19,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (9,75%), 9.465,66, 4.394,77 y IVA de IVA IVA al 21,00 % 9.465,66 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 84 meses y 150.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( siete )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.810 mm de largo, 1.900 mm de ancho, 1.700 mm de alto, 174 mm de altura libre sobre el suelo sin carga, 2.815 mm de batalla, 1.646 mm de ancho de vía delantero, 1.656 mm de ancho de vía trasero, 11.560 mm de diámetro de giro entre bordillos, 13.270 mm de diámetro de giro entre paredes y 43,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.024 mm de altura entre banqueta-techo (delante), 994 mm de altura entre banqueta-techo (detrás), 1.411 mm de anchura en las caderas (delante), 1.399 mm de anchura en las caderas (detrás), 1.052 mm de espacio para las piernas (delante), 1.060 mm de espacio para las piernas (detrás), 1.500 mm de anchura en los hombros (delante), 1.475 mm de anchura en los hombros (detrás), 935 mm de espacio para la cabeza en 3ª fila, 1.080 mm de espacio para las caderas en 3ª fila, 752 mm de espacio para las piernas en 3ª fila, 1.345 mm de espacio para los hombros en 3ª fila, 36,8, 42,5, 29,6 y 53,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 179 litros (hasta las ventanas con asientos montados) y 1.966 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura, dos reposacabezas en la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico térmico, eléctrico, ajuste eléctrico en altura y eléctrico con ajuste eléctrico del respaldo, asiento delantero del acompañante individual, térmico y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo individual+banco térmicos de orientación delantera abatibles en el suelo y ajuste longitudinal manual con banqueta fija, respaldo abatible asimétrico y ajuste manual del respaldo con plegado remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 7,4 l/100km (mixto), 13,5 km/l  (mixto), 7,2, 13,9, 6,3, 15,9, 6,2, 16,1, 9,2, 10,9, 33, 37, 38 y 26"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aurora Black Pearl (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Clear White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Essence Brown (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gravity Blue (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mineral Blue (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura blanca sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Platinum Graphite (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Runway Red (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Silky Silver (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Snow White Pearl (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Steel Gray (metalizado)"
+  }
+]

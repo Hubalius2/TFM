@@ -1,0 +1,778 @@
+[
+  {
+    "feature": "Car",
+    "value": "SKODA KAROQ"
+  },
+  {
+    "feature": "Precio",
+    "value": "29470"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "521 litros"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.0 TDI 110kW 150CV Ambition"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4382 x 1841 x 15mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "521 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1387 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "110 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado AMBITION (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.968 cc ) , cuatro cilindros en línea con cuatro válvulas por cilindro, 81,0 mm de diámetro, 95,5 mm de carrera y relación de compresión: 16,2 ; código del motor: DFFA 16,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diesel y Combustible primario: diesel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( (ISO) 110 kW @ 3.500 rpm (potencia max) 340 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS y pantalla táctil pantalla color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 215 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 94 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aleación ligera de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con radar y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 4.921,43 y 1.113,18"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 24 meses y ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras y traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de luz ambiental"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aleación y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo combustión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.382 mm de largo, 1.841 mm de ancho, 170 mm de altura libre sobre el suelo sin carga, 2.630 mm de batalla, 1.576 mm de ancho de vía delantero, 1.541 mm de ancho de vía trasero, 10.200 mm de diámetro de giro entre bordillos y 10.900 mm de diámetro de giro entre paredes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.022 mm de altura entre banqueta-techo (delante), 1.020 mm de altura entre banqueta-techo (detrás), 1.486 mm de anchura en las caderas (delante), 1.451 mm de anchura en las caderas (detrás), 1.430 mm de anchura en los hombros (delante) y 1.377 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 521 litros (hasta las ventanas con asientos montados) y 1.630 litros (hasta el techo con asientos plegados)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ):"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"DRIVING MODE SELECT\" (selección de modos de conducción)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"LANE ASSIST\" y \"BLIND SPOT DETECT\", cámara multifuncional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Care Connect 1 año + Infontainment Online 1 año"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Ambition (lanzamiento)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asitencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asitencia II"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Telefonía de confort sin antena exterior, con WLAN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Travel Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento del conductor y acompañante con ajuste lumbar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros térmicos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros y traseros térmicos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos deportivos de Tela"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cenicero delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Desbloqueo del respaldo para el asiento delantero derecho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mesa plegable en los respaldos de asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cuero pequeño (volante de cuero multif. SPORT, control de radio y teléfono)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cuero pequeño (volante de cuero multifunción control de radio y teléfono, calefactable)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pedalier de aluminio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento del suelo del maletero, reversible"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapizado de asientos - Alcantara/cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapizado de Asientos - Cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapizado de asientos - Tela/Cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"SOUND SYSTEM CANTON\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "DAB receptor radio digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reposabrazos central delantero \"JUMBO BOX\" con conversor de tensión 230V y 2x USB plazas traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de navegación \"COLUMBUS\" pantalla táctil 8\" con material cartográfico Europa con SmartLink, control por voz y vinculado Care Connect 1 año + Infontainment Online 1 años"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Telefonía de confort, conexión sin cable con la antena exterior, con WLAN. Phone Box (carga inductiva y amplificación de la cobertura)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Telefonía de confort, conexión sin cable con la antena exterior. Phone Box (carga inductiva y amplificación de la cobertura)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"BLIND SPOT DETECT\" (asistente detección ángulos muertos)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"CREW PROTECT ASSIST\" - con sistema de seguridad ampliado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"Parking Assistant\" 2.0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"SMART LINK\" con Wireless RSE \"App\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "2x Soporte de tablet en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma con vigilancia del habitaculo, sirena con carg., protección contra remolque cierre centralizado KESSY + conex./desconexión motor + sistema SAFE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma con vigilancia del habitaculo, sirena con carg., protección contra remolque, cierre centralizado con control remoto (2 llaves pleg.) + sistema SAFE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcántara Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos deportivos Negro-Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos deportivos Negro-Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos VARIOFLEX, lámpara LED extraíble y elementos de fijación de carga en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Auto Light Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bolsa de equipaje extraíble \"UNIBAG\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimento portagafas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Difusores térmicos de lavado delante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros íntegros LED con AFS, con LED \"DAY LIGHT\", regulación dinámica alcance de las luces, faros antiniebla con función CORNER"
+  },
+  {
+    "feature": "Informacion",
+    "value": "KESSY cierre centralizado con función de encendido y apagado del motor sin llave ni sistema SAFE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lámpara LED extraíble y elementos de fijación de carga en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Maletero de doble fondo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Maxi-DOT en color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras \"\"CROMO OSCURO/CEPILLADO OSCURO\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras \"CROMO/CEPILLADO OSCURO\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Papelera en el revestimiento de la puerta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Family"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portón del maletero con apertura y cierre eléctricos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para soporte de asiento para niños con sist. de seguridad \"ISOFIX\" en asiento acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red divisoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de navegación \"AMUNDSEN\" pantalla táctil de 20,3cm con SmartLink, control por voz y vinculado Infontainment Online 1 año (comprar SD vía accesorios)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema lavafaros extraible automáticamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo corredizo panorámico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Cuero Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Family Negro-Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Family Negro-Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Negro-Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Negro-Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Telefonía confort WLAN+rSPA+LTE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Telefonía de confort rSAP+WIFI y LTE. Phone Box (carga inductiva y amplificación de la cobertura)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete malas carreteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Lava (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Barras longitudinales techo, plata y paquete cromo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Beige Capuccino (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Candy (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Láser (colores especiales)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Luna (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dispositivo de remolque, extraíble con adaptador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Acero (especial)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Business (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Cuarzo (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación BRAGAde 46cm (18\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación MYTIKAS de 46cm (18\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación TRITONde 43cm (17\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Marron Magnético (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras de entrada en las puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Mágico efecto perla (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos 215/55 R17 94V para todas las estaciones - ALL SEASON"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Family"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pedal virtual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura No metalizada (excepto Gris Acero, sin coste)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura rojo Velvet"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Brillante (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para dispositivo de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de pasarruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Desire (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto aleación ligera 41/43 cm (16\"/17\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto para espacio reducido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunset"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Esmeralda (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefacción estacionaria con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"LANE ASSIST\" - asistente de mantenimiento de carril, cámara multifuncional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 3 años y 50.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 120.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 60.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 90.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 5 años y 100.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 5 años y 150.000 kms"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"DRIVER ALERT\" - detector de fatiga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"DRIVING MODE SELECT + OFF ROAD\" (selección perfil conducción para 4x4)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"FRONT ASSIST\" - con ACC hasta 210km/hora"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"FRONT ASSIST\" - incl. City para ACC, ACC hasta 160Km/hora"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"PARK DISTANCE CONTROL\" - asistente de aparcamiento, sensores de aparcamiento delante y detrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags para cabeza incl. Airbags laterales delante y detrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extintor bajo el asiento del acompañante"
+  }
+]

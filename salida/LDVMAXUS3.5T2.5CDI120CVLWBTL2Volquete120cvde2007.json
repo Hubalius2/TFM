@@ -1,0 +1,182 @@
+[
+  {
+    "feature": "Car",
+    "value": "Características generales"
+  },
+  {
+    "feature": "Precio",
+    "value": "30624"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "120 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Versión",
+    "value": "3.5T 2.5 CDI 120CV LWB TL2 Volquete"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "3"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "120 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "88 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado TL2 (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pickup con cabina sencilla y 2 puertas techo tipo serie, batalla larga, volante al lado izquierdo, carrocería & puertas (local): pickup 2 p."
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,5 litros ( 2.499 cc ) , 4 cilindros en línea con cuatro válvulas por cilindro, 92 mm de diámetro, 94 mm de carrera y relación de compresión: 17,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: gasoil"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 120 CV (SAE) - 88 kW @ 3.800 rpm , par máximo: 300 Nm @ 1.800 rpm"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con muelles helicoidales ; ruedas independientes , suspensión trasera de eje rígido con muelles ballesta ; ruedas rígidas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión manual de cinco velocidades"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos I.V.A. (16%)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros sencillos con lente convencional y bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante de plástico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de climatización"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con intermitencia variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.995 mm de largo, 1.991 mm de ancho, 2.067 mm de alto, 3.850 mm de batalla, 1.734 mm de ancho de vía delantero, 1.728 mm de ancho de vía trasero, 14.200 mm de diámetro de giro entre bordillos, 14.800 mm de diámetro de giro entre paredes, 835 mm de voladizo anterior y 917 mm de voladizo posterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reloj"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tres reposacabezas en asientos delanteros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste en altura y lumbar , asiento delantero del acompañante tipo banco , asiento delantero central tipo banco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros 205 mm de ancho, 75 % de perfil, índice de velocidad: R y índice de carga: 104 ; de tipo convencional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior lado conductor y acompañante ajustable exteriormente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras de acero, 16 pulgadas de diámetro, 6 pulgadas de ancho, tapacubos parciales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta de acero y de tamaño normal - situada bajo la carrocería , rueda de repuesto de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con visagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y central de 3 puntos, enrollable y ajustable en altura con pretensores"
+  }
+]

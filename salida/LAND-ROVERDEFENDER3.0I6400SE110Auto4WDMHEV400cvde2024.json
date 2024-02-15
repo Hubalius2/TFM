@@ -1,0 +1,782 @@
+[
+  {
+    "feature": "Car",
+    "value": "LAND-ROVER DEFENDER"
+  },
+  {
+    "feature": "Precio",
+    "value": "98550"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "400 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "499 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "6.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "191 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "90 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "3.0 I6 400 SE 110 Auto 4WD MHEV"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4758 x 1996 x 1967mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "499 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2361 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "400 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "294 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "6.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "191 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SE (clasificación JATO: mediano M2) Código:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla larga, volante al lado izquierdo, código de plataforma: D7x, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable/desconectable con con sistema de control de descenso y selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,0 litros ( 2.996 cc ) , seis cilindros en línea con 83,0 mm de diámetro y 92,3 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 191 km/h de velocidad máxima y 6,1 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 400 CV ( CEE ) 294 kW @ 5.500 rpm (potencia max) 550 Nm de par máximo @ 2.000 rpm (par max) ; 14 CV (potencia máx. motor eléctrico), 10 kW (potencia máx. motor eléctrico) y 55 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con reductora, paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: 8HP76X"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Once altavoces ( Meridian ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital, radio por internet y pantalla táctil pantalla a color y 400 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 12,30 \" con información por vista de satélite, control mediante pantalla táctil y información de tráfico 31,2 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo all weather de 20 pulgadas de diametro, 255 mm de ancho, 60 % de perfil y índice de velocidad: V con índice de carga: 113 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 50,8, 21,6 y 031SY"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en aluminio de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con de hoja única"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 15.245,30, 10.708,01 y IVA de IVA IVA al 21,00 % 15.245,30 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 150.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad y desmultiplicación variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.758 mm de largo, 1.996 mm de ancho, 1.967 mm de alto, 3.022 mm de batalla, 1.704 mm de ancho de vía delantero, 1.669 mm de ancho de vía trasero, 12.840 mm de diámetro de giro entre bordillos, 13.120 mm de diámetro de giro entre paredes, 2.105, 2.008, 43,0, 82,9 y 79,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.032 mm de altura entre banqueta-techo (delante), 1.025 mm de altura entre banqueta-techo (detrás), 993 mm de espacio para las piernas (delante) y 992 mm de espacio para las piernas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 499 litros (hasta las ventanas con asientos montados) y 1.946 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( seis ajustes eléctricos ) memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo y ajuste eléctrico de la inclinacion de la banqueta, asiento delantero del acompañante individual con ajuste eléctrico ( seis ajustes eléctricos ) memorizado, memorizado y eléctrico de dos direcciones con ajuste memorizado del respaldo y ajuste eléctrico de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta abatible en una pieza y respaldo abatible 40/20/40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 11,5 l/100km (mixto), 8,7 km/l  (mixto), 783 Km de autonomía (combinado), 11,5, 12,2, 8,7, 8,2, 20 y 19"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diferencial eléctrico activo con Torque Vectoring"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iluminación interior ambiental"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pantalla táctil de 289,6mm (11,4\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Secure Tracker (periodo de 3 años)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Secure Tracker Pro (12 meses)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Secure Tracker Pro (3 años)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo en contraste blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo en contraste Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Wi-Fi con plan de datos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero plegable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros térmicos con ajuste eléctricos de 12 movimientos y memoria con ajuste manual del reposacabezas de 2 movimientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack fumador en primera fila de asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Palanca de cambios en piel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mando de apertura de garaje (Homelink)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "OFF ROAD PACK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado Natural Smoked Dark Oak"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado Rough-cut Walnut"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Advanced Off-Road Capability pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma Volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Argollas de recuperación en acabado Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros eléctricos - 14 movimientos, calefactables y refrigerados con memoria y reposacabezas manuales de 4 movimientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros parcialmente eléctricos - 12 movimientos calefactables y refrigerados con memoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos en piel Grained en Acorn con detalles en Tejido Robust Woven e interior en Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros calefactables abatibles 40:20:40 con apoyabrazos central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Black Exterior Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bright Exterior Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cabin Air Purification Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capota de tela plegable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador 3 zonas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador de 3 zonas con sistema auxiliar tercera fila"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cold Climate Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Comfort and Convenience pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de la rueda de repuesto en color carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driver Assist Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Natural Light Oak"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended Bright Exterior Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Family pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Family pack Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros Matrix LED con línea característica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gloss Black Signature Graphic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Guarnecido del techo Morzine Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Habitáculo sin consola central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parabrisas delantero con filtro solar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Película protectora satinada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Grained en Acorn con interior en Lunar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Grained en Khaki con interior en Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Windsor Ebony con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Windsor Light Oyster con interior Lunar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Windsor Tan con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preacondicionamiento del habitáculo con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Premium Upgrade Interior Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PVU perforado Acorn con interior Lunar/Acorn"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PVU perforado Ebony con interior Ebony/Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PVU perforado Khaki con interior Khaki/Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raíles para separación y sujeción de equipaje en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Segunda fila de asientos 60/40 deslizantes y reclinables con apoyabrazos central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Segunda fila de asientos calefactables 60:40 deslizantes y reclinables con apoyabrazos central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Segunda fila de asientos climatizados 60:40 deslizantes y reclinables con apoyabrazos central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensor de calidad de aire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo Panorámico deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Towing Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Travesaño en acabado White Powder Coat Brushed"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante en piel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carpathian Grey - metalizada Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carpatian Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales oscurecidos \"Privacy\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eiger Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eiger Grey - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque de accionamiento eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque desmontable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuji White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gondwana Stone"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gondwana Stone - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hakuba Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hakuba Silver - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lantau Bronze"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lantau Bronze- metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 19\" con 6 radios 'Style 6009\" en Gloss Sparkle Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 19\" con 6 radios 'Style 6010\" en Gloss Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 19\" con 6 radios 'Style 6010\" en Gloss Sparkle Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 20\" de 5 radios dobles 'Style 5095' Gloss Dark Grey con Contrast Diamond Turned"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 20\" de 5 radios 'Style 5094' Satin Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 20\" de 5 radios 'Style 5098' Gloss Sparkle Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 20\" de 5 radios 'Style 5098' Satin Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 20\" Style 5098 Polished Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 20\" Style 9013 en Gloss White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 20\" y 6 radios Style 6011 Gloss Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" con 5 radios - Style 5098 en Gloss Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" con 5 radios - Style 5098 en Gloss Sparkle Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos todo terreno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pangea Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pangea Green - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Fuji White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto normalizada con llanta de 19\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Santorini Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Santorini Black - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Silicon Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Silicon Silver - metalizada Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sin baca para expediciones o raíles del techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tasman Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tasman Blue - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tuercas antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Yulong White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Yulong White - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Panel de instrumentos analógico con TFT central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Head Up Display"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor interior ClearSight"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto normalizada con llanta de 22\""
+  }
+]

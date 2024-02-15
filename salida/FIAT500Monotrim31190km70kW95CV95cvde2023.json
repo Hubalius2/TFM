@@ -1,0 +1,358 @@
+[
+  {
+    "feature": "Car",
+    "value": "FIAT 500"
+  },
+  {
+    "feature": "Precio",
+    "value": "32600"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "185 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "135 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "Monotrim 31 190km 70kW 95CV"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3632 x 1683 x 1527mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "185 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1320 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "70 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "14.3 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "190 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "23.8 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "915 min (undefined% - undefined%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida (50.0 kW)",
+    "value": "30 min (0% - 80%)"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "13 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "135 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado MONOTRIM (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: B2, carrocería & puertas (local): berlina con portón de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 135 km/h de velocidad máxima, 9,5 segs de aceleración 0-100 km/h y 135 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 95 CV ( CEE ) 70 kW y 220 Nm de par máximo @ 0 rpm (par max) ; 95 CV (potencia máx. motor eléctrico), 70 kW (potencia máx. motor eléctrico) y 220 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión con barra estabilizadora mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color y 200 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 15 pulgadas de diametro, 185 mm de ancho, 65 % de perfil y índice de velocidad: V con índice de carga: 91 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 15 pulgadas de diámetro y 6,0 pulgadas de ancho 38,1, 15,2 y 431"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado pasajero) con bisagras traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 5.662,05, 0,00 y IVA de IVA IVA al 21,00 % 5.662,05 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen controles en pantalla táctil y calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.632 mm de largo, 1.683 mm de ancho, 1.527 mm de alto, 2.322 mm de batalla, 1.470 mm de ancho de vía delantero, 1.460 mm de ancho de vía trasero, 9.320 mm de diámetro de giro entre bordillos, 1.900 y 74,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 185 litros (hasta las ventanas con asientos montados) y 550 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible en una pieza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Tech"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ice White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocean Green (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Onyx Black (metalizado)"
+  }
+]

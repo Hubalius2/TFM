@@ -1,0 +1,430 @@
+[
+  {
+    "feature": "Car",
+    "value": "HYUNDAI TUCSON"
+  },
+  {
+    "feature": "Precio",
+    "value": "45000"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "265 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "558 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "190 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "42 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.6 TGDI PHEV 195kW Maxx Safe Auto 4X4"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4500 x 1865 x 1650mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "558 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1818 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "265 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "265 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "195 kW"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "62 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "13.8 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "190 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado MAXX (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: HYUNDAI XD, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso y selección manual y auto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,6 litros ( 1.598 cc ) , cuatro cilindros en línea con 75,6 mm de diámetro y 89,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico, combustible adicional: sin plomo y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 190 km/h de velocidad máxima y 8,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 265 CV ( CEE ) 195 kW @ 5.500 rpm (potencia max) 350 Nm de par máximo @ 1.500 rpm (par max) ; 91 CV (potencia máx. motor eléctrico), 67 kW (potencia máx. motor eléctrico) y 265 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de seis marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador y antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 235 mm de ancho, 50 % de perfil y índice de velocidad: H con índice de carga: 99 y baja resitencia a la rodadura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 7,5 pulgadas de ancho 48,3 y 19,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de frenada en curva"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 7.809,92, 0,00 y IVA de IVA IVA al 21,00 % 7.809,92 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.500 mm de largo, 1.865 mm de ancho, 1.650 mm de alto, 170 mm de altura libre sobre el suelo sin carga, 2.680 mm de batalla, 1.615 mm de ancho de vía delantero, 1.622 mm de ancho de vía trasero, 11.000 mm de diámetro de giro entre bordillos, 1.650 y 65,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 558 litros (hasta las ventanas con asientos montados) y 1.737 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( una ajuste eléctrico ) ajuste longitudinal manual, ajuste manual en altura y eléctrico de dos direcciones con ajuste manual del respaldo, asiento delantero del acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo 40/20/40 de orientación delantera con banqueta fija, respaldo abatible 40/20/40 y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV Factor de Utilidad ponderado ): 1,3 l/100km (mixto), 76,9 km/l  (mixto), 3.231 Km de autonomía (combinado), 8,0, 12,5, 6,1, 16,4, 6,3, 15,9, 8,4, 11,9, 29, 39, 37 y 28"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Tela Gris claro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Tela Negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amazon Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Atlas White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dark Knight Gray (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dark Teal (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Engine Red (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Phantom Black (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura blanca sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura mica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Polar White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Serenity White (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shimmering Silver (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Silky Bronze (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunset Red (mica)"
+  }
+]

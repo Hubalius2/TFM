@@ -1,0 +1,406 @@
+[
+  {
+    "feature": "Car",
+    "value": "DODGE DURANGO"
+  },
+  {
+    "feature": "Precio",
+    "value": "139279"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "475 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.9 segundos"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "93 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "SRT 392 Premium"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5101 x 1924 x 1827mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "7"
+  },
+  {
+    "feature": "Peso",
+    "value": "2439 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "475 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "354 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.9 segundos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SRT 392 (clasificación JATO: mediano M2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: W164, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente ( Quadra-Trac® Active-On-Demand 4WD )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 6,4 litros ( 6.417 cc ) , ocho cilindros en V con 103,9 mm de diámetro y 94,5 mm de carrera ; código del motor: ESG"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 4,9 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 475 CV ( SAE ) 354 kW @ 6.000 rpm (potencia max) 637 Nm de par máximo @ 4.300 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con reductora, paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: 8HP70 ( TorqueFlite® )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diecinueve altavoces ( Harman/Kardon ) con subwoofer y sonido surround"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital, radio por satélite y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,10 \" con información en 3D y con voz y información de tráfico 25,7 y 60"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros, traseros antipinchazo tipo all weather de 20 pulgadas de diametro, 295 mm de ancho y 45 % de perfil (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor en color combinado con carrocería con ajuste eléctrico desempañable con antideslumbrante automático y intermitente integrado, retrovisor exterior del acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 10,0 pulgadas de ancho 50,8, 25,4 y WHE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina en las tres filas de asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, lado acompañante y asiento central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 21.546,00, 15.133,50 y IVA de IVA IVA al 21,00 % 21.546,00 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 200.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y stop"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico revestido de cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado trizona con mandos traseros para el climatizador de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y memoria de posición de los asientos incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.101 mm de largo, 1.924 mm de ancho, 1.827 mm de alto, 206 mm de altura libre sobre el suelo sin carga, 3.042 mm de batalla, 1.638 mm de ancho de vía delantero, 1.646 mm de ancho de vía trasero, 12.500 mm de diámetro de giro entre bordillos, 2.172 y 85,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.013 mm de altura entre banqueta-techo (delante), 1.011 mm de altura entre banqueta-techo (detrás), 1.448 mm de anchura en las caderas (delante), 1.410 mm de anchura en las caderas (detrás), 1.025 mm de espacio para las piernas (delante), 981 mm de espacio para las piernas (detrás), 1.486 mm de anchura en los hombros (delante), 1.466 mm de anchura en los hombros (detrás), 960 mm de espacio para la cabeza en 3ª fila, 1.077 mm de espacio para las caderas en 3ª fila, 851 mm de espacio para las piernas en 3ª fila, 1.280 mm de espacio para los hombros en 3ª fila, 37,8, 42,4, 33,5 y 50,4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 2.410 litros (hasta el techo con asientos plegados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura, dos reposacabezas en la tercera fila de asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( seis ajustes eléctricos ) térmico, ventilado, memorizado, memorizado y eléctrico de dos direcciones con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta, asiento delantero del acompañante individual con ajuste eléctrico ( seis ajustes eléctricos ) térmico, ventilado, abatible, eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo y ajuste eléctrico de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido térmicos de orientación delantera con banqueta fija, respaldo abatible asimétrico, banqueta/respaldo plegable hacia delante y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 15,7 l/100km (mixto), 6,4 km/l  (mixto) y 593 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Laguna negro//Demonic Red rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "DB negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Destroyer Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque UE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Escalones laterales tubulares negros Mopar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frostbite"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Vapor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos de verano Pirelli Performance"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Night Moves"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Níquel Triple"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Octane Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Oxide Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de bajos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "White Knuckle blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía AEC 48"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía AEC 60"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sillas tipo capitán plegables/abatibles en la segunda fila"
+  }
+]

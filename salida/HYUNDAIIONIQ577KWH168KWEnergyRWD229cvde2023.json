@@ -1,0 +1,422 @@
+[
+  {
+    "feature": "Car",
+    "value": "HYUNDAI IONIQ 5"
+  },
+  {
+    "feature": "Precio",
+    "value": "60660"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "229 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "531 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "185 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "77KWH 168KW Energy RWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4635 x 1890 x 1605mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "531 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1935 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "229 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "229 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "168 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "18 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "476 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "77.58 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga rápida (350.0 kW)",
+    "value": "18 min (10% - 80%)"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "185 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ENERGY (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: E-GMP, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 185 km/h de velocidad máxima, 7,3 segs de aceleración 0-100 km/h y 185 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 229 CV ( CEE ) 168 kW y 350 Nm de par máximo ; 229 CV (potencia máx. motor eléctrico), 168 kW (potencia máx. motor eléctrico) y 350 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) y mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces ( Bose ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 12,30 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 31,2, 36 y incluye realidad aumentada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 20 pulgadas de diametro, 255 mm de ancho, 45 % de perfil y índice de velocidad: W con índice de carga: 105 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería cámara y desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 50,8 y 21,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 10.527,77, 0,00 y IVA de IVA IVA al 21,00 % 10.527,77 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go control crucero adaptativo vincula. mapa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y bomba de calor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.635 mm de largo, 1.890 mm de ancho, 1.605 mm de alto, 160 mm de altura libre sobre el suelo sin carga, 3.000 mm de batalla, 1.628 mm de ancho de vía delantero, 1.637 mm de ancho de vía trasero, 11.980 mm de diámetro de giro entre paredes, 2.152, 1.957, 39,3, 84,7 y 77,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 531 litros (hasta las ventanas con asientos montados) y 1.591 litros (hasta el techo con asientos plegados) ( medición VDA ) 57 l de almacenamiento delantero y 2,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante sillón relax individual con ajuste eléctrico ( cuatro ajustes eléctricos ) térmico, ventilado, climatizado, memorizado, memorizado y eléctrico con ajuste memorizado del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido ajustables eléctricamente ( un ajuste eléctrico ) térmicos de orientación delantera abatibles en el suelo y ajuste longitudinal eléctrico con banqueta fija, respaldo abatible asimétrico y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Cuero Gris bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Cuero Gris-Verde"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Cuero Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Atlas White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Atlas White Matte (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cyber Gray (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Galactic Gray (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gravity Gold (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lucid Blue (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mystic Green (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Phantom Black (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura blanca sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shooting Star Gray (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Teal Green (perlado)"
+  }
+]

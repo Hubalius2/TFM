@@ -1,0 +1,378 @@
+[
+  {
+    "feature": "Car",
+    "value": "KIA PICANTO"
+  },
+  {
+    "feature": "Precio",
+    "value": "17610"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "84 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "255 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "12.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "173 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "35 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.2 DPi 62kW 84CV GT Line"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3595 x 1595 x 1485mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "255 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "983 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "84 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "62 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "12.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "173 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GT LINE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: H, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,2 litros ( 1.197 cc ) , cuatro cilindros en línea con 71,0 mm de diámetro y 75,6 mm de carrera ; código del motor: G4LA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 173 km/h de velocidad máxima y 12,5 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 84 CV ( CEE ) 62 kW @ 6.000 rpm (potencia max) 118 Nm de par máximo @ 4.200 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS y radio digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 15 pulgadas de diametro, 185 mm de ancho, 55 % de perfil y índice de velocidad: H con índice de carga: 86"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 15 pulgadas de diámetro y 6,0 pulgadas de ancho 38,1 y 15,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 2.957,64, 668,99 y IVA de IVA IVA al 21,00 % 2.957,64 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 84 meses y 150.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.595 mm de largo, 1.595 mm de ancho, 1.485 mm de alto, 141 mm de altura libre sobre el suelo sin carga, 2.400 mm de batalla, 1.394 mm de ancho de vía delantero, 1.403 mm de ancho de vía trasero, 9.400 mm de diámetro de giro entre paredes y 30,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.005 mm de altura entre banqueta-techo (delante), 960 mm de altura entre banqueta-techo (detrás), 1.245 mm de anchura en las caderas (delante), 1.230 mm de anchura en las caderas (detrás), 1.085 mm de espacio para las piernas (delante), 820 mm de espacio para las piernas (detrás), 1.300 mm de anchura en los hombros (delante) y 1.280 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 255 litros (hasta las ventanas con asientos montados) y 1.010 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,3 l/100km (mixto), 18,9 km/l  (mixto), 660 Km de autonomía (combinado), 6,2, 16,1, 5,1, 19,6, 4,7, 21,3, 5,8, 17,2, 38, 46, 50 y 41"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Sintética Gris/Rojo (GT Line)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Astro Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aurora Black Pearl (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Clear White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Honey Bee (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Milky Beige (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura blanca sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pop Orange (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shiny Red (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sparkling Silver (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador y Advanced Driving Assistance Pack"
+  }
+]

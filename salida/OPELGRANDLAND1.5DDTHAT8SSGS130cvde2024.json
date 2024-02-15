@@ -1,0 +1,406 @@
+[
+  {
+    "feature": "Car",
+    "value": "OPEL GRANDLAND"
+  },
+  {
+    "feature": "Precio",
+    "value": "37250"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "514 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "195 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "53 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.5D DTH AT8 SS GS"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4477 x 1856 x 1630mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "514 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1448 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "96 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "195 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GS (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: EMP2, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.499 cc ) , cuatro cilindros en línea con 75,0 mm de diámetro y 84,8 mm de carrera ; código del motor: D15DTH"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 195 km/h de velocidad máxima y 11,5 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 130 CV ( CEE ) 96 kW @ 3.750 rpm (potencia max) 300 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual y palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color y 80 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 10,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 25,4 y 0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 18 pulgadas de diametro, 225 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 102"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 7,5 pulgadas de ancho 45,7 y 19,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 6.220,68, 1.407,06 y IVA de IVA IVA al 21,00 % 6.220,68 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.477 mm de largo, 1.856 mm de ancho, 1.630 mm de alto, 188 mm de altura libre sobre el suelo sin carga, 2.675 mm de batalla, 1.595 mm de ancho de vía delantero, 1.610 mm de ancho de vía trasero, 10.670 mm de diámetro de giro entre bordillos, 2.098, 1.906, 82,6 y 75,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 514 litros (hasta las ventanas con asientos montados) y 1.652 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste eléctrico ( dos ajustes eléctricos ) térmico, ajuste longitudinal manual, ajuste manual en altura y eléctrico de dos direcciones con ajuste manual del respaldo y ajuste manual del suplemento de la banqueta, asiento delantero del acompañante deportivo, térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,4 l/100km (mixto), 18,5 km/l  (mixto), 981 Km de autonomía (combinado), 5,2, 6,2, 19,2, 16,1, 5,7, 17,5, 4,9, 20,4, 4,4, 22,7, 5,5, 18,2, 45, 38, 41, 48, 53 y 43"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preinstalación de rueda de repuesto (GS)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red de seguridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapiceria Alcántara con asientos deportivos con certificación AGR para conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Alcántara Sport"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería tela Confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tech Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Arktis White (brillante)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "DESIGN PACK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Karbon Black (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Karmin Red (Boutique)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Kontrast Grey (metalizado bicapa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de Aleación 19\" x 7.0 (IronMan) -ICE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Park & Go 2 Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura brillante Arktis White (Brillante)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Karmin Red (Boutique)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Kontrast Grey (Metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Infotainment Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Safety Pack"
+  }
+]

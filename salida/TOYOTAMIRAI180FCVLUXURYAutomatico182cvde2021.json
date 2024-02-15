@@ -1,0 +1,354 @@
+[
+  {
+    "feature": "Car",
+    "value": "TOYOTA MIRAI"
+  },
+  {
+    "feature": "Precio",
+    "value": "82600"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Otros"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "182 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "272 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "175 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "142 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "180FCV LUXURY Automatico"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4975 x 1885 x 1480mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "272 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1900 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Otros"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "182 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "134 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "175 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado LUXURY (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo sedán con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: TNGA-L, carrocería & puertas (local): sedán de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: hidrógeno y Combustible primario: hidrógeno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 175 km/h de velocidad máxima y 9,2 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 182 CV ( (DIN) 134 kW y 300 Nm de par máximo ; 182 CV (potencia máx. motor eléctrico), 134 kW (potencia máx. motor eléctrico) y 300 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Catorce altavoces ( JBL ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 12,30 \" con información por vista de satélite, control mediante pantalla táctil y información de tráfico 31,2, 36 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 14.335,55, 0,00 y IVA de IVA IVA al 21,00 % 14.335,55 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 180 meses y 250.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado trizona con mandos traseros para el climatizador de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y memoria de posición de los asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.975 mm de largo, 1.885 mm de ancho, 1.480 mm de alto, 150 mm de altura libre sobre el suelo sin carga, 2.920 mm de batalla, 1.610 mm de ancho de vía delantero, 1.605 mm de ancho de vía trasero, 11.600 mm de diámetro de giro entre bordillos, 12.600 mm de diámetro de giro entre paredes y 41,3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 272 litros (hasta las ventanas con asientos montados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 20 pulgadas de diametro, 245 mm de ancho, 45 % de perfil y índice de velocidad: Y con índice de carga: 103"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho 50,8 y 21,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual con ajuste eléctrico ( cinco ajustes eléctricos ) térmico, ventilado, memorizado, memorizado y eléctrico con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco térmicos de orientación delantera con banqueta fija y respaldo fijo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de cuero semianilina color claro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de cuero semianilina negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Neptuno (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azúl Zafiro (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Cuarzo (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Atomo (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Montecarlo (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Polar (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo emoción (met)"
+  }
+]

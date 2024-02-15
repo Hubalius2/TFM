@@ -1,0 +1,394 @@
+[
+  {
+    "feature": "Car",
+    "value": "DACIA SANDERO"
+  },
+  {
+    "feature": "Precio",
+    "value": "14040"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "91 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "328 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "178 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Expression TCe 67kW 90CV"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4088 x 1848 x 1499mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "328 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1072 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "91 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "67 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "178 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado EXPRESSION (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: CMF-B, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,0 litros ( 999 cc ) , tres cilindros en línea con 72,2 mm de diámetro y 81,3 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 178 km/h de velocidad máxima y 11,7 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 91 CV ( CEE ) 67 kW @ 4.600 rpm (potencia max) 160 Nm de par máximo @ 2.100 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 2.436,70, 0,00 y IVA de IVA IVA al 21,00 % 2.436,70 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.088 mm de largo, 1.848 mm de ancho, 1.499 mm de alto, 162 mm de altura libre sobre el suelo sin carga, 2.604 mm de batalla, 1.533 mm de ancho de vía delantero, 1.519 mm de ancho de vía trasero, 10.530 mm de diámetro de giro entre bordillos, 2.007, 1.848, 79,0 y 72,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 898 mm de altura entre banqueta-techo (delante), 878 mm de altura entre banqueta-techo (detrás), 1.410 mm de anchura en las caderas (delante) y 1.407 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 328 litros (hasta las ventanas con asientos montados) y 1.108 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 15 pulgadas de diametro, 185 mm de ancho, 65 % de perfil y índice de velocidad: H con índice de carga: 88 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 15 pulgadas de diámetro y 6,0 pulgadas de ancho llanta 'structure', 38,1, 15,2 y RDIF04"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,3 l/100km (mixto), 18,9 km/l  (mixto) y 943 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Navegación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizacion automatica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Easy"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Expression en negro (tela)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Rayo (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Glaciar (opaco)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Luna (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Urban (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación 41 cm (16'') con embellecedores Amaris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Nacarado (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Azul Rayo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Gris Luna"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Gris Urban"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Rojo Fusión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Blanco Glaciar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fusión (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Parking & Driving"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto"
+  }
+]

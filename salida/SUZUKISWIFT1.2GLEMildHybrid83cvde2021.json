@@ -1,0 +1,358 @@
+[
+  {
+    "feature": "Car",
+    "value": "SUZUKI SWIFT"
+  },
+  {
+    "feature": "Precio",
+    "value": "20265"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "83 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "265 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "13.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "37 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.2 GLE Mild Hybrid"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3845 x 1735 x 1495mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "265 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "865 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "83 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "13.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GLE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: HEARTECT, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,2 litros ( 1.197 cc ) , cuatro cilindros en línea con 73,0 mm de diámetro y 71,5 mm de carrera ; código del motor: K12D"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima y 13,1 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 83 CV ( CEE ) 61 kW @ 6.000 rpm (potencia max) 107 Nm de par máximo @ 2.800 rpm (par max) ; 3 CV (potencia máx. motor eléctrico), 2 kW (potencia máx. motor eléctrico) y 35 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo , código transmisión: MT52"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, Tarjeta digital, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 3.517,07, 0,00 y IVA de IVA IVA al 21,00 % 3.517,07 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.845 mm de largo, 1.735 mm de ancho, 1.495 mm de alto, 120 mm de altura libre sobre el suelo sin carga, 2.450 mm de batalla, 1.520 mm de ancho de vía delantero, 1.520 mm de ancho de vía trasero y 9.600 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 265 litros (hasta las ventanas con asientos montados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 185 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 83"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 16 pulgadas de diámetro y 6,0 pulgadas de ancho 40,6 y 15,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual, térmico y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 4,7 l/100km (mixto) y 21,3 km/l  (mixto) (fuente: Euro 6d-ISC-FCM ) 5,1, 19,6, 4,2, 23,8, 4,1, 24,4, 5,4, 18,5, 46, 56, 57 y 44"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapiceria Tela Nero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo Rush metalizado & Plata premium metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul speedy metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Speedy metalizado & Negro superior perlado metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco perlado metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris mineral metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Flame perlado metalizado & Negro superior perlado metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro superior perlado metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metlizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata premium metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Burning perlado & Negro superior perlado metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo burning perlado metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo fervent solido"
+  }
+]

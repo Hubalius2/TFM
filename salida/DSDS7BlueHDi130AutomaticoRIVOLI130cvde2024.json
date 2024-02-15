@@ -1,0 +1,394 @@
+[
+  {
+    "feature": "Car",
+    "value": "DS DS 7"
+  },
+  {
+    "feature": "Precio",
+    "value": "46400"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "555 litros"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "55 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "BlueHDi 130 Automatico RIVOLI"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4593 x 1906 x 1625mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "555 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1585 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "96 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado RIVOLI (clasificación JATO: mediano M3)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: EMP2, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.499 cc ) , cuatro cilindros en línea con 75,0 mm de diámetro y 84,8 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 130 CV ( CEE ) 96 kW @ 3.750 rpm (potencia max) 300 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, en la columna de dirección y levas en el volante palancas tras el volante , código transmisión: EAT8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 12,30 \" con información por mapa completo y voz, control mediante pantalla táctil y información de tráfico 31,2, 0 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 235 mm de ancho, 50 % de perfil y índice de velocidad: V con baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor en color combinado con carrocería con ajuste eléctrico desempañable con antideslumbrante automático y intermitente integrado, retrovisor exterior del acompañante en color combinado con carrocería con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 7,5 pulgadas de ancho bi-tono, 48,3, 19,0 y ZHW0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 7.748,71, 1.752,68 y IVA de I.V.A. IVA al 21,00 % 7.748,71 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y función de faros antiniebla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.593 mm de largo, 1.906 mm de ancho, 1.625 mm de alto, 190 mm de altura libre sobre el suelo sin carga, 2.738 mm de batalla, 1.621 mm de ancho de vía delantero, 1.598 mm de ancho de vía trasero, 10.450 mm de diámetro de giro entre bordillos, 2.098, 1.906, 82,6 y 75,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 555 litros (hasta las ventanas con asientos montados) y 1.752 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( cuatro ajustes eléctricos ) eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo y ajuste manual del suplemento de la banqueta, asiento delantero del acompañante individual con ajuste eléctrico ( una ajuste eléctrico ) ajuste longitudinal manual, ajuste manual en altura y eléctrico con ajuste manual del respaldo y ajuste manual del suplemento de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico con plegado remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,3 l/100km (mixto), 18,9 km/l  (mixto), 1.038 Km de autonomía (combinado), 5,0, 5,8, 20,0, 17,2, 5,8, 17,2, 4,9, 20,4, 4,5, 22,2, 5,8, 5,4, 5,9, 17,2, 18,5, 16,9, 47, 41, 41, 48, 52, 41, 44 y 40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Black Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK CONFORT"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK CONFORT +"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK VIAJE RIVOLI"
+  },
+  {
+    "feature": "Informacion",
+    "value": "INTERIOR RIVOLI CUERO NEGRO BASALTO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK SEGURIDAD BlueHDi 130"
+  },
+  {
+    "feature": "Informacion",
+    "value": "4 llantas de aleación 20\" TOKIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Zafiro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Crystal Pearl"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Titanio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lacquered Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metalizada / Opaca"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema HiFi FOCAL ELECTRA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK ACCESO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PACK SEGURIDAD +"
+  }
+]

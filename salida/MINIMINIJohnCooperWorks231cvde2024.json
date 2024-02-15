@@ -1,0 +1,394 @@
+[
+  {
+    "feature": "Car",
+    "value": "MINI MINI"
+  },
+  {
+    "feature": "Precio",
+    "value": "39270"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "231 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "211 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "6.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "246 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "44 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "John Cooper Works"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "3"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3872 x 1727 x 1414mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "211 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1320 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "231 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "170 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "6.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "246 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado JOHN COOPER WORKS (clasificación JATO: deportivo S2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón de 3 puertas, batalla corta, volante al lado izquierdo, código de plataforma: UKL1, carrocería & puertas (local): berlina con portón de 3 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.998 cc ) , cuatro cilindros en línea con 82,0 mm de diámetro y 94,6 mm de carrera ; código del motor: B46A20O1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 246 km/h de velocidad máxima y 6,3 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 231 CV ( CEE ) 170 kW @ 5.200 rpm (potencia max) 320 Nm de par máximo @ 1.450 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de ocho marchas con palanca en el volante y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 100 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 205 mm de ancho, 45 % de perfil y índice de velocidad: Y con índice de carga: 88, reforzado y baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2, 17,8 y 2HY"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 6.558,01, 1.483,36 y IVA de IVA IVA al 21,00 % 6.558,01 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con teléfono móvil (NFC) y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.872 mm de largo, 1.727 mm de ancho, 1.414 mm de alto, 143 mm de altura libre sobre el suelo sin carga, 2.495 mm de batalla, 1.485 mm de ancho de vía delantero, 1.485 mm de ancho de vía trasero, 10.800 mm de diámetro de giro entre paredes, 1.928, 35,4 y 75,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.024 mm de altura entre banqueta-techo (delante), 938 mm de altura entre banqueta-techo (detrás), 1.357 mm de anchura en las caderas (delante), 1.265 mm de anchura en las caderas (detrás), 1.052 mm de espacio para las piernas (delante), 783 mm de espacio para las piernas (detrás), 1.284 mm de anchura en los hombros (delante) y 1.215 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 211 litros (hasta las ventanas con asientos montados) y 731 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros, dos reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual del suplemento de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco/deportivo de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 6,7 l/100km (mixto), 14,9 km/l  (mixto) y 657 Km de autonomía (combinado) (fuente: Manufacturer ) 6,6, 6,9, 15,2, 14,5, 6,6, 6,8, 15,2, 14,7, 36, 34, 36 y 35"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chester Malt Brown cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chester Satellite Grey cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cross Punch Carbon Black cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dinamica/cuero Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dinamica/tela Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MINI Yours Lounge Carbon Black piel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensatec Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela/cuero Black Pearl/Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela/cuero Black Pearl/Light Chequered"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Melting Silver III metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nanuq White metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rooftop Grey metalizada"
+  }
+]

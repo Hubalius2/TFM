@@ -1,0 +1,466 @@
+[
+  {
+    "feature": "Car",
+    "value": "FORD TOURNEO CUSTOM"
+  },
+  {
+    "feature": "Precio",
+    "value": "88311"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "170 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "66 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.0 EcoBlue 125kW L1 Nugget Titanium AT"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5050 x 2080 x 1983mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "8"
+  },
+  {
+    "feature": "Peso",
+    "value": "2297 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "170 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "125 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado NUGGET TITANIUM (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo monovolumen con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: V36X, carrocería & puertas (local): monovolumen de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.995 cc ) , cuatro cilindros en línea con 84,0 mm de diámetro y 90,0 mm de carrera ; código del motor: EN-CV"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 170 CV ( (ISO) 125 kW @ 3.500 rpm (potencia max) 415 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje rígido y mediante ballesta con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual y palanca en el salpicadero , código transmisión: 6F55"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diez altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM/LW, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor, cinturón seguridad tercera fila en lado acompañante, cinturón seguridad tercera fila en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 13.661,47, 9.595,55 y IVA de IVA IVA al 21,00 % 13.661,47 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con uno de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.050 mm de largo, 2.080 mm de ancho, 1.983 mm de alto, 3.100 mm de batalla, 11.600 mm de diámetro de giro entre bordillos, 2.275 y 89,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 17 pulgadas de diametro, 215 mm de ancho, 60 % de perfil y índice de velocidad: V con índice de carga: 109 (datos del neumático oficiales de la marca), neumáticos traseros de 17 pulgadas de diametro, 215 mm de ancho, 60 % de perfil y índice de velocidad: T con índice de carga: 107 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de menor tamaño que el resto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado pasajero) ( deslizante )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura, tres reposacabezas en la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual, giratorio, térmico, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo individual+banco desmontables de orientación delantera con banqueta fija, respaldo abatible asimétrico, banqueta/respaldo plegable hacia delante y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ):"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador inalámbrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Asientos Titanium AGR (Pasajero Sencillo Claro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Asientos Titanium AGR (Pasajero Sencillo Oscuro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador conectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre atomático en marcha"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador Bizona con calentador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Conectores Eléctricos para gancho de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de aceleración"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Etiqueta SVO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegación Inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Asientos Nugget Titanium (Pasajero Sencillo Oscuro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portabicis"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección de los bajos contra la corrosión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regenerador de filtro de partículas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Servicio Ford Telematics"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Tapicería Titanium Clara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Tapicería Titanium Oscura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Unidad de control de régimen de motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Depósito de rango extendido (70 litros)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Báltico sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Chrome metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "DAT Pack 5 - Paquete de asistencia al conductor con navegador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque fijo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque retráctl"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grey Matter metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Magnetic metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de Aleación de 48,3 cm (19\") Níquel Brillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Agate metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos All Season"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Perla metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Artisan metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Race sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de 40,6 cm (16\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería H7 AGM"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería H8 AGM"
+  }
+]

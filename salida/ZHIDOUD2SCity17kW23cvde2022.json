@@ -1,0 +1,346 @@
+[
+  {
+    "feature": "Car",
+    "value": "ZHIDOU D2S"
+  },
+  {
+    "feature": "Precio",
+    "value": "22205"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "23 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "105 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "City 17kW"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "3"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "2811 x 1499 x 1555mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "2"
+  },
+  {
+    "feature": "Peso",
+    "value": "865 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "23 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "23 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "17 kW"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "150 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "17 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "480 min (undefined% - undefined%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "15 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "105 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado CITY (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo minicoche de 3 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): minicoche de 3 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 105 km/h de velocidad máxima y 105 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 23 CV 17 kW ; 23 CV (potencia máx. motor eléctrico) y 17 kW (potencia máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar y mediante muelle helicoidal con ruedas independientes, suspensión trasera de brazos tirados longitudinales y mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, Tarjeta digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía tarjeta SD y pantalla a color de 9,00 \" con control mediante pantalla táctil 22,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 13 pulgadas de diametro, 145 mm de ancho, 60 % de perfil y índice de velocidad: T con índice de carga: 66, neumáticos traseros de 14 pulgadas de diametro, 155 mm de ancho y 50 % de perfil"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 13 pulgadas de diámetro 33,0, llantas traseras en aluminio de 14 pulgadas de diámetro 35,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 3.853,88, 0,00 y IVA de IVA IVA al 21,00 % 3.853,88 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 2.811 mm de largo, 1.499 mm de ancho, 1.555 mm de alto, 150 mm de altura libre sobre el suelo sin carga y 1.765 mm de batalla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, faros direccionales y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación bomba de calor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante deportivo y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuadro bailey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos ecopiel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Personalizado vinilado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante ecopiel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amarillo bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo bitono"
+  }
+]

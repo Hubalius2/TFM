@@ -1,0 +1,414 @@
+[
+  {
+    "feature": "Car",
+    "value": "HYUNDAI I20"
+  },
+  {
+    "feature": "Precio",
+    "value": "15465"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "84 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "301 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "13.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "4.8 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.2 MPI Essence"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4035 x 1734 x 1474mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "301 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1040 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "84 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "62 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "13.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "6 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "4.1 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "4.8 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ESSENCE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: B3, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco con dos de ellos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,2 litros ( 1.248 cc ) , cuatro cilindros en línea con cuatro válvulas por cilindro, 71,0 mm de diámetro, 78,8 mm de carrera, relación de compresión: 10,5 y distribución variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 170 km/h de velocidad máxima y 13,1 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 84 CV ( CEE ) 62 kW @ 6.000 rpm (potencia max) 122 Nm de par máximo @ 4.000 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión con barra estabilizadora mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM y RDS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preequipo de teléfono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 15 pulgadas de diametro, 185 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 88"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 15 pulgadas de diámetro y 6,0 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de menor tamaño que el resto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 2.684,01 y 0,00"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras y traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz en el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.035 mm de largo, 1.734 mm de ancho, 1.474 mm de alto, 2.570 mm de batalla, 1.520 mm de ancho de vía delantero, 1.519 mm de ancho de vía trasero y 10.200 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.038 mm de altura entre banqueta-techo (delante), 978 mm de altura entre banqueta-techo (detrás), 1.301 mm de anchura en las caderas (delante), 1.252 mm de anchura en las caderas (detrás), 1.098 mm de espacio para las piernas (delante), 794 mm de espacio para las piernas (detrás), 1.365 mm de anchura en los hombros (delante) y 1.350 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 301 litros (hasta las ventanas con asientos montados) y 1.017 litros (hasta el techo con asientos plegados) ( medición VDA )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 6,0 l/100km (urbano), 4,1 l/100km (extraurbano), 4,8 l/100km (mixto), 16,7 km/l (urbano), 24,4 km/l  (extraurbano), 20,8 km/l  (mixto) y 1.042 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Cappucino"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Comfort Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Elegant Beige"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Grey Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aqua Sparkling (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iced Coffee (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mandarin Orange (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Morning Blue (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Passion Red (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Phantom Black (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura blanca sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura mica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Polar White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sleek Silver (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Star Dust (metalizado)"
+  }
+]

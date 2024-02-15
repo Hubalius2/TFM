@@ -1,0 +1,446 @@
+[
+  {
+    "feature": "Car",
+    "value": "CITROEN BERLINGO"
+  },
+  {
+    "feature": "Precio",
+    "value": "29837"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "102 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "775 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "12.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "172 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "4 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "53 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Talla M BlueHDi 100 SS SHINE BUSINESS"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4403 x 1848 x 1837mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "775 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1374 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "102 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "75 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "12.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "172 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "4 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SHINE BUSINESS (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo monovolumen compacto con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: EMP2, carrocería & puertas (local): monovolumen compacto de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.499 cc ) , cuatro cilindros en línea con cuatro válvulas por cilindro, 75,0 mm de diámetro, 84,8 mm de carrera y relación de compresión: 18,0 18,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diesel y Combustible primario: diesel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 172 km/h de velocidad máxima y 12,7 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 102 CV ( CEE ) 75 kW @ 3.500 rpm (potencia max) 250 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS y pantalla táctil pantalla a color, 0 y radio reproduce MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con radar y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 4.982,73 y 1.127,05"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de luz ambiental y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del conductor y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.403 mm de largo, 1.848 mm de ancho, 1.837 mm de alto, 2.785 mm de batalla, 1.553 mm de ancho de vía delantero, 1.567 mm de ancho de vía trasero y 10.800 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 775 litros (hasta las ventanas con asientos montados) y 3.000 litros (hasta el techo con asientos plegados) ( medición VDA )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 205 mm de ancho, 55 % de perfil y índice de velocidad: H con índice de carga: 92 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aleación ligera de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado conductor) ( deslizante ), puerta trasera (lado pasajero) ( deslizante )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual con ajuste manual del respaldo, asiento delantero del acompañante individual, abatible y ajuste longitudinal manual ( con mesa en el respaldo del asiento) con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido desmontables de orientación delantera con banqueta partida, respaldo abatible asimétrico y banqueta/respaldo plegable hacia delante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 4,0 l/100km (mixto), 25,0 km/l  (mixto) y 1.325 Km de autonomía (combinado), consumo de combustible ( WLTP ICE ): 5,2 l/100km (mixto), 19,2 km/l  (mixto), 1.019 Km de autonomía (combinado), 4,9, 5,9, 20,4 y 16,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Recarga inalámbrica del Smartphone"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consola central alta - salidas aire y usb para fila 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador 3D Citroen Connect Nav sobre pantalla táctil de 20.3cm (8\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radio Navegador 3D Citroën Connect Nav Sobre Pantalla Táctil De 20,3 Cm (8\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Toma 220V"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acceso y Arranque manos libres"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Drive Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo Modutop"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tejido Ambiente Metropolitan Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tejido GRIS 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tejido Line"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tejido Line Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tejido Mica Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Arena metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Banquise sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque desmontable sin herramientas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque fijo estandar (cuello de cisne)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Artense metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Platino metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Metallic Copper metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Perla metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlescente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación de gancho de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grip control con control de descenso en pendiente (Hill Assist Descent)"
+  }
+]

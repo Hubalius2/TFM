@@ -1,0 +1,346 @@
+[
+  {
+    "feature": "Car",
+    "value": "MASERATI QUATTROPORTE"
+  },
+  {
+    "feature": "Precio",
+    "value": "171588"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "430 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "530 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "288 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "80 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Modena S Q4 V6 430CV Gasolina AWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5262 x 1948 x 1481mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "530 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1980 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "430 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "316 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "288 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado MODENA S (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo sedán con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: M156, carrocería & puertas (local): sedán de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,0 litros ( 2.979 cc ) , seis cilindros en V con 86,5 mm de diámetro y 84,5 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 288 km/h de velocidad máxima y 4,8 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 430 CV ( (ISO) 316 kW @ 5.750 rpm (potencia max) 580 Nm de par máximo @ 2.250 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, en la columna de dirección y levas en el volante palancas tras el volante , código transmisión: 8HP70"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diez altavoces ( Harman/Kardon ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 900 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,10 \" con información en 3D y con voz, control mediante pantalla táctil 25,7 y 0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 21 pulgadas de diametro, 245 mm de ancho, 35 % de perfil y índice de velocidad: Y con índice de carga: 96 y reforzado neumáticos de alto rendimiento, neumáticos traseros de 21 pulgadas de diametro, 285 mm de ancho, 30 % de perfil y índice de velocidad: Y con índice de carga: 100 y reforzado (datos del neumático oficiales de la marca) y neumáticos de alto rendimiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático, antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 21 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 53,3, 21,6 y 9RZ, llantas traseras en aluminio de 21 pulgadas de diámetro y 10,5 pulgadas de ancho bi-tono, 53,3, 26,7 y 9RZ"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 26.544,00, 18.644,00 y IVA de IVA IVA al 21,00 % 26.544,00 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales, sensor de oscuridad y función de faros antiniebla luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.262 mm de largo, 1.948 mm de ancho, 1.481 mm de alto, 3.171 mm de batalla, 1.634 mm de ancho de vía delantero, 1.647 mm de ancho de vía trasero, 11.800 mm de diámetro de giro entre bordillos, 12.400 mm de diámetro de giro entre paredes, 2.128, 40,7 y 83,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 980 mm de altura entre banqueta-techo (delante), 960 mm de altura entre banqueta-techo (detrás), 1.647 mm de anchura en las caderas (delante), 1.469 mm de anchura en las caderas (detrás), 1.634 mm de anchura en los hombros (delante) y 1.404 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 530 litros (hasta las ventanas con asientos montados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros, tres reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste eléctrico ( seis ajustes eléctricos ) térmico, memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta, asiento delantero del acompañante deportivo con ajuste eléctrico ( seis ajustes eléctricos ) térmico, eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo y ajuste eléctrico de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 11,4 l/100km (mixto), 8,8 km/l  (mixto), 702 Km de autonomía (combinado), 10,9, 11,9, 9,2, 8,4, 18,3, 5,5, 11,8, 8,5, 9,9, 10,1, 9,9, 9,5, 10,5, 10,1, 10,5, 9,5, 22, 20, 13, 20, 24, 24, 25 y 22"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Nobile (perlescente)"
+  }
+]

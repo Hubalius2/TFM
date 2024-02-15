@@ -1,0 +1,466 @@
+[
+  {
+    "feature": "Car",
+    "value": "INEOS GRENADIER"
+  },
+  {
+    "feature": "Precio",
+    "value": "93930"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "249 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "160 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "90 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "3.0 Turbo Diesel Fieldmaster Edition SW"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4683 x 1930 x 2036mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2744 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "249 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "183 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "160 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado FIELDMASTER EDITION (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente con con sistema de control de descenso control de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,0 litros ( 2.993 cc ) , seis cilindros en línea con 84,0 mm de diámetro y 90,0 mm de carrera ; código del motor: B57"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 160 km/h de velocidad máxima y 9,9 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 249 CV ( CEE ) 183 kW @ 3.250 rpm (potencia max) 550 Nm de par máximo @ 1.250 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera de eje rígido con barra estabilizadora mediante muelle helicoidal con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con reductora y paso a modo manual , código transmisión: ZF 8HP76"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Altavoces con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con pantalla a color de 12,30 \" con control mediante pantalla táctil 31,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 14.530,61, 10.206,02 y IVA de I.V.A. IVA al 21,00 % 14.530,61 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) manual y inclinable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.683 mm de largo, 1.930 mm de ancho, 2.036 mm de alto, 264 mm de altura libre sobre el suelo sin carga, 2.922 mm de batalla, 1.645 mm de ancho de vía delantero, 1.645 mm de ancho de vía trasero, 13.500 mm de diámetro de giro entre bordillos, 2.146 y 84,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.001 mm de altura entre banqueta-techo (delante), 1.002 mm de altura entre banqueta-techo (detrás), 1.000 mm de espacio para las piernas (delante) y 774 mm de espacio para las piernas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 2.035 litros (hasta el techo con asientos plegados), 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo todo terreno de 18 pulgadas de diametro, 265 mm de ancho, 70 % de perfil y índice de velocidad: S con índice de carga: 116 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 8,0 pulgadas de ancho 45,7 y 20,3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con doble hoja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante ( fabricado por Recaro) térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 10,0, 11,7, 10,0, 8,5, 24 y 20"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Rough"
+  },
+  {
+    "feature": "Informacion",
+    "value": "TECHO EN CONTRASTE, PINTADO. Inky Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "TECHO EN CONTRASTE, PINTADO. Scottish White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Driver's de cuero Saddle"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suelo con moqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de cuero, Grey/Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Barras interiores Utility"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Caja de almacenamiento en la rueda de repuesto con cierre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "CHASIS DE LARGUEROS EN CONTRASTE, PINTURA ELECTROSTÁTICA. Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "CHASIS DE LARGUEROS EN CONTRASTE, PINTURA ELECTROSTÁTICA. Red"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de herramientas exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Filtro de combustible de gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Leather Trim - Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Leather Trim - Grey/Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación eléctrica y panel de interruptores auxiliares de alta capacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Separador diésel/agua"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Toma de aire elevada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bola de remolque fija y componentes eléctricos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Britannia Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cabestrante integrado de gran resistencia, 5,5 toneladas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristal tintado termorreflectante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Donny Grey Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eldoret Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inky Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Magic Mushroom"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumático BFGoodrich All-Terrain T/A KO2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paneles laterales traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Queen's Red Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Scottish White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sela Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shale Blue Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sterling Silver Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bloqueos del diferencial delantero y trasero"
+  }
+]

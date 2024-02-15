@@ -1,0 +1,426 @@
+[
+  {
+    "feature": "Car",
+    "value": "TOYOTA YARIS CROSS"
+  },
+  {
+    "feature": "Precio",
+    "value": "30750"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "116 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "390 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "36 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.5 120H Style"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4180 x 1765 x 1560mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "390 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1245 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "116 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "116 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "85 kW"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "0.8 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado STYLE (clasificación JATO: mediano M2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: TNGA-B, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.490 cc ) , tres cilindros en línea con 80,5 mm de diámetro y 97,6 mm de carrera ; código del motor: M15A-FXE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 170 km/h de velocidad máxima y 11,2 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 116 CV ( CEE ) 85 kW ; 80 CV (potencia máx. motor eléctrico), 59 kW (potencia máx. motor eléctrico) y 141 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de variación continua de velocidad variable con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 9,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 22,9, 48 y 48"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 5.336,78, 0,00 y IVA de IVA IVA al 21,00 % 5.336,78 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 180 meses y 250.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.180 mm de largo, 1.765 mm de ancho, 1.560 mm de alto, 160 mm de altura libre sobre el suelo sin carga, 2.560 mm de batalla, 1.517 mm de ancho de vía delantero, 1.527 mm de ancho de vía trasero y 10.600 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 390 litros (hasta las ventanas con asientos montados) y 1.097 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 18 pulgadas de diametro, 215 mm de ancho, 50 % de perfil y índice de velocidad: V con índice de carga: 92"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 7,0 pulgadas de ancho bi-tono, 45,7 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( cinco ajustes eléctricos ) térmico, eléctrico, ajuste eléctrico en altura y eléctrico con ajuste eléctrico del respaldo y ajuste eléctrico de la inclinacion de la banqueta, asiento delantero del acompañante individual, térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible 40/20/40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 4,9 l/100km (mixto), 20,4 km/l  (mixto), 735 Km de autonomía (combinado), 4,3, 5,2, 23,3, 19,2, 55 y 45"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Style Bi-tono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapiceria cuero parcial marrón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ámbar (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bi-tono Ámbar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bi-tono Blanco Perlado/Negro (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bi-tono Gris Ágata (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bi-tono Gris Grafito"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bi-tono Rojo Emoción/Negro (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Classic (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Perlado Iceberg (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bronce Oliva (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Ágata (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Grafito (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Azabache (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Emoción (perl)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Style Plus"
+  }
+]

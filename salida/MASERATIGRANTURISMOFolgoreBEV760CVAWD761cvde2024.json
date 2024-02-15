@@ -1,0 +1,686 @@
+[
+  {
+    "feature": "Car",
+    "value": "MASERATI GRANTURISMO"
+  },
+  {
+    "feature": "Precio",
+    "value": "196939"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "761 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "270 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "2.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "325 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "Folgore BEV 760CV AWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4959 x 1957 x 1353mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "270 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "2260 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "761 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "761 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "560 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "23 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "435 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "92.5 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga rápida (270.0 kW)",
+    "value": "18 min (20% - 80%)"
+  },
+  {
+    "feature": "Voltaje de carga rápida",
+    "value": "800 V"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "2.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "325 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado FOLGORE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo coupé de 2 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): coupé de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 325 km/h de velocidad máxima, 2,7 segs de aceleración 0-100 km/h y 325 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 761 CV ( CEE ) 560 kW y 1.350 Nm de par máximo ; 761 CV (potencia máx. motor eléctrico), 560 kW (potencia máx. motor eléctrico) y 1.350 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante aire con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante aire con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con en la columna de dirección"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Catorce altavoces ( otra ) con subwoofer y sonido surround"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital, radio por internet y pantalla táctil pantalla a color y 860 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 12,30 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 31,2, 36 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 20 pulgadas de diametro, 265 mm de ancho, 35 % de perfil y índice de velocidad: Y con índice de carga: 94 y reforzado (datos del neumático oficiales de la marca) y neumáticos de alto rendimiento, neumáticos traseros de 21 pulgadas de diametro, 295 mm de ancho, 30 % de perfil y índice de velocidad: Y con índice de carga: 102 y reforzado (datos del neumático oficiales de la marca) y neumáticos de alto rendimiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático, antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 50,8, 21,6 y 2FN, llantas traseras en aluminio de 21 pulgadas de diámetro y 10,5 pulgadas de ancho bi-tono, 53,3, 26,7 y 2FN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 34.179,60, 0,00 y IVA de IVA IVA al 21,00 % 34.179,60 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales y sensor de oscuridad luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico en cuero y negro piano ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y memoria de posición de los asientos incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.959 mm de largo, 1.957 mm de ancho, 1.353 mm de alto, 110 mm de altura libre sobre el suelo sin carga, 2.929 mm de batalla, 1.647 mm de ancho de vía delantero, 1.660 mm de ancho de vía trasero, 12.400 mm de diámetro de giro entre paredes, 2.113, 40,7 y 83,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 270 litros (hasta las ventanas con asientos montados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros, dos reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste eléctrico ( nueve ajustes eléctricos ) térmico, memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo, ajuste memorizado de la inclinacion de la banqueta y ajuste memorizado del suplemento de la banqueta, asiento delantero del acompañante deportivo con ajuste eléctrico ( nueve ajustes eléctricos ) térmico, eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo, ajuste eléctrico de la inclinacion de la banqueta y ajuste eléctrico del suplemento de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo individual/deportivo de orientación delantera con banqueta fija, respaldo fijo y comunicado con el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "E-Call"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Módulo Global Telematics Box (Tbm)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Punto de acceso Wi-Fi"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Servicios de conectividad - Europa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado interior en Cargono Macrotwill"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo interior en Alcantara con montantes y parasoles"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ADAS pack 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador inalámbrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Comfort Pack for Trofeo & Folgore"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radio Dab"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de audio Sonus Faber High Premium - 19 altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dc Booster (Dcbc)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor de fibra de carbono 3D Touch"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Public Charge (P&C ON)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de alarma Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Folgore en Econilo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridente cosido en los reposacabezas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Forged Machined - Astreo Design - Diamond Cut Glossy Dark Myron"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Forged Machined - Astreo Design - Diamond Cut Glossy Dark Myron + B Class Tire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Forged Machined - Astreo Design - Diamond Cut Matte Dark Myron"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Forged Machined - Astreo Design - Diamond Cut Matte Dark Myron + B Class Tire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Light Alloy - Aura Design - Bicolor Matte Finishing Black Diamond Cut + Dark Clearcoat Black Finish"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Light Alloy - Aura Design - Bicolor Matte Finishing Black Diamond Cut + Dark Clearcoat Black Finish + B Class Tire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20''/21'' - Light Alloy - Aura Design - Diamond Cut Glossy Black + B Class Tire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "AI Aqua Rainbow (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aqua Marina (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azurro Astro Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bianco Pastello (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Alabastro (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Corse Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Denim (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Emozione (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Graphite (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Nobile (tricapa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Royale (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Victory (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales privacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Devil Orange (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Digital Mint (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Mate Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Metálico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Sólido Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Texturizado - Powder Nude Texturized"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Tricapa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Tricapa Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Giallo Corse (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Cangiante (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Maratea (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Maratea Opaco (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hypergreen (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Military Teal Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nero Assoluto (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Night Interaction (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Orange Glow (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Orange Zest (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blu Emozione"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blu Nobile"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Fuoriserie Giallo Corse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Fuoriserie Grigio Cangiante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Grigio Maratea"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Grigio Maratea Opaco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Nero Assoluto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinturas FUORISERIE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Powder Nude Texturized (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rose Gold Liquid Metal (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rosso GranTurismo (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Urban Green (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Royale (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Vintage Ochre (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Estribos de freno pintados en rojo - anodizados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Pinzas Frenos Pintadas - Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Pinzas Frenos Pintadas - Lime"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie Pinzas Frenos Pintadas - Naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en amarillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en azul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tech Assistance pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Wallbox Maserati, Kit de carga doméstica, Kit de carga pública"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ADAS pack 1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de visión envolvente (360 grados) - 2D y pared virtual + Aviso de distancia lateral"
+  }
+]

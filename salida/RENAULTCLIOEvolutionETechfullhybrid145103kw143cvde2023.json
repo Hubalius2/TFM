@@ -1,0 +1,414 @@
+[
+  {
+    "feature": "Car",
+    "value": "RENAULT CLIO"
+  },
+  {
+    "feature": "Precio",
+    "value": "23130"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "143 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "300 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "39 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Evolution ETech full hybrid 145 103kw"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4050 x 1798 x 1440mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "300 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1323 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Inyección multipunto"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "143 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "143 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "105 kW"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "1.2 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor generador integrado"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado EVOLUTION (clasificación JATO: mediano M2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: CMF-B, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,6 litros ( 1.598 cc ) , cuatro cilindros en línea con 78,0 mm de diámetro y 83,6 mm de carrera ; código del motor: H4M"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima y 9,3 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 143 CV ( CEE ) 105 kW @ 5.600 rpm (potencia max) 144 Nm de par máximo @ 3.200 rpm (par max) ; 49 CV (potencia máx. motor eléctrico), 36 kW (potencia máx. motor eléctrico) y 205 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de seis marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 195 mm de ancho, 55 % de perfil y índice de velocidad: H con índice de carga: 87 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 16 pulgadas de diámetro y 6,5 pulgadas de ancho 40,6 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 4.014,30, 0,00 y IVA de IVA IVA al 21,00 % 4.014,30 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.050 mm de largo, 1.798 mm de ancho, 1.440 mm de alto, 120 mm de altura libre sobre el suelo sin carga, 2.583 mm de batalla, 1.509 mm de ancho de vía delantero, 1.494 mm de ancho de vía trasero, 10.420 mm de diámetro de giro entre bordillos, 1.988 y 78,3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 991 mm de altura entre banqueta-techo (delante), 942 mm de altura entre banqueta-techo (detrás), 1.372 mm de anchura en las caderas (delante), 1.370 mm de anchura en las caderas (detrás), 1.360 mm de anchura en los hombros (delante) y 1.294 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 300 litros (hasta las ventanas con asientos montados) y 1.069 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 4,2 l/100km (mixto), 23,9 km/l  (mixto) y 932 Km de autonomía (combinado) (fuente: Calculated )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros calefactables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack navigation"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería gris con patrón 3D"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta manos libres"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Rayo (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Glaciar (opaco)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Pizarra (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Zinc (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Valencia (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Brillante (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos \"all season\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack look Evolution"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanco Glaciar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Azul Rayo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Gris Zinc"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Negro Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Rojo Deseo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Deseo (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de emergencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara trasera"
+  }
+]

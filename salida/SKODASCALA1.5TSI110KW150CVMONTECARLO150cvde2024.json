@@ -1,0 +1,470 @@
+[
+  {
+    "feature": "Car",
+    "value": "SKODA SCALA"
+  },
+  {
+    "feature": "Precio",
+    "value": "32200"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "467 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "221 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.5 TSI 110 KW 150 CV MONTE CARLO"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4365 x 1793 x 1471mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "467 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1259 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.2 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "221 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado MONTE CARLO (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB A0, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.498 cc ) , cuatro cilindros en línea con 74,5 mm de diámetro y 85,9 mm de carrera ; código del motor: DADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 221 km/h de velocidad máxima y 8,2 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( (ISO) 110 kW @ 3.500 rpm (potencia max) 250 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo , código transmisión: MQ200GA-6F"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el maletero/parte inferior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 205 mm de ancho, 50 % de perfil y índice de velocidad: V con índice de carga: 89 y baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 6,5 pulgadas de ancho 43,2 y 16,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 5.375,51, 1.215,89 y IVA de IVA IVA al 21,00 % 5.375,51 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales, sensor de oscuridad y función de faros antiniebla luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con teléfono móvil (NFC) y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del conductor y del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.365 mm de largo, 1.793 mm de ancho, 1.471 mm de alto, 2.649 mm de batalla, 1.531 mm de ancho de vía delantero, 1.516 mm de ancho de vía trasero, 10.200 mm de diámetro de giro entre bordillos, 10.900 mm de diámetro de giro entre paredes, 1.988, 35,8 y 78,3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.031 mm de altura entre banqueta-techo (delante), 982 mm de altura entre banqueta-techo (detrás), 1.439 mm de anchura en las caderas (delante), 1.425 mm de anchura en las caderas (detrás), 1.391 mm de anchura en los hombros (delante) y 1.372 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 467 litros (hasta las ventanas con asientos montados) y 1.410 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,7 l/100km (mixto), 17,5 km/l  (mixto) y 877 Km de autonomía (combinado) (fuente: EU6AP ) 5,6, 5,7, 17,9, 17,5, 7,2, 13,9, 5,7, 17,5, 5,0, 20,0, 5,6, 17,9, 42, 41, 33, 41, 47 y 42"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de carga USB-C a Apple Lightning (Elimina cable de carga USB-C a USB-C)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Conducción Asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Simply Clever Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Technology Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Con adaptador (para remolque)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Conducción Asistida Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Convinience Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Drive"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Invierno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Sistema de navegación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red divisoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Monte Carlo Frederic Rojo / Cuero Carbon"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable deportivo 3 radios y costura en rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piso doble en maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "AZUL ENERGY UNIFORME"
+  },
+  {
+    "feature": "Informacion",
+    "value": "AZUL RACE METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BLANCO CANDY UNIFORME"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BLANCO LUNA METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dispositivo de remolque plegable manual y extraíble eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "GRIS GRAPHITE METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "GRIS STEEL UNIFORME"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 18\" URSA MC negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "NEGRO MÁGICO METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura uniforme"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura uniforme: Blanco Candy"
+  },
+  {
+    "feature": "Informacion",
+    "value": "PLATA BRILLANTE METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para dispositivo de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ROJO VELVET METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de emergencia de acero, gato, llave para tornillos de rueda"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sin inscripción del modelo sobre el portón del maletero (logo Skoda en negro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tornillos de rueda con seguro antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía comercial prolongada para 4 años, hasta 60 000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía comercial prolongada para 4 años, hasta 90 000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía comercial prolongada para 5 años, hasta 100 000 km"
+  }
+]

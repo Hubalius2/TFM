@@ -1,0 +1,446 @@
+[
+  {
+    "feature": "Car",
+    "value": "FIAT 500C"
+  },
+  {
+    "feature": "Precio",
+    "value": "39100"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "185 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "135 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "laPrima Cabrio 190km 70kW 95cv"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3632 x 1683 x 1527mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "185 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1330 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "70 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "14.3 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "190 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "23.8 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "915 min (undefined% - undefined%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida (50.0 kW)",
+    "value": "30 min (0% - 80%)"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "13 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "135 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado LA PRIMA, Edición limitada: Edición Limitada (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo cabrio de 2 puertas, batalla corta, volante al lado izquierdo, código de plataforma: B2, carrocería & puertas (local): cabrio de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 135 km/h de velocidad máxima, 9,5 segs de aceleración 0-100 km/h y 135 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 95 CV ( CEE ) 70 kW y 220 Nm de par máximo @ 0 rpm (par max) ; 95 CV (potencia máx. motor eléctrico), 70 kW (potencia máx. motor eléctrico) y 220 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión con barra estabilizadora mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces ( JBL ) con sonido surround mejora 3D"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color y 200 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,25 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 26,0 y 999"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 6.790,15, 0,00 y IVA de IVA IVA al 21,00 % 6.790,15 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 24 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen controles en pantalla táctil y calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.632 mm de largo, 1.683 mm de ancho, 1.527 mm de alto, 2.322 mm de batalla, 1.470 mm de ancho de vía delantero, 1.460 mm de ancho de vía trasero, 9.320 mm de diámetro de giro entre bordillos, 1.900 y 74,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 185 litros (hasta las ventanas con asientos montados) y 550 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 205 mm de ancho, 45 % de perfil y índice de velocidad: V con índice de carga: 88 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,5 pulgadas de ancho bi-tono, 43,2, 19,0 y 404"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual, térmico y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible simétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de carga Mode 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura capota con mando a distancia (solo cabrio)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bolsa para Cable Mode 3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bolsa para Cable Modo 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compensatorio D-fence pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Easy wallbox"
+  },
+  {
+    "feature": "Informacion",
+    "value": "EasyWallbox COMPENSATORIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ecopiel Beige (capota Negra)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "e-Scooter MOPAR Blue Celestial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "e-Scooter MOPAR Color Blue celestial (compensatorio)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "e-Scooter MOPAR Color Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "e-Scooter MOPAR Color Gris (compensatorio)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión porta objetos consola central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión porta objetos consola central COMPENSATORIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Módulo CarSharing (Sólo disponible para flotas)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack D-fence"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Vacia bolsillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Vacia bolsillos COMPENSATORIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ice White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocean Green (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Onyx Black (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Ocean Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Onyx Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Ice White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rose Earth of Italy (metalizado)"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "feature": "Car",
+    "value": "HYUNDAI STARIA"
+  },
+  {
+    "feature": "Precio",
+    "value": "55740"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "177 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "831 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "12.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "185 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "75 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.2 CRDI Tecno 9S"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5253 x 1997 x 1990mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "831 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "9"
+  },
+  {
+    "feature": "Peso",
+    "value": "2141 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "177 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "130 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "12.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "185 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado TECNO (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo monovolumen con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: N3, carrocería & puertas (local): monovolumen de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,2 litros ( 2.199 cc ) , cuatro cilindros en línea con 85,4 mm de diámetro y 96,0 mm de carrera ; código del motor: D4HB"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 185 km/h de velocidad máxima y 12,4 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 177 CV 130 kW @ 3.800 rpm (potencia max) 430 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tres altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,30 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 26,2, 60 y 60"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 18 pulgadas de diametro, 235 mm de ancho, 55 % de perfil y índice de velocidad: H con índice de carga: 104"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 7,0 pulgadas de ancho bi-tono, 45,7 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en aluminio de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado conductor) eléctrica ( deslizante ) apertura manos libres, puerta trasera (lado pasajero) eléctrica ( deslizante ) apertura manos libres"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina en las tres filas de asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y ajustable en altura con pretensores, cinturón de seguridad delantero en asiento acompañante y ajustable en altura con pretensores, cinturón de seguridad delantero en asiento central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor, cinturón seguridad tercera fila en lado acompañante, cinturón seguridad tercera fila en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 8.622,76, 6.056,46 y IVA de IVA IVA al 21,00 % 8.622,76 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go control crucero adaptativo vincula. mapa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, faros direccionales, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en aluminio y cuero sintético ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtrado de iones y filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.253 mm de largo, 1.997 mm de ancho, 1.990 mm de alto, 186 mm de altura libre sobre el suelo sin carga, 3.273 mm de batalla, 1.721 mm de ancho de vía delantero, 1.732 mm de ancho de vía trasero y 11.940 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 831 litros (hasta las ventanas con asientos montados) y 1.303 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tres reposacabezas en asientos delanteros, asientos traseros y la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante tipo banco y ajuste longitudinal manual con ajuste manual del respaldo, asiento delantero central tipo banco con respaldo plegable a posición de mesa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo individual+banco de orientación delantera abatibles en el suelo y ajuste longitudinal manual con banqueta fija, respaldo abatible asimétrico y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 8,2 l/100km (mixto), 12,2 km/l  (mixto), 915 Km de autonomía (combinado), 10,7, 9,3, 8,3, 12,0, 6,9, 14,5, 8,3, 12,0, 22, 28, 34 y 28"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Cuero Beige"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de Cuero Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Abyss Black (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Creamy White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dynamic Yellow (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Graphite Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Moonlight Blue (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shimmering Silver (metalizado)"
+  }
+]

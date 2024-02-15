@@ -1,0 +1,458 @@
+[
+  {
+    "feature": "Car",
+    "value": "JEEP COMPASS"
+  },
+  {
+    "feature": "Precio",
+    "value": "51400"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "240 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "420 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "200 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "42 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "4Xe 1.3 PHEV 177kW Summit AT AWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4394 x 1819 x 1649mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "420 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1935 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "240 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "240 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "177 kW"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "11.4 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor generador integrado"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "300 min (0% - 100%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida (22.0 kW)",
+    "value": "97 min (0% - 100%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.3 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "200 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SUMMIT (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: SCCS, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso y selección manual y auto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,3 litros ( 1.332 cc ) , cuatro cilindros en línea con 70,0 mm de diámetro y 86,5 mm de carrera ; código del motor: 46337540"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico, combustible adicional: sin plomo y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 200 km/h de velocidad máxima, 7,3 segs de aceleración 0-100 km/h y 130 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 240 CV ( CEE ) 177 kW @ 5.750 rpm (potencia max) 270 Nm de par máximo @ 1.850 rpm (par max) ; 60 CV (potencia máx. motor eléctrico), 44 kW (potencia máx. motor eléctrico) y 250 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de seis marchas con paso a modo manual y palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, Tarjeta digital, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 8.920,66, 0,00 y IVA de IVA IVA al 21,00 % 8.920,66 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en aluminio y cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.394 mm de largo, 1.819 mm de ancho, 1.649 mm de alto, 201 mm de altura libre sobre el suelo sin carga, 2.636 mm de batalla, 1.574 mm de ancho de vía delantero, 1.574 mm de ancho de vía trasero, 11.070 mm de diámetro de giro entre bordillos, 2.033 y 80,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 420 litros (hasta las ventanas con asientos montados) y 1.230 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 235 mm de ancho, 45 % de perfil y índice de velocidad: V con índice de carga: 99 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 7,5 pulgadas de ancho 48,3, 19,0 y 3DP"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual con ajuste eléctrico ( cuatro ajustes eléctricos ) ventilado, eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo 40/20/40 de orientación delantera con banqueta fija y respaldo abatible 40/20/40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV Factor de Utilidad ponderado ):"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable Modo 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Winter"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero ventilado negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Guía extendida en Español"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Parking"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alpine White (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alpine White + techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blue Shade (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blue Shade + techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Colorado Red (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Colorado Red + techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Graphite Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Graphite Grey + techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto tamaño completo/uso temporal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Solid Black (sólido)"
+  }
+]

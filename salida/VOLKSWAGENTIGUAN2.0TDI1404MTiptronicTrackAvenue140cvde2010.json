@@ -1,0 +1,398 @@
+[
+  {
+    "feature": "Car",
+    "value": "VOLKSWAGEN TIGUAN"
+  },
+  {
+    "feature": "Precio",
+    "value": "40220"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "140 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "470 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "182 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "7.1 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "64 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.0 TDI 140 4M Tiptronic Track  Avenue"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4427 x 1809 x 1686mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "470 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1679 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Distribución",
+    "value": "Doble árbol de levas en cabeza (DOHC)"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "140 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "103 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "182 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "9.2 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "5.9 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "7.1 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado TRACK & AVENUE, edición limitada: edición limitada (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Todoterreno con 5 puertas batalla corta, volante al lado izquierdo, código de plataforma: PQ35 y carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco y dos de ellos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso y selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.968 cc ) , 4 cilindros en línea con cuatro válvulas por cilindro, 81,0 mm de diámetro, 95,5 mm de carrera, relación de compresión: 16,5 y doble árbol de levas en cabeza (DOHC)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diesel y diesel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 182 km/h de velocidad máxima y 10,7 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 140 CV (CEE) - 103 kW @ 4.200 rpm , par máximo: 320 Nm @ 1.750 rpm"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora y muelles helicoidales ; ruedas independientes, suspensión trasera multibrazo (multilink) con barra estabilizadora y muelles helicoidales ; ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión automática con modo manual de seis velocidades con paso a modo manual y en volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces ( DynAudio )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio ( marca propia del fabricante ) con radio AM/FM, RDS y cargador de 6 CDs, con lector de CD para MP3 y Tarjeta digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con mandos en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio, consumo instantáneo y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador de 6 CD en salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros, traseros 255 mm de ancho, 40 % de perfil, índice de velocidad: V y índice de carga: 100 tipo convencional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior lado conductor y acompañante eléctrico, desempañable y Pintado con con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras de aleación ligera, 19 pulgadas de diámetro y 9,0 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta de acero y de menor tamaño que el resto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frenos ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores distancia aparcamiento delanteros y traseros con radar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina, delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, lado acompañante y asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos I.V.A. (16%), Impuesto de Matriculación (9,75%) y 37.101,56"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: duración 24 meses, distancia ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura del maletero a distancia con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inmovilizador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros bi-xenón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros automática , activa con sensor de luz ambiental"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia de doble cierre inc. apertura del maletero y de las elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar delantero de cristal eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multifuncional de aleación y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida tipo con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del conductor y del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con controles digitales con filtro de partículas y de carbón activo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona con climatizador automático auto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros ; dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador baja presión neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.427 mm de largo, 1.809 mm de ancho, 1.686 mm de alto, 200 mm de altura libre sobre el suelo sin carga, 2.604 mm de batalla, 1.570 mm de ancho de vía delantero, 1.570 mm de ancho de vía trasero y 12.000 mm de diámetro de giro entre paredes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 961 mm de altura entre banqueta-techo (delante), 952 mm de altura entre banqueta-techo (detrás), 1.482 mm de anchura en las caderas (delante) y 1.459 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 470 litros (hasta las ventanas con asientos montados) y 1.510 litros (hasta el techo con asientos plegados)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en F ajustables en altura, tres reposacabezas en R ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo, térmico con ajuste en altura, lumbar y eléctrico ( 1 ajuste eléctrico ) con mesa en respaldo del asiento manual y eléctrico, asiento delantero del acompañante deportivo, térmico con ajuste en altura y lumbar con mesa en respaldo del asiento manual y manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas , tipo banco partido y orientados delantero y reclinables con ajuste longitudinal ; banqueta fija con respaldo abatible asimétrico manual y manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ECE 99/100 : 9,2 l/100km (urbano), 5,9 l/100km (extraurbano), 7,1 l/100km (mixto), 901 y 560"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Heavy Waxy Marrón Amaranto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Oryx Nacarado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Niebla Metalizado"
+  }
+]

@@ -1,0 +1,1182 @@
+[
+  {
+    "feature": "Car",
+    "value": "PORSCHE TAYCAN"
+  },
+  {
+    "feature": "Precio",
+    "value": "145409"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "598 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "446 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "3.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "250 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "GTS Sport Turismo"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4963 x 1966 x 1391mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "446 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "2385 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "598 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "598 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "440 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "21.1 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "490 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "93.4 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga rápida (270.0 kW)",
+    "value": "22 min (5% - 80%)"
+  },
+  {
+    "feature": "Voltaje de carga rápida",
+    "value": "800 V"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "3.7 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "250 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GTS (clasificación JATO: deportivo S2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo familiar con 5 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): familiar de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 250 km/h de velocidad máxima, 3,7 segs de aceleración 0-100 km/h y 250 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 598 CV ( CEE ) 440 kW y 850 Nm de par máximo @ 0 rpm (par max) ; 598 CV (potencia máx. motor eléctrico), 440 kW (potencia máx. motor eléctrico) y 850 Nm (torque máx. motor eléctrico) potencia con combustible primario, potencia máxima de 30 minutos kW 142 y potencia máxima de 30 minutos hp / PS 193"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante aire con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante aire con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de dos marchas con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diez altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital, radio por internet y pantalla táctil pantalla a color y 150 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte, cargador y antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,90 \" con información por vista de satélite, control mediante pantalla táctil y información de tráfico 27,7"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 20 pulgadas de diametro, 255 mm de ancho, 40 % de perfil y índice de velocidad: Y con índice de carga: 101 y reforzado (datos del neumático oficiales de la marca), neumáticos traseros de 20 pulgadas de diametro, 295 mm de ancho, 35 % de perfil y índice de velocidad: Y con índice de carga: 105 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 20 pulgadas de diámetro y 9,0 pulgadas de ancho 50,8, 22,9 y 53Z, llantas traseras en aluminio de 20 pulgadas de diámetro y 11,0 pulgadas de ancho 50,8, 27,9 y 53Z"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros y traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 25.236,27, 0,00 y IVA de IVA IVA al 21,00 % 25.236,27 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales y sensor de oscuridad luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico en ante ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático con control a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.963 mm de largo, 1.966 mm de ancho, 1.391 mm de alto, 128 mm de altura libre sobre el suelo sin carga, 2.900 mm de batalla, 2.144 y 84,4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 446 litros (hasta las ventanas con asientos montados) y 1.212 litros (hasta el techo con asientos plegados) ( medición propia del fabricante) 84 l de almacenamiento delantero y 3,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros, dos reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo con ajuste eléctrico ( nueve ajustes eléctricos ) memorizado, memorizado y eléctrico de dos direcciones con ajuste memorizado del respaldo, ajuste memorizado de la inclinacion de la banqueta y ajuste memorizado del suplemento de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de carga (Modo 3)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable para toma de corriente industrial (Azul): 230 V, 16 A, 3 PIN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable para toma de corriente industrial (Roja): 400 V, 16 A 5 PIN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Azul Grafito"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Beige Atacama"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Beige Caliza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Bramble"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Crayón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Marrón Meranti"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Marrón Trufa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad en color Rojo Bordeaux"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados térmicos y aislantes del ruido incluye Privacy Glass"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iluminación ambiente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pantalla para el acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pasos de puerta a medida en Carbono mate, iluminados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pasos de puerta en Aluminio pulido en color Negro, iluminados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pasos de puerta en Aluminio pulido en color Negro, iluminados (con pasos de puerta interiores y molduras de los pilares B de cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pasos de puerta en carbono (mate), iluminados (en combinación con los pasos interiores de puerta y molduras de los pilares B en cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pasos de puerta en Carbono mate, iluminados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pasos de puerta personalizados en aluminio pulido color Negro, iluminados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema remoto de ayuda al aparcamiento (ParkAssist Remote)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrilla de maletero reversible y personalizada con ribete de piel y con protección del borde de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrilla del maletero, a medida y reversible, con ribete de cuero y con protección del borde de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas a medida con ribete de cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas con ribete en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas de pelo largo con ribete en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas en carbono con ribete de cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas en Carbono con ribete en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas personalizadas con ribete en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos calefactables (delanteros)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos confort delanteros (14 posiciones, eléctricos) con paquete de memoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros ventilados con función de masaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros y traseros calefactables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos ventilados (delanteros)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bolsa Portaesquís"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Esfera de reloj Subsecond Porsche Design"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono Club Leather Olea"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono con acabado liso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono Crayón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono rojo Carmín"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero Club Leather Olea"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero con acabado liso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en Race-Tex con elementos adicionales de cuero negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete consola central en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de molduras en cuero de la consola central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior en aluminio (diseño en rombos)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior en Carbono (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior en madera de Paldao"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pedales en Aluminio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "HomeLink® - Sistema de apertura de garaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche Rear Seat Entertainment"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido Bose® Surround Sound System"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido Burmester® High-End Surround Sound-System"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrilla reversible del maletero con ribete en Race-Tex con protección del borde de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas de pelo largo con ribete en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asideros de techo en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asideros de techo en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros deportivos adaptativos (18 posiciones, eléctricos) con paquete de memoria confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de Cambio de Carril (Lane Change Assist)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bandeja portaobjetos de asientos traseros en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bandeja portaobjetos del tunel central trasero en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Base de los asientos delanteros en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de conexión entre la Unidad de Control y el vehículo de 7,5 m"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable para toma de corriente industrial (Roja): 400V, 32A, 5 PIN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador Avanzado de 4 zonas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consolas de los asientos en Race-Tex (delanteros)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Costuras decorativas del aro del volante en color de contraste"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Designación de modelo pintada en color exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Designación de modelo pintada en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eje trasero direccional con servodirección electrónica asistida Plus (Power Steering Plus)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Escudo Porsche en la tapa de la guantera de la consola central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Escudo Porsche en los reposacabezas (delanteros y laterales traseros)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Esfera del Sport Chrono en color Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Esfera del Sport Chrono en color Crayón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Esfera del Sport Chrono en color Rojo Bordeaux"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Esfera del Sport Chrono en color Rojo Carmín"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros principales LED-Matrix en color Azul Glaciar con Porsche Dynamic Light System Plus (PDLS Plus)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Filtro de partículas/ filtro de polen de carbono activo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franja continua de pilotos de luz con logotipo 'PORSCHE' en Azul Glaciar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Home Energy Manager"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior de los pasos de puerta y molduras de los Pilares B en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono Club Leather Olea en color Negro Basalto / Beige Atacama"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono Club Leather Olea en color Negro Basalto / Marrón Meranti"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono con acabado liso en color Bramble / Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono con acabado liso en color Negro / Beige Caliza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono con acabado liso en color Negro/ Rojo Bordeaux"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero bitono con acabado liso en color Negro/Crayón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero Club Leather Olea en color Marrón Trufa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero Club Leather Olea en color Negro Basalto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero con acabado liso en color Bramble"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero con acabado liso en color Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior en cuero con acabado liso en color Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free bitono en color Azul Grafito / Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free bitono en color Negro / Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free en color Azul Grafito"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free en color Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Leather-Free en color Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas pintadas en color contraste"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas pintadas en color exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas pintadas en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas pintadas en color Negro Jet Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas pintadas en color Oro satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas pintadas en color Platino (satinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave de vehículo a medida de cuero con portallaves de cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave del vehículo en cuero con portallaves en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave del vehículo pintada a medida con portallaves de cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave del vehículo pintada con portallaves en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Logotipo \"electric\" en los laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Logotipo \"PORSCHE\" en la tapa de la guantera de la consola central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Logotipo del modelo en la tapa de la guantera de la consola central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Moldura del limpiaparabrisas trasero pintado en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Moldura del portavasos de cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Panel del espejo retrovisor interior en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete \"75 Aniversario\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Accent en color Plata Oscuro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Accent Neodyme"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Accent pintado en color exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Carbon SportDesign"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de molduras decorativas de cuero en el panel de instrumentos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de molduras interiores con costuras decorativas y bordados en color de contraste (en combinación con Paquetes interiores GTS Race-Tex)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de molduras interiores con costuras decorativas y sección central de los asientos en cuero en color de contraste"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Interior con costuras de color de contraste"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior en Race-Tex con elementos adicionales de cuero en color Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior GTS en color Crayón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior GTS en color Rojo Carmín"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete moldura de puertas en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parabrisas con tintado graduado en tonalidad gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parasoles en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche Charging Dock"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche Entry & Drive - Acceso Confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche Intelligent Range Manager"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche Mobile Charger Connect"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portadocumentos en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portadocumentos personalizado en cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pre-instalación para Porsche Rear Seat Entertainment"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preinstalación para soporte trasero de transporte de bicicleta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para Porsche Dash Cam"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Proyectores de puerta LED con anagrama \"PORSCHE\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red de separación del maletero (espacio de carga)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento del pilar B en Race-Tex"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sección central de los asientos en cuero de color contraste"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Servodirección electrónica asistida Plus (Power Steering Plus)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Set de adhesivos personalizados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de calefacción auxiliar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sustitución: Cable de carga (modo 3) en lugar de Porsche Mobile Charger"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapa eléctrica de la toma de corriente del vehículo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo panorámico fijo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo panorámico, fijo, con control variable de luz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable (Paquete Sport Chrono e interior en cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable con elementos en Carbono mate (en combinación con el Paquete Sport Chrono e interior en cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable con moldura en carbono (mate) y con el aro del mismo en Race - Tex (en combinación con el Paquete Sport Chrono y con el interior de cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable con moldura encarbono (mate) y con el aro del mismo en Race - Tex (en combinación con el Paquete Sport Chrono y con el interior de cuero)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Frozen Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Gentián Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Neptuno Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Beige Café Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Carrara Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Colores de serie"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Crayón Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales térmicos, aislantes del ruido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados (Privacy Glass)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eliminación del logotipo 'GTS' de los faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos exteriores plegables eléctricamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos retrovisores pintados en color exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frozenberry Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Hielo Metalizado Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Vulcano Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de 20\" Turbo S Aero Design"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de 21\" Taycan Exclusive Design con aeroblades (aspas) en Carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Mission E Design de 21\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas RS Spyder Design de 21 pulgadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Sport Aero de 20\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Taycan Exclusive Design de 21\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Taycan Turbo Aero de 20\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras inferiores de los retrovisores exteriores pintadas en color exterior, incluyendo la base del retrovisor pintada en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras superiores de los retrovisores exteriores en Carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Jet Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura color personalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Dolomita Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Raíles de techo en Aluminio color Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores exteriores e interiores con antideslumbramiento automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Carmín Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Supresión designación de modelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tiradores exteriores de puerta en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tuercas de rueda anti-robo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador de abordo (AC) de 22 kW"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Head - Up Display"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de frenos Porsche Surface Coated Brake (PSCB). Pinzas de freno en color Negro (alto brillo)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de frenos Porsche Surface Coated Brake (PSCB). Pinzas de freno pintadas en color Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "4+1 asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales en la zona trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de Visión Nocturna (Night Vision Assist)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de velocidad adaptativo (Adaptative Cruise Control)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extintor de incendios"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche Dynamic Chassis Control Sport (PDCC)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Porsche InnoDrive con control de velocidad adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ayuda al aparcamiento (ParkAssist) con Surround View"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ayuda aparcamiento (ParkAssist) con Cámara de marcha atrás"
+  }
+]

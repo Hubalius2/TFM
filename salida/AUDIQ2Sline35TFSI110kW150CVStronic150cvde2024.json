@@ -1,0 +1,538 @@
+[
+  {
+    "feature": "Car",
+    "value": "AUDI Q2"
+  },
+  {
+    "feature": "Precio",
+    "value": "39160"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "405 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "218 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "S line 35 TFSI 110kW 150CV S tronic"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4208 x 1794 x 1508mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "405 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1380 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "110 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "218 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado S LINE (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.498 cc ) , cuatro cilindros en línea con 74,5 mm de diámetro y 85,9 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 218 km/h de velocidad máxima y 8,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( CEE ) 110 kW @ 5.000 rpm (potencia max) 250 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el volante y levas en el volante palancas tras el volante ( S tronic )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, cargador para, Tarjeta digital y radio digital pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador en la guantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 18 pulgadas de diametro, 215 mm de ancho, 50 % de perfil y índice de velocidad: W con índice de carga: 92"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 7,0 pulgadas de ancho 45,7, 17,8 y 44M"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 6.539,64, 1.479,20 y IVA de IVA IVA al 21,00 % 6.539,64 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con teléfono móvil (NFC) y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad y desmultiplicación variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.208 mm de largo, 1.794 mm de ancho, 1.508 mm de alto, 2.601 mm de batalla, 1.546 mm de ancho de vía delantero, 1.542 mm de ancho de vía trasero, 11.100 mm de diámetro de giro entre paredes, 2.009, 36,4 y 79,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.029 mm de altura entre banqueta-techo (delante), 967 mm de altura entre banqueta-techo (detrás), 1.445 mm de anchura en las caderas (delante), 1.415 mm de anchura en las caderas (detrás), 1.389 mm de anchura en los hombros (delante) y 1.345 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 405 litros (hasta las ventanas con asientos montados) y 1.050 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 6,3 l/100km (mixto), 15,9 km/l  (mixto) y 794 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de portaobjetos y maletero con puertos de carga USB en la parte trasera del habitáculo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de aparcamiento asistido con ayuda de aparcamiento plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inserciones en aluminio mate cepillado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inserciones formato gráfico lumínico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegación e Infotainment Audi connect"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de navegación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido Audi"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido Premium SONOS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante de cuero contorno deportivo, 3 radios, achatado en la parte inferior, con multifunción plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros Matrix LED y grupos ópticos traseros LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior S line con asientos deportivos en combinación tela/cuero Negro/Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave de confort, sin SAFELOCK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave de contacto, con SAFELOCK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asistencia para conducción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de funciones de neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de luces ambiente plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parachoques S line en pintura de contraste"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portón del maletero de apertura y cierre eléctricos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sideblades en Gris Manhattan Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sideblades en Gris Platino Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de asistencia para luz de carretera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo corredizo panorámico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Index Negro-Negro-Gris Roca/Negro-Negro/Negro /Gris Titanio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Puls/cuero Negro-Negro-Gris Roca/Negro-Negro/ Negro/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tren de rodaje deportivo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acristalamiento de protección solar oscurecido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Navarra Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Arkona"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Glaciar Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eliminación de denominación de modelo e inscripción de potencia/tecnología"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Daytona Efecto Perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Flecha Efecto Perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Audi Sport en diseño de 10 radios en Y, 8,0J x 19 neumáticos 235/40 R19"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Audi Sport, diseño \"Offroad\" de 5 brazos, Gris Titanio Mate, torneado brillante, 7,0J x 18, neum. 215/50 R18"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Audi Sport, diseño de 10 radios en Y, Negro, torneado brillante, 8,0J x 19, neumáticos 235/40 R19"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas Audi Sport, diseño rotor de 5 brazos, Negro Antracita, torn. brill. 8,0J x 19, neumáticos 235/40 R19"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas en diseño dinámico 5 brazos Gris Grafito, torneado brillante 7,0J x 18, neumáticos 215/50 R18"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Mitos Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Confort plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura efecto perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura personalizada Audi exclusive"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida blanco Arkona"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Rocío Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Progresivo Metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Técnico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante de cuero contorno deportivo, 3 radios, achatado en parte inferior, con multifunción plus y levas de cambio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aviso de salida de carril"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche para remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asistencia para aparcamiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asistencia para seguridad"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "feature": "Car",
+    "value": "FORD RANGER"
+  },
+  {
+    "feature": "Precio",
+    "value": "40900"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "170 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "80 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.0 Ecoblue 125kW 4x4 Cab. Sencilla XL"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5370 x 1977 x 1880mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "2"
+  },
+  {
+    "feature": "Peso",
+    "value": "2082 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "170 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "125 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado XL (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo pickup con cabina sencilla de 2 puertas, techo tipo serie, batalla corta normal, volante al lado izquierdo, código de plataforma: GCPP, carrocería & puertas (local): pickup de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 seleccionable con con sistema de control de descenso y selección manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.995 cc ) , cuatro cilindros en línea con 84,0 mm de diámetro y 90,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 170 CV ( CEE ) 125 kW, 420 Nm de par máximo y potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje rígido y mediante ballesta con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con reductora y palanca en el suelo , código transmisión: MT82"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM/LW, RDS y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), 7.098,35 y IVA de IVA IVA al 21,00 % 7.098,35 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante en material plástico ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con intermitencia automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.370 mm de largo, 1.977 mm de ancho, 1.880 mm de alto, 229 mm de altura libre sobre el suelo sin carga, 3.270 mm de batalla, 1.620 mm de ancho de vía delantero, 1.620 mm de ancho de vía trasero, 12.400 mm de diámetro de giro entre bordillos, 1.149 mm de voladizo posterior, 2.208, 2.208, 86,9 y 86,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo todo terreno de 16 pulgadas de diametro, 255 mm de ancho, 70 % de perfil y índice de velocidad: T con índice de carga: 111 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 16 pulgadas de diámetro y 7,0 pulgadas de ancho 40,6 y 12,7"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 8,4 l/100km (mixto), 11,9 km/l  (mixto) y 952 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma Perimétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ascent Fabric Negro Tela"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefactor Auxiliar de Cabina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta Suelo Vinilo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Escalón Trasero Integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete CV 5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de flotas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pre-Equipo gancho de remolque- 13 pin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección Cera Bajos Carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Lightning (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Barras Transversales de Carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frozen White blanco sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Carbonizado (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Agate (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Diffused (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Moondust (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Lucid (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Spray resistente protección zona de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Off-road"
+  }
+]

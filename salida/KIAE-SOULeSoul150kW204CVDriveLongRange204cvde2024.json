@@ -1,0 +1,418 @@
+[
+  {
+    "feature": "Car",
+    "value": "KIA E-SOUL"
+  },
+  {
+    "feature": "Precio",
+    "value": "46455"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "204 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "315 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "167 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "eSoul 150kW 204CV Drive Long Range"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4195 x 1800 x 1605mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "315 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1757 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "204 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "204 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "150 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "15.7 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "452 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "64 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "1740 min (0% - 100%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida (100.0 kW)",
+    "value": "54 min (0% - 80%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Amperaje de carga",
+    "value": "12 A"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "167 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado DRIVE (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo berlina con portón con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: K2, carrocería & puertas (local): berlina con portón de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 167 km/h de velocidad máxima, 7,9 segs de aceleración 0-100 km/h y 167 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 204 CV ( CEE ) 150 kW @ 3.800 rpm (potencia max) 395 Nm de par máximo @ 0 rpm (par max) ; 204 CV (potencia máx. motor eléctrico), 150 kW (potencia máx. motor eléctrico) y 395 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,30 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 26,2, 84 y 84"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 8.079,24, 0,00 y IVA de IVA IVA al 21,00 % 8.079,24 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 84 meses y 150.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.195 mm de largo, 1.800 mm de ancho, 1.605 mm de alto, 153 mm de altura libre sobre el suelo sin carga, 2.600 mm de batalla, 1.565 mm de ancho de vía delantero, 1.575 mm de ancho de vía trasero, 10.600 mm de diámetro de giro entre bordillos, 12.800 mm de diámetro de giro entre paredes y 42,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.013 mm de altura entre banqueta-techo (delante), 988 mm de altura entre banqueta-techo (detrás), 1.360 mm de anchura en las caderas (delante), 1.340 mm de anchura en las caderas (detrás), 1.044 mm de espacio para las piernas (delante), 927 mm de espacio para las piernas (detrás), 1.410 mm de anchura en los hombros (delante) y 1.390 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 315 litros (hasta las ventanas con asientos montados) y 1.339 litros (hasta el techo con asientos plegados)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 215 mm de ancho, 55 % de perfil y índice de velocidad: W con índice de carga: 94 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela/Piel Sintética Negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Clear White + Fusion Black (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Clear White + Inferno Red (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fusion Black (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fusion Black + Inferno Red (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gravitiy Gray (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inferno Red (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inferno Red + Fusion Balck (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neptune Blue + Cherry Black (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neptune Blue + Fusion Black (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada bitono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Snow White Pearl (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Surf Blue (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Surf Blue + Clear White (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Surf Blue + Fusion Black (met)"
+  }
+]

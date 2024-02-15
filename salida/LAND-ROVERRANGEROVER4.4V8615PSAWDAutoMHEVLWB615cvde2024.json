@@ -1,0 +1,962 @@
+[
+  {
+    "feature": "Car",
+    "value": "LAND-ROVER RANGE ROVER"
+  },
+  {
+    "feature": "Precio",
+    "value": "291200"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "615 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "90 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "4.4 V8 615 PS AWD Auto MHEV LWB"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Altura máxima",
+    "value": "1870 mm"
+  },
+  {
+    "feature": "Distancia total",
+    "value": "5252 mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2518 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "615 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "452 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado SV (clasificación JATO: mediano M2) Código:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla larga, volante al lado izquierdo, código de plataforma: MLA-Flex, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente con con sistema de control de descenso control de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 4,4 litros ( 4.395 cc ) , ocho cilindros en V con 89,0 mm de diámetro y 88,3 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 615 CV ( CEE ) 452 kW y potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante aire con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante aire con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con reductora, paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: 8HP80XMH"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Treinta y cinco altavoces ( Meridian ) con subwoofer y sonido surround mejora 3D"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 1.680 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador y antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 13,70 \" con información por vista de satélite, control mediante pantalla táctil y información de tráfico 34,8 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo all weather de 23 pulgadas de diametro, 285 mm de ancho, 40 % de perfil y índice de velocidad: Y con índice de carga: 111 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático, antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 23 pulgadas de diámetro y 9,5 pulgadas de ancho 58,4, 24,1 y 031ZR"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con division horizontal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 45.047,51, 31.640,52 y IVA de IVA IVA al 21,00 % 45.047,51 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 60 meses y 150.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales y sensor de oscuridad luces de carretera activas y matricial digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( delantero ) eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico revestido de cuero ajustable eléctricamente, en altura y en profundidad controles táctiles"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad y desmultiplicación variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtrado de iones, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de 4 zonas con mandos traseros para el climatizador de automático con control a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.252 mm de largo, 1.870 mm de alto, 295 mm de altura libre sobre el suelo sin carga, 3.197 mm de batalla, 1.702 mm de ancho de vía delantero, 1.704 mm de ancho de vía trasero, 11.540 mm de diámetro de giro entre bordillos, 11.960 mm de diámetro de giro entre paredes, 2.209, 2.047, 39,2, 87,0 y 80,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 999 mm de altura entre banqueta-techo (delante), 978 mm de altura entre banqueta-techo (detrás), 1.220 mm de espacio para las piernas (detrás), 1.545 mm de anchura en los hombros (delante) y 1.503 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: ( medición SAE ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor tipo butaca con ajuste eléctrico ( nueve ajustes eléctricos ) térmico, activo, ventilado, climatizado, memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo, ajuste memorizado de la inclinacion de la banqueta y ajuste memorizado del suplemento de la banqueta, asiento delantero del acompañante tipo butaca con ajuste eléctrico ( doce ajustes eléctricos ) térmico, activo, ventilado, climatizado, memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo, ajuste memorizado de la inclinacion de la banqueta, ajuste memorizado del suplemento de la banqueta y controles para los pasajeros traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco ajustables eléctricamente ( cuatro ajustes eléctricos ) térmicos y ventilados de orientación delantera con banqueta fija, respaldo abatible 40/20/40 y ajuste eléctrico del respaldo con plegado remoto y eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ):"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Advanced Tow Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Secure Tracker (subscripción 36 meses)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Secure Tracker Pro (subscripción 12 meses)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Secure Tracker Pro (subscripción 36 meses)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Towing Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas Caraway"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas Cinder Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas Liberty Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas Sequoia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas SV Bespoke"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Intrepid Ebony de piel Semi-Aniline con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Intrepid Light Cloud delanteros y traseros en tejido Ultrafabric Cinder Grey con interior Cinder Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Intrepid Rosewood de piel Near-Aniline delanteros y Ebony de piel Semi-Aniline traseros con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Perlino de piel Semi-Aniline con interior Perlino"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Serenity Caraway de piel Near-Aniline delanteros y Perlino de piel Semi-Aniline traseros con interior Caraway"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Serenity Liberty Blue de piel Near-Aniline delanteros y Perlino de piel Semi-Aniline traseros con interior Liberty Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Serenity Sequoia Green de piel Near-Aniline delanteros y Perlino de piel Semi-Aniline traseros con interior Sequoia Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Black Anodised"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Natural Black Birch"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Natural Dark Linear wenge"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Natural Dark Linear wenge con marquetería metálica de mosaico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Natural Light Linear wenge con marquetería de mosaico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embellecedor consola Satin White cerámico con inserciones de mosaico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento interior del techo de piel Caraway"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento interior del techo de piel Liberty Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento interior del techo de piel Sequoia Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento interior del techo de piel SV Bespoke Perlino"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento interior del techo de Ultrafabrics Cinder Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Smokers Pack primera y segunda fila"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabados exteriores SV Serenity"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Activity Key"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos Event Suite para eventos con cojines de piel en portón trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos Event Suite para eventos en portón trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Ebony de piel Semi-Aniline con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Intrepid Ebony de piel Semi-Aniline con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Intrepid Light Cloud delanteros y traseros en tejido Ultrafabric Cinder Grey con interior Cinder Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Intrepid Rosewood de piel Near-Aniline delanteros y Ebony de piel Semi-Aniline traseros con interior Ebony"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Perlino de piel Semi-Aniline con interior Perlino"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Serenity Caraway de piel Near-Aniline delanteros y Perlino de piel Semi-Aniline traseros con interior Caraway"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Serenity Liberty Blue de piel Near-Aniline delanteros y Perlino de piel Semi-Aniline traseros con interior Liberty Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos SV Serenity Sequoia Green de piel Near-Aniline delanteros y Perlino de piel Semi-Aniline traseros con interior Sequoia Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre suave de puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Controles Satin Black cerámicos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de motor de fibra de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interior Premium Sin Piel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parabrisas no térmico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura techo en contraste con la carrocería Narvik Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "SV Signature Suite con mesa club de madera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "SV Signature Suite con mesa club de piel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo fijo Panorámico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante piel Soft grain"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante Premium sin piel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabados exteriores SV Intrepid"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amethyst Grey Purple Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Amethyst Grey Purple Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Belgravia Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Belgravia Green-metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Borasco Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Borasco Grey - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green Acabado Brillante (Solihull)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green Acabado Brillante (Solihull)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carpathian Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carpathian Grey - premium metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Constellation Blue Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Constellation Blue Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Constellation Blue Black Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Constellation Blue Black Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales laminados \"Privacy\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eiger Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Eiger Grey - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque electricamente retractil (incl. Armazón)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ethereal Frost Silver Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Flux Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Flux Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Flux Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Flux Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Flux Silver Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Flux Silver Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hakuba Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Icy White Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Icy White Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Icy White Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Icy White Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Icy White Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Icy White Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ionian Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ionian Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ionian Silver Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ionian Silver Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ionian Silver Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ionian Silver Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lantau Bronze-metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ligurian Black Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ligurian Black Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ligurian Black Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ligurian Black Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 23\" forjadas Style 1077, Diamond Turned con contraste Gloss Dark Grey e inserciones Bright Atlas Satin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 23\" forjadas Style 1077, Diamond Turned con contraste Satin Black, inserciones Narvik Black Gloss y acabado Dark Tinted Lacquer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas 23\" forjadas, Style 1077, Diamond Turned con contraste Gloss Dark Grey e inserciones Corinthian Bronze Satin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 21\" Style 5112"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 21\" Style 7021, Diamond Turned con contraste Gloss Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" Style 1073 Gloss Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" Style 1073, Diamond Turned con contraste Gloss Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" Style 5127, Diamond Turned con constraste Satin Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" Style 7023"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 22\" Style 7023, Diamond Turned con contraste Gloss Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 23\" Style 1074"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 23\" Style 1075 Gloss Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 23\" Style 1075, Diamond Turned con contraste Gloss Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación SV Bespoke de 22\" Style 1072, Diamond Turned con contraste Satin Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación SV Bespoke de 23\" Style 1079, Silver con contraste Gloss Dark Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ostuni Pearl White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ostuni Pearl White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Petrolix Blue Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Petrolix Blue Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura SV Bespoke Ultra Metalizada mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura techo en contraste Corinthian Bronze"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de 23\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto tamaño 21\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto tamaño 22\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sanguinello Orange Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sanguinello Orange Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Santorini Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Santorini Black - metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunrise Copper Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunrise Copper Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunrise Copper Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunrise Copper Acabado Satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunset Gold Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunset Gold Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunset Gold Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sunset Gold Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tourmaline Brown Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tourmaline Brown Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tourmaline Brown Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tourmaline Brown Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tuercas antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Varesine Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Varesine Blue (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Velocity Blue Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Velocity Blue Acabado Brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Velocity Blue Acabado Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Velocity Blue Acabado satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de aparcamiento remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Kit de primeros auxilios"
+  }
+]

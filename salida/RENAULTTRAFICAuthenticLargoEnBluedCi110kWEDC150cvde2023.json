@@ -1,0 +1,574 @@
+[
+  {
+    "feature": "Car",
+    "value": "RENAULT TRAFIC"
+  },
+  {
+    "feature": "Precio",
+    "value": "49632"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "178 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "80 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Authentic Largo En Blue dCi 110 kW EDC"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5480 x 1956 x 1973mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "9"
+  },
+  {
+    "feature": "Peso",
+    "value": "2026 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "110 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "178 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado AUTHENTIC (clasificación JATO: base B1) Código:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo monovolumen con 4 puertas, batalla larga, volante al lado izquierdo, código de plataforma: X82, carrocería & puertas (local): monovolumen de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.997 cc ) , cuatro cilindros en línea con 85,0 mm de diámetro y 88,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 178 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( CEE ) 110 kW @ 3.500 rpm (potencia max) 350 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de seis marchas con paso a modo manual de tipo manual sequencial con palanca en el salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS y radio digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y ajustable en altura con pretensores, cinturón de seguridad delantero en asiento acompañante y ajustable en altura con pretensores, cinturón de seguridad delantero en asiento central con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor ajustable en altura con pretensores, cinturón de seguridad trasero en lado acompañante ajustable en altura con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor, cinturón seguridad tercera fila en lado acompañante, cinturón seguridad tercera fila en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (9,75%), 7.971,60, 3.701,10 y IVA de IVA IVA al 21,00 % 7.971,60 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante en material plástico ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida electro-hidráulica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.480 mm de largo, 1.956 mm de ancho, 1.973 mm de alto, 160 mm de altura libre sobre el suelo sin carga, 3.498 mm de batalla, 13.800 mm de diámetro de giro entre bordillos, 14.300 mm de diámetro de giro entre paredes, 2.283, 46,9 y 89,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 205 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 109"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 16 pulgadas de diámetro y 6,0 pulgadas de ancho 40,6 y 15,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado pasajero) ( deslizante )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con doble hoja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tres reposacabezas en asientos delanteros, asientos traseros y la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante tipo banco, asiento delantero central tipo banco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco desmontables de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 7,9 l/100km (mixto), 12,7 km/l  (mixto) y 1.013 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador inalámbrico del smartphone"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chargeur smartphone à induction"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radio 8\" Easy-Link con DAB"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reconocimiento de señales de tráfico y prevención de exceso velocidad OSP (con navegación)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reconocimiento de señales de tráfico y prevención de exceso velocidad TSR (sin navegación)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyacodos en banquetas traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento conductor con apoyacodos y reglaje lumbar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bandeja trasera oculta-equipajes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería Java Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Easy Link"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Easy Link con Navegador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador 8\" Easy-Link con DAB"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire Acondicionado manual delantero + trasero con mando independiente trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma perimétrica y volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerta de trayectoria inestable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Banqueta fija lado pasajero 2 plazas con portaobjetos 54 l. bajo el asiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cableado para adaptaciones complementarias"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefacción adicional en plazas traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cambio automático de luces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Conexión EASY LINK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Custodias laterales 3ª fila en chapa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Detector de ángulo muerto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas delanteros eléctricos conductor impulsional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros delanteros antiniebla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Guantera cerrada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hueco portaobjetos superior cerrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llave suplementaria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Asistencia de Carretera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Asistencia de Carretera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack color Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Combi 6 con chapas (sin banqueta 3pl en 3ª fila, custodias laterales en chapa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Predisposición para Radio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preinstalación para alarma"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección rueda de repuesto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "R-adapter"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red oculta equipaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensor de lluvia y encendido automático de luces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Supercondenación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta manos libres para apertura de puertas y arranque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Java Premium Negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Kompo Negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante TEP"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Glaciar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales laterales 2ª/3ª fila y traseros sobretintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Highland"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Urbano"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 17\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Midnight"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Acristalado 1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Acristalado 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack color Completo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Visibilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portón trasero acristalado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores exteriores abatibles eléctricamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Carmín"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería reforzada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerta por cambio de carril"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags torax y cortina en asientos delanteros (torax lado pasajero si es asiento indiv.)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de visión trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Configuración Combi 6 (sin banqueta 3ª fila) con custodias acristaladas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frenado de emergencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Kit de reparación antipinchazos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Visión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radar delantero, trasero y asistente de parking trasero, frontal y lateral"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radar trasero"
+  }
+]

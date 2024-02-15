@@ -1,0 +1,342 @@
+[
+  {
+    "feature": "Car",
+    "value": "TOYOTA HILUX"
+  },
+  {
+    "feature": "Precio",
+    "value": "40100"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "6.6 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "80 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.4 D4D Cabina Extra GX HVO100"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5325 x 1855 x 1810mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1915 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel - Inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "110 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "170 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "7.5 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "6.1 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "6.6 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GX (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo pickup con cabina extendida de 2 puertas, techo tipo serie, batalla corta normal, volante al lado izquierdo, código de plataforma: IMV, carrocería & puertas (local): pickup de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 seleccionable con selección manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,4 litros ( 2.393 cc ) , cuatro cilindros en línea con 92,0 mm de diámetro y 90,0 mm de carrera ; código del motor: 2GD-FTV"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 170 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( CEE ) 110 kW @ 3.400 rpm (potencia max) 400 Nm de par máximo @ 1.600 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje rígido y mediante ballesta con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con reductora y palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM y RDS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), 6.959,50 y IVA de IVA IVA al 21,00 % 6.959,50 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 180 meses y 250.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.325 mm de largo, 1.855 mm de ancho, 1.810 mm de alto, 289 mm de altura libre sobre el suelo sin carga, 3.085 mm de batalla, 1.540 mm de ancho de vía delantero, 1.550 mm de ancho de vía trasero, 12.800 mm de diámetro de giro entre bordillos, 13.400 mm de diámetro de giro entre paredes, 1.255 mm de voladizo posterior y 44,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en material plástico ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con intermitencia variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros tipo todo terreno de 17 pulgadas de diametro, 265 mm de ancho, 65 % de perfil y índice de velocidad: H con índice de carga: 112"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 17 pulgadas de diámetro y 7,5 pulgadas de ancho 43,2 y 19,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor con bisagras delanteras, puerta pasajero con bisagras delanteras, puerta trasera (lado conductor) con bisagras traseras, puerta trasera (lado pasajero) con bisagras traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros ajustables en altura, dos reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual y ajuste longitudinal manual con ajuste manual del respaldo, asiento delantero del acompañante individual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas con asiento supletorio abatible de orientación delantera con respaldo fijo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 7,5 l/100km (urbano), 6,1 l/100km (extraurbano), 6,6 l/100km (mixto), 13,3 km/l (urbano), 16,4 km/l  (extraurbano), 15,2 km/l  (mixto) y 1.212 Km de autonomía (combinado), consumo de combustible ( WLTP ICE ): 8,3 l/100km (mixto), 12,0 km/l  (mixto), 964 Km de autonomía (combinado), 8,3, 9,3, 12,0, 10,8, 8,8, 10,4, 11,4, 9,6, 28, 25, 27 y 23"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Nébula (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Classic (sólida)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco perlado Iceberg (perlado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bronce Olivina (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Grafito (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Cosmo (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura perlada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Luna (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Vulcano (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Terracota (metalizada)"
+  }
+]

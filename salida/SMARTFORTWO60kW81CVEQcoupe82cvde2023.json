@@ -1,0 +1,646 @@
+[
+  {
+    "feature": "Car",
+    "value": "SMART FORTWO"
+  },
+  {
+    "feature": "Precio",
+    "value": "25144"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "82 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "260 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "130 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "60kW81CV EQ coupe"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "3"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "2695 x 1663 x 1555mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "260 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "2"
+  },
+  {
+    "feature": "Peso",
+    "value": "1095 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "82 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "82 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "60 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "17.5 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "132 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "17.6 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "130 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo minicoche de 3 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): coupé de 3 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 130 km/h de velocidad máxima, 11,6 segs de aceleración 0-100 km/h y 130 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 82 CV ( CEE ) 60 kW y 160 Nm de par máximo @ 0 rpm (par max) ; 82 CV (potencia máx. motor eléctrico), 60 kW (potencia máx. motor eléctrico) y 160 Nm (torque máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje rígido y mediante muelle helicoidal con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM y radio digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 4.363,99, 0,00 y IVA de IVA IVA al 21,00 % 4.363,99 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante revestido de cuero ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen y filtro de carbón activo calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 2.695 mm de largo, 1.663 mm de ancho, 1.555 mm de alto, 1.873 mm de batalla, 1.469 mm de ancho de vía delantero, 1.430 mm de ancho de vía trasero y 6.950 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 260 litros (hasta las ventanas con asientos montados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 15 pulgadas de diametro, 165 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 81 (datos del neumático oficiales de la marca), neumáticos traseros de 15 pulgadas de diametro, 185 mm de ancho, 60 % de perfil y índice de velocidad: T con índice de carga: 84 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 15 pulgadas de diámetro y 5,0 pulgadas de ancho 38,1, 12,7 y R35, llantas traseras en aluminio de 15 pulgadas de diámetro y 5,5 pulgadas de ancho 38,1, 14,0 y R35"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con division horizontal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante individual, abatible y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Business"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Exclusive"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Sport"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete tridion & Style"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombrillas de velours color negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos calefactados para conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elemento de adorno en azul con motivo alveolar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elemento de adorno en azul con motivo alveolar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elemento de adorno en efecto fibra de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elemento de adorno esmaltado color gold beige"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Linea prime"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Linea pulse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Advanced"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Exclusive"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "smart Media-System connect con radio digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chaleco reflectante para el conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chaleco reflectante para el conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Linea passion"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete \"ready to\"/ share4business + Key Card Holder"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Carga & Instala"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete color interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete color tailor made"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete cuero option"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete cuero tailor made"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de cables de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete invierno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Plug&Go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Style exterior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Style interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura de llantas individualizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura de tridion personalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinturas mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido JBL"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapizado en tela negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Triángulo de emergencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels azul zafiro (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels blanco (solid)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels blanco luna (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en azul zafiro metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en blanco luna mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en gold beige (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en gris titanio mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en plata metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en rojo carmín (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels en verde lima (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels gold beige (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels gris titanio (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels negro (solid)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels plata (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels rojo carmín (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bodypanels verde lima (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "British Racing Green (especial)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Célula de seguridad tridion en British Racing Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Célula de seguridad tridion en Gris Asfalto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Célula de seguridad tridion en velvet silver (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Asfalto (especial)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación BRABUS Monoblock XI de 40,6 cm (16\") en antracita"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación BRABUS Monoblock XI de 40,6 cm (16\") en antracita y pulidas a alto brillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación BRABUS Monoblock XI de 40,6 cm (16\") en negro brillante con pestaña roja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación BRABUS Monoblock XI de 40,6 cm (16\") en negro con pestaña color plata"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 38,1 cm (15\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 38.1 cm (15\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 40,6 cm (16\") y 5 radios dobles en color negro y plata"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 40,6 cm (16\")y 4 radios dobles, pintadas en negro y pulidas a alto brillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 40,6 cm (16\")y 8 radios en Y, pintadas en negro y pulidas a alto brillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos para todas las temporadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion azul zafiro (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion azul zafiro (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion blanco (solid)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion en blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion en carmín metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion en gold beige metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion en negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion en plata metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion gold beige (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion gris grafito (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion gris grafito (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion Negro (solid)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion plata (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tridion rojo carmín (met)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Velvet Silver (especial)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador de abordo de 22kW"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Botiquín"
+  }
+]

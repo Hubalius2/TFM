@@ -1,0 +1,462 @@
+[
+  {
+    "feature": "Car",
+    "value": "FORD EXPLORER"
+  },
+  {
+    "feature": "Precio",
+    "value": "91638"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "457 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "330 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "230 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "72 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "3.0 PHEV AWD STLine"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5063 x 2004 x 1778mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "330 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "7"
+  },
+  {
+    "feature": "Peso",
+    "value": "2466 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido enchufable"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "457 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "457 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "336 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "21.99 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "42 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "13.6 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga",
+    "value": "360 min (0% - 100%)"
+  },
+  {
+    "feature": "Tiempo de carga rápida",
+    "value": "210 min (0% - 100%)"
+  },
+  {
+    "feature": "Voltaje de carga",
+    "value": "230 V"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "230 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ST-LINE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: CD6, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso y selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,0 litros ( 2.956 cc ) , seis cilindros en V con 85,4 mm de diámetro y 86,0 mm de carrera ; código del motor: 99C"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico, combustible adicional: sin plomo y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 230 km/h de velocidad máxima y 6,0 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 457 CV ( CEE ) 336 kW @ 5.750 rpm (potencia max) 825 Nm de par máximo @ 2.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de diez marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Catorce altavoces ( Bang & Olufsen ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 980 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía tarjeta SD y pantalla a color de 10,10 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 25,7 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 20 pulgadas de diametro, 255 mm de ancho, 55 % de perfil y índice de velocidad: W con índice de carga: 110 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor en color combinado con carrocería con ajuste eléctrico desempañable con antideslumbrante automático y intermitente integrado, retrovisor exterior del acompañante en color combinado con carrocería con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho 50,8 y 21,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en acero de menor tamaño que el resto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros, traseros y en los lados con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina en las tres filas de asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón seguridad tercera fila en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 15.904,14, 0,00 y IVA de IVA IVA al 21,00 % 15.904,14 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( siete )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de cristal ( de delante hacia atrás ) eléctrico, inclinable y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico revestido de cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado trizona con mandos traseros para el climatizador de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y ajustes programables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.063 mm de largo, 2.004 mm de ancho, 1.778 mm de alto, 204 mm de altura libre sobre el suelo sin carga, 3.025 mm de batalla, 12.600 mm de diámetro de giro entre bordillos, 2.285, 2.107, 90,0 y 83,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.035 mm de altura entre banqueta-techo (delante), 1.028 mm de altura entre banqueta-techo (detrás), 1.093 mm de espacio para las piernas (delante), 991 mm de espacio para las piernas (detrás), 988 mm de espacio para la cabeza en 3ª fila, 817 mm de espacio para las piernas en 3ª fila, 38,9 y 32,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 330 litros (hasta las ventanas con asientos montados) y 2.724 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura, dos reposacabezas en la tercera fila de asientos ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste eléctrico ( cinco ajustes eléctricos ) térmico, ventilado, climatizado, memorizado, memorizado y ajuste lumbar memorizado con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta, asiento delantero del acompañante deportivo con ajuste eléctrico ( cuatro ajustes eléctricos ) térmico, ventilado, climatizado, eléctrico, ajuste eléctrico en altura y eléctrico con ajuste eléctrico del respaldo y ajuste eléctrico de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco térmicos de orientación delantera abatibles en el suelo y ajuste longitudinal manual con banqueta fija, respaldo abatible 40/20/40 y banqueta/respaldo plegable hacia delante con plegado eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV Factor de Utilidad ponderado ): 3,1 l/100km (mixto) y 32,3 km/l  (mixto)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Ebony Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Atlas (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Flight (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Oxford (sólida)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Star (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque desmontable de 13 pines, con módulo de iluminación"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Carbonized (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Agate (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Core Metallic Azul Flight"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Azul Atlas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metalizada Fashion Gris Carbonized"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metalizada Fashion Rojo Lucid"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Negro Agate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Plata Iconic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metalizada Premium Blanco Star"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Iconic (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Lucid (metalizada)"
+  }
+]

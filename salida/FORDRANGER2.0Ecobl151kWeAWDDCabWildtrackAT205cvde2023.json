@@ -1,0 +1,422 @@
+[
+  {
+    "feature": "Car",
+    "value": "FORD RANGER"
+  },
+  {
+    "feature": "Precio",
+    "value": "55939"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "205 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "80 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.0 Ecobl 151kW eAWD D Cab Wildtrack AT"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5370 x 1918 x 1884mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2436 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "205 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "151 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado WILDTRACK (clasificación JATO: mediano M3)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo pickup con cabina doble y 4 puertas, techo tipo serie, batalla corta normal, volante al lado izquierdo, código de plataforma: GCPP, carrocería & puertas (local): pickup doble cabina de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 seleccionable con con sistema de control de descenso y selección manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.995 cc ) , cuatro cilindros en línea con 84,0 mm de diámetro y 90,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 205 CV ( CEE ) 151 kW @ 3.750 rpm (potencia max) 500 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje rígido y mediante ballesta con union rigida con las ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de diez marchas con reductora, paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: 6R80"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM/LW, reproductor de CD, RDS, Tarjeta digital, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía tarjeta SD y pantalla a color de 12,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 30,5 y 999"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), 9.708,59 y IVA de IVA IVA al 21,00 % 9.708,59 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con intermitencia automática y sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.370 mm de largo, 1.918 mm de ancho, 1.884 mm de alto, 219 mm de altura libre sobre el suelo sin carga, 3.270 mm de batalla, 1.620 mm de ancho de vía delantero, 1.620 mm de ancho de vía trasero, 1.215 mm de voladizo posterior, 2.208, 2.208, 86,9 y 86,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros tipo all weather de 18 pulgadas de diametro, 255 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 110, neumáticos traseros tipo all weather de 18 pulgadas de diametro, 255 mm de ancho, 65 % de perfil y índice de velocidad: T con índice de carga: 110 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 18 pulgadas de diámetro y 7,5 pulgadas de ancho 45,7 y 19,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta en aluminio de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual de la inclinacion de la banqueta, asiento delantero del acompañante individual, térmico y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con respaldo abatible en una pieza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 8,8 l/100km (mixto), 11,4 km/l  (mixto) y 909 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Radio Sync 4A con pantalla multifunción táctil 12\", Navegador, 8 altavoces, DAB"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefactor Auxiliar de Cabina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de caja - persiana enrollable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de caja - persiana enrollable de apertura automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de caja - techo duro estilo Canopy"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de caja - techo duro estilo Canopy color blanco sin ventanas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de caja - techo duro estilo Canopy color carrocería con ventanas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de caja+persiana enrollable Manual+barras transversales carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "DAT Pack 70"
+  },
+  {
+    "feature": "Informacion",
+    "value": "DAT Pack 71"
+  },
+  {
+    "feature": "Informacion",
+    "value": "DAT Pack 84"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Divisor de la zona de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas Eléctricos Traseros de un Toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Micro Rib Embossed Negro cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete CV 3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pre-Equipo gancho de remolque- 13 pin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección Cera Bajos Carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de la zona de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tuercas Antirrobo Rueda Repuesto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tuercas Antirrobo Ruedas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frozen White blanco sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Carbonizado (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 18\" con neumáticos All Terrain"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación de 20\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Cyber (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Agate (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Moondust (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Lucid (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Spray resistente protección zona de carga"
+  }
+]

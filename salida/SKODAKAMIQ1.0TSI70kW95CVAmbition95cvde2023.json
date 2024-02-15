@@ -1,0 +1,610 @@
+[
+  {
+    "feature": "Car",
+    "value": "SKODA KAMIQ"
+  },
+  {
+    "feature": "Precio",
+    "value": "25755"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "400 litros"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "188 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.0 TSI 70kW 95CV Ambition"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4241 x 1793 x 1553mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "400 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1215 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "95 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "70 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "188 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado AMBITION (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: PQ25, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,0 litros ( 999 cc ) , tres cilindros en línea con 74,5 mm de diámetro y 76,4 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 188 km/h de velocidad máxima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 95 CV ( (ISO) 70 kW @ 5.000 rpm (potencia max) 175 Nm de par máximo @ 1.600 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión y mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de cinco marchas con palanca en el suelo , código transmisión: MQ 200"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 4.298,07, 972,18 y IVA de IVA IVA al 21,00 % 4.298,07 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con teléfono móvil y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.241 mm de largo, 1.793 mm de ancho, 1.553 mm de alto, 188 mm de altura libre sobre el suelo sin carga, 2.651 mm de batalla, 1.531 mm de ancho de vía delantero, 1.516 mm de ancho de vía trasero, 10.100 mm de diámetro de giro entre bordillos, 10.800 mm de diámetro de giro entre paredes, 1.988, 35,4 y 78,3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.051 mm de altura entre banqueta-techo (delante), 1.003 mm de altura entre banqueta-techo (detrás), 1.439 mm de anchura en las caderas (delante) y 1.425 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 400 litros (hasta las ventanas con asientos montados) y 1.395 litros (hasta el techo con asientos plegados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 205 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 92 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 16 pulgadas de diámetro y 6,0 pulgadas de ancho 40,6, 15,2 y P03"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual, ajuste longitudinal manual, ajuste manual en altura y ajuste lumbar manual con ajuste manual del respaldo, asiento delantero del acompañante individual, ajuste longitudinal manual y ajuste lumbar manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,5 l/100km (mixto), 18,2 km/l  (mixto) y 909 Km de autonomía (combinado) (fuente: EU6AP ) 6,6, 15,2, 5,1, 19,6, 4,7, 21,3, 5,9, 16,9, 36, 46, 50 y 40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"DRIVE MODE SELECT\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento del conductor con ajuste eléctrico y función de memoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Banqueta trasera no dividida, respaldo dividido y abatible, con reposabrazos central"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Desbloqueo del respaldo para el asiento delantero derecho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipamiento de fumador - cenicero móvil + soporte multimedia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete con asientos en combinación cuero/Suedia negro/gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento del suelo del maletero, alfombrilla reversible (goma/tela)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "\"CONTROL DE CRUCERO ADAPTATIVO\" hasta 210 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros térmicos (+eyector)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros y traseros térmicos (+eyector)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cajón portaobjetos bajo el asiento delantero derecho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cajón portaobjetos bajo el asiento delantero izquierdo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "CUERO SUEDIA NEGRO / GRIS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Desbloqueo del respaldo para el asiento delantero derecho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipamiento de fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros delanteros completamente LED con faros adaptativos, función antiniebla y luz de curva"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iluminación ambiental Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iluminación ambiental Naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iluminación ambiental Rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de nivel del agua del limpiaparabrisas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros desplegable automáticamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador Amundsen (Radio en línea, pantalla 9,2\", Virtual Cockpit, 8 altavoces, reconocimiento señales tráfico ycontrol por voz)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Connect"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack invierno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Seguridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Family"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Simply Clever"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Simply Clever+"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red divisoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de cierre y arranque sin llave \"Keyless Access\" (CON SAFELOCK)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de cierre y arranque sin llave \"Keyless Access\" (sin SAFELOCK)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de conducción semiautomática \"Travel Assist\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suelo de carga trasero plano"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela NEGRO / GRIS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tornillos de rueda con seguro antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante deportivo de cuero multifunción de 3 radios con calefacción y levas de cambios para cambio de doble embrague DSG"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante deportivo de cuero multifunción de 3 radios con levas de cambios para el cambio de doble embrague DSG"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tren de rodaje \"SPORT CHASSIS CONTROL\" (-15 mm) con regulación electrónica de amortig. opc. incl. \"DRIVE MODE SELECT\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tren rodaje \"CHASIS PRESETS\" (-15 mm) con regulación electrónica de amortiguación. opcional incl. \"DRIVE MODE SELECT\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Energy UNIFORME"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Race METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Candy UNIFORME"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Luna METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche para remolque, pivotable, con soltado eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche para remolque, pivotable, con soltado eléctrico y con adaptador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Graphite METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación HOEDUS de 41cm (16\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación PRAGA de 43cm (17)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación PROPUS Aero de 43cm (17\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación PROPUS Aero PLATA de 43cm (17\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación VOLANS de 43cm (17\")"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naranja Phoenix METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Mágico efecto perla METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Kamiq Techno Plus Ambition"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Metalizada com techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura uniforme"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Brillante METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para un dispositivo de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Velvet METALIZADA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo deflector panorámico (con barras platas)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 120.000km (EW 4/120)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 60.000km (EW 4/60)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 4 años y 90.000km (EW 4/90)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 5 años y 100.000km (EW 5/100)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía de 5 años y 150.000km (EW 5/150)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ayuda de aparcamiento delantera + trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Con extintor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Detector de fatiga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de emergencia de acero, gato, llave para tornillos de rueda"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de conducción semiautomática \"Travel Assist Plus\""
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "feature": "Car",
+    "value": "BMW X1"
+  },
+  {
+    "feature": "Precio",
+    "value": "70250"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "300 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "540 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "5.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "250 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "54 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "M35i xDrive"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4505 x 1845 x 1622mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "540 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1665 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "300 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "221 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "5.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "250 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: UKL2, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con selección automática ( xDrive )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.998 cc ) , cuatro cilindros en línea con 82,0 mm de diámetro y 94,6 mm de carrera ; código del motor: B48A20T2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 250 km/h de velocidad máxima y 5,4 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 300 CV ( CEE ) 221 kW @ 5.750 rpm (potencia max) 400 Nm de par máximo @ 2.000 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el volante y levas en el volante palancas tras el volante , código transmisión: GD7S40BG ( Steptronic )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Doce altavoces ( Harman/Kardon ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 100 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,70 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 27,2, 24 y 24"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 245 mm de ancho, 45 % de perfil y índice de velocidad: Y con índice de carga: 102 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 8,0 pulgadas de ancho 48,3, 20,3 y 1EK"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (9,75%), 11.282,98, 5.238,53 y IVA de IVA IVA al 21,00 % 11.282,98 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con teléfono móvil (NFC) y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.505 mm de largo, 1.845 mm de ancho, 1.622 mm de alto, 189 mm de altura libre sobre el suelo sin carga, 2.692 mm de batalla, 1.592 mm de ancho de vía delantero, 1.593 mm de ancho de vía trasero, 11.700 mm de diámetro de giro entre paredes, 2.104, 1.845, 38,4, 82,8 y 72,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.069 mm de altura entre banqueta-techo (delante), 998 mm de altura entre banqueta-techo (detrás), 1.026 mm de espacio para las piernas (delante), 941 mm de espacio para las piernas (detrás), 1.424 mm de anchura en los hombros (delante) y 1.400 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 540 litros (hasta las ventanas con asientos montados) y 1.600 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija, respaldo abatible 40/20/40 y ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 7,7 l/100km (mixto), 13,0 km/l  (mixto), 701 Km de autonomía (combinado), 7,7, 8,2, 13,0, 12,2, 31 y 29"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Base para carga inalámbrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Comfort UE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Innovation"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Travel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcantara/Veganza M Schwarz/pespunteado de contraste Blau"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento activo para el conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento activo para el conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos deportivos M para conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos deportivos para conductor y acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefacción de los asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuadro de instrumentos Luxury"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero 'Vernasca' Mokka/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero 'Vernasca' Oyster/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero 'Vernasca' Schwarz/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Guarnecido interior del techo M Anthrazit"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras interiores Aluminium 'Mesheffect'"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras interiores M en aluminio Hexacube claro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras interiores negro de brillo intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reglaje de los asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Revestimiento de madera noble de eucaplipto de poros abiertos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela 'Arktur' Anthrazit"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perforado Korallrot/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perforado Mokka"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perforado Oyster"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perforado Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Live Cockpit Professional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de altavoces HiFi Harman Kardon"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acceso confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcántara/Veganza Schwarz/pespunteado de contraste Blau"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de luz de carretera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara del habitáculo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturones de seguridad M"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Contenido especial específico X"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero \"Vernasca\" Mokka/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero \"Vernasca\" Oyster/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero \"Vernasca\" Schwarz/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dispositivo de alarma"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driving Assistant"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driving Assistant Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elementos exteriores M Sport"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros LED autoadaptables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces M Shadow Line"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación del Driving Assistant Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación del volante calefactable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Red de separación del maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reglaje de los asientos, eléctrico, con memoria"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Reglaje eléctrico de los asientos, con memoria conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor interior, con ajuste automático anti-deslumbramiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shadow Line M de brillo intenso con contenido ampliado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión M adaptativa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo de cristal panorámico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela 'Arktur' Anthrazit"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perforado Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perofrado Korallrot/Schwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perofrado Mokka"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Veganza perofrado Oyster"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante M de cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volúmenes interiores M Sport"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acristalamiento de protección solar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón trasero M"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alpinweis (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Anagrama de modelo, supresión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Black Saphire (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Individual Blue Bay Lagoon (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Individual Blue Bay Lagoon metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Individual Frozen Pure Grey (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Individual Frozen Pure Grey metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Individual Storm Bay (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cape York Verde (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carriles longitudinales para la baca Aluminium satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Línea Exterior de aluminio satinado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera BMW Individual de 20 pulgadas de radios múltiples (estilo 869 I), 245/40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera M de 20 pulgadas de radios en Y estilo 872 M, 245/40"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mineralweiß (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de retrovisores interior y exteriores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete M Sport Pro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Phytonicblau (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Cape York verde"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Mineralweiss"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Phytonicblau"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Portimao Blau M"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Sanremo Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Saphirschwarz"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Spacesilber metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Storm Bay metalizado BMW individual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Utah naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Alpinweiss"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portimao Blau (metalizada)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores en Jet Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de emergencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sanremo Green (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Shadow Line de brillo intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Spacesilber (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Utah Naranja (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "BMW Head-Up Display"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Caja de cambios Steptronic con levas de cambio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Freno deportivo M, azul oscuro metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Freno deportivo M, rojo de brillo intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete deportivo M"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tren de rodaje de serie"
+  },
+  {
+    "feature": "Informacion",
+    "value": "xLine"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Desactivación airbag acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driving Assistant Professional"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parking Assistant Plus"
+  }
+]

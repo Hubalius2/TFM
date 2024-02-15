@@ -1,0 +1,794 @@
+[
+  {
+    "feature": "Car",
+    "value": "MASERATI QUATTROPORTE"
+  },
+  {
+    "feature": "Precio",
+    "value": "214009"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "580 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "530 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "326 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "80 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Trofeo V8 580CV Gasolina RWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "4"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "5262 x 1948 x 1481mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "530 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2000 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "580 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "427 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "326 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado TROFEO (clasificación JATO: deportivo S2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo sedán con 4 puertas, batalla corta, volante al lado izquierdo, código de plataforma: M156, carrocería & puertas (local): sedán de 4 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,8 litros ( 3.799 cc ) , ocho cilindros en V con 86,5 mm de diámetro y 80,8 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 326 km/h de velocidad máxima y 4,5 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 580 CV ( (ISO) 427 kW @ 6.250 rpm (potencia max) 730 Nm de par máximo @ 2.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, en la columna de dirección y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diez altavoces ( Harman/Kardon ) con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 900 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,10 \" con información en 3D y con voz, control mediante pantalla táctil 25,7 y 0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 21 pulgadas de diametro, 245 mm de ancho, 35 % de perfil y índice de velocidad: Y con índice de carga: 96 y reforzado neumáticos de alto rendimiento, neumáticos traseros de 21 pulgadas de diametro, 285 mm de ancho, 30 % de perfil y índice de velocidad: Y con índice de carga: 100 y reforzado (datos del neumático oficiales de la marca) y neumáticos de alto rendimiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático, antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 21 pulgadas de diámetro y 8,5 pulgadas de ancho 53,3, 21,6 y 1LS, llantas traseras en aluminio de 21 pulgadas de diámetro y 10,5 pulgadas de ancho 53,3, 26,7 y 1LS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 33.106,50, 23.253,38 y IVA de IVA IVA al 21,00 % 33.106,50 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales, sensor de oscuridad y función de faros antiniebla luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 5.262 mm de largo, 1.948 mm de ancho, 1.481 mm de alto, 3.171 mm de batalla, 1.634 mm de ancho de vía delantero, 1.647 mm de ancho de vía trasero, 11.800 mm de diámetro de giro entre bordillos, 12.400 mm de diámetro de giro entre paredes, 2.128, 40,7 y 83,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 980 mm de altura entre banqueta-techo (delante), 960 mm de altura entre banqueta-techo (detrás), 1.647 mm de anchura en las caderas (delante), 1.469 mm de anchura en las caderas (detrás), 1.634 mm de anchura en los hombros (delante) y 1.404 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 530 litros (hasta las ventanas con asientos montados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas activos en asientos delanteros, tres reposacabezas en asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo con ajuste eléctrico ( seis ajustes eléctricos ) térmico, ventilado, climatizado, memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo y ajuste memorizado de la inclinacion de la banqueta, asiento delantero del acompañante deportivo con ajuste eléctrico ( seis ajustes eléctricos ) térmico, ventilado, climatizado, eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo y ajuste eléctrico de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco térmicos de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 12,4 l/100km (mixto), 8,1 km/l  (mixto), 645 Km de autonomía (combinado), 12,2, 12,5, 8,2, 8,0, 20,3, 4,9, 13,4, 7,5, 10,7, 9,3, 10,3, 10,1, 10,3, 9,7, 9,9, 9,7, 19, 19, 12, 18, 22, 23, 23 y 23"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabados interiores en madera de poro abierto : Rovere pulido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabados interiores en madera lacada Black Piano"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - Full natural leather drilled and stitching new color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - Pieno Fiore leather current production with new color stitching"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE FULL NATURAL LEATHER DRILLED (727) AND STITCHING NEW COLOR"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE FULL NATURAL LEATHER DRILLED (727) AND STITCHING NEW COLOR WITH BI-COLOR SEATS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE PIENOFIORE LEATHER CURRENT PRODUCTION (04C) WITH BI-COLOR SEATS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE PIENOFIORE LEATHER CURRENT PRODUCTION (04C) WITH NEW COLOR STITCHING"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Kit fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel natural Pieno Fiore"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Zegna Pelletessuta tan interiror"
+  },
+  {
+    "feature": "Informacion",
+    "value": "HomeLink"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climatizador automático de cuatro zonas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - Ermenegildo Zegna Pelletessuta Interior Upholstery"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - Full natural leather drilled and stitching new color with bi-color seats"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - Pieno fiore leather current production with bi-color seats"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE BORDADO EN REPOSACABEZAS - CUSTOMIZADO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE DREAMLINES - BIANCO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE DREAMLINES - BLU EMBLEMA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE DREAMLINES - GIALLO AVIA PERVIA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE DREAMLINES - ROSSO TROFEO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE LIVERIES - BIRDCAGE - BLU EMBLEMA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE LIVERIES - BIRDCAGE ROSSO CORSE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - BIRDCAGE - AVORIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - BIRDCAGE - MODENA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - Dreamlines - Resaltar líneas del coche - ROSSO CORSA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - Tricolor FASCIA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - Tricolor TROFEO FINE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Tridente cosido en reposacabezas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack exterior de carbono (retrovisores, tiradores de las puertas, pilares B)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack interior de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pieno Fiore Negro premium cuero Negro cielo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pieno Fiore Negro premium cuero Negro cielo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pieno Fiore Rojo premium cuero Negro cielo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pieno Fiore Tan premium cuero Negro cielo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de acceso sin llave para puertas traseras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido surround premium Bowers & Wilkins"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería de techo Alcantara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante deportivo calefactado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante deportivo con inserciones de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bianco Pastello (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - BLU GRAPHITE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - BLU MASERATI"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - BLU ROYALE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - BLU SOFISTICATO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - NIGHT INTERACTION"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - ORANGE ZEST"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - URBAN GREEN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - METALLIC PAINT - VERDE ROYALE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SOLID PAINT - DENIM"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL MATTE PAINT - AZZURRO ASTRO MATTE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL MATTE PAINT - BIANCO CRISTALLO OPACO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL MATTE PAINT - BLU CORSE MATTE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL MATTE PAINT - GRIGIO MARATEA MATTE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL METALLIC PAINT - BORDEAUX PONTEVECCHIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL SOLID PAINT - BIANCO AVORIO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL SOLID PAINT - HYPERGREEN"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL THREE COAT PAINT - AZZURRO ASTRO METALLIC"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL THREE COAT PAINT - BIANCO CRISTALLO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL THREE COAT PAINT - GIALLO MODENESE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL THREE COAT PAINT - GRIGIO PIETRA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL THREE COAT PAINT - NERO LUCE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL THREE COAT PAINT - VERDE SMERALDO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL TINTED CLEARCOAT PAINT - BLU INCHIOSTRO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - SPECIAL TINTED CLEARCOAT PAINT - ROSSO MAGMA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Fuoriserie - THREE COAT PAINT - BRONZO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE 21\" - ORIONE STAGGERED - HIGH GLOSS BLACK WITH LIME ACCENT"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE 21\" - ORIONE STAGGERED - HIGH GLOSS WHITE + BLU ON DIAMOND CUT AREA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE LIVERIES - DOUBLE STRIPES - ROSSO CORSE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE LIVERIES - DOUBLE STRIPES - ROSSO TROFEO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - Doble raya - BIANCO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Personalización - Doble raya - NERO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura mate - Grigio Maratea Mate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Blu Astro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Blu Graphite"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Blu Maserati"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Blu Royale"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Blu Sofisticato"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Bordeaux Pontevecchio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Bronzo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Night Interaction"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Orange Zest"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Urban Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura metalizada - Verde Royale"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura sólida - Bianco Avorio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura sólida - Bianco Cristallo Opaco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura sólida - Denim"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura sólida - Hypergreen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura sólida - Hypergreen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura Tinted ClearCoat - Blu Inchiostro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura Tinted ClearCoat - Rosso Magma"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura tricapa - Azzurro Astro Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura tricapa - Bianco Cristallo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura tricapa - Giallo Modenese"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura tricapa - Grigio Pietra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura tricapa - Nero Luce"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Pintura tricapa - Verde Smeraldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Maratea (metalescente)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Liantas de 20\" URANO acabado negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nero Ribelle (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalescente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura mica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rosso Folgore (mica)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE BRAKE CALIPERS PAINTED - Blu Classic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE BRAKE CALIPERS PAINTED - Giallo Lime"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE BRAKE CALIPERS PAINTED - Rosso Corse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE BRAKE CALIPERS PAINTED - Silver Polished"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color AMARILLO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color NEGRO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Driver Assistance Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de 18\""
+  }
+]

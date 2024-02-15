@@ -1,0 +1,470 @@
+[
+  {
+    "feature": "Car",
+    "value": "VOLKSWAGEN T-ROC"
+  },
+  {
+    "feature": "Precio",
+    "value": "40205"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "445 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "205 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Life 2.0 TDI 110kW 150CV DSG"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4236 x 1819 x 1584mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "445 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1455 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "110 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "8.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "205 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado LIFE (clasificación JATO: mediano M1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.968 cc ) , cuatro cilindros en línea con 81,0 mm de diámetro y 95,5 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diésel y Combustible primario: diésel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 205 km/h de velocidad máxima y 8,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( CEE ) 110 kW y 360 Nm de par máximo @ 1.600 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar y mediante muelle helicoidal con ruedas independientes, suspensión trasera de eje de torsión con barra estabilizadora mediante muelle helicoidal con ruedas semi-independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el suelo ( DSG )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros, traseros y en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor con pretensores, cinturón de seguridad trasero en lado acompañante con pretensores, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 6.714,16, 1.518,68 y IVA de IVA IVA al 21,00 % 6.714,16 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compartimentos bajo el asiento del acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.236 mm de largo, 1.819 mm de ancho, 1.584 mm de alto, 2.590 mm de batalla, 1.538 mm de ancho de vía delantero, 1.531 mm de ancho de vía trasero, 10.900 mm de diámetro de giro entre paredes, 2.012, 35,8 y 79,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.042 mm de altura entre banqueta-techo (delante)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 445 litros (hasta las ventanas con asientos montados), 1.290 litros (hasta el techo con asientos plegados), 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 215 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 94 y baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 4,9 l/100km (mixto), 20,4 km/l  (mixto) y 1.020 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Confort (Life)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interfaz de teléfono \"Comfort\" con función de carga por inducción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Life España"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de navegación \"Discover Media\" con \"Streaming & Internet\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Tecnología"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Visión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela \"Life\" , interiores laterales en ArtVelours Negro Titanio-Ceramique"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Ravenna (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Puro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Puro - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche para remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Indy (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Indy (metalizado) - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Sólido"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Sólido - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación ligera 18\" \"Grange Hill\" 7Jx18 pintadas en Plata Esterlina, neumáticos 215/50 R18"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Profundo (efecto perla)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Petroleum Blue (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Petroleum Blue (metalizado) - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanco Puro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Blanco Puro - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura efecto perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Gris Sólido - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Rojo Intenso metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Rojo Intenso metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Pirita (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Pirita (metalizado) - Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Intenso/Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía 1 año, máximo 80.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía 2 años, máximo 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Seguridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto, peso y espacio reducidos"
+  }
+]

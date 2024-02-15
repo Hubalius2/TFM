@@ -1,0 +1,474 @@
+[
+  {
+    "feature": "Car",
+    "value": "FORD FOCUS"
+  },
+  {
+    "feature": "Precio",
+    "value": "35617"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "115 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "190 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "52 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "1.5 Ecobl. 85kW STLine Style SIP Aut SB"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4668 x 1825 x 1481mm"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1454 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "115 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "85 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "11.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "190 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado ST-LINE STYLE (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo familiar con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: C2, carrocería & puertas (local): familiar de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.500 cc ) , cuatro cilindros en línea con 75,0 mm de diámetro y 84,8 mm de carrera ; código del motor: EN Y9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 190 km/h de velocidad máxima y 11,8 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 115 CV ( CEE ) 85 kW @ 3.600 rpm (potencia max) 250 Nm de par máximo @ 1.750 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, palanca en el volante y levas en el volante palancas tras el volante , código transmisión: TR GM"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 8,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 20,3 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 17 pulgadas de diametro, 215 mm de ancho, 50 % de perfil y índice de velocidad: W con índice de carga: 95 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros y traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 5.948,01, 1.345,38 y IVA de IVA IVA al 21,00 % 5.948,01 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función revestido de cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y ajustes programables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.668 mm de largo, 1.825 mm de ancho, 1.481 mm de alto, 135 mm de altura libre sobre el suelo sin carga, 2.700 mm de batalla, 1.572 mm de ancho de vía delantero, 1.566 mm de ancho de vía trasero, 10.600 mm de diámetro de giro entre bordillos, 11.000 mm de diámetro de giro entre paredes, 1.979, 1.979, 36,1, 77,9 y 77,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.364 mm de anchura en las caderas (delante), 1.325 mm de anchura en las caderas (detrás), 1.109 mm de espacio para las piernas (delante), 918 mm de espacio para las piernas (detrás), 1.421 mm de anchura en los hombros (delante) y 1.395 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 1.653 litros (hasta el techo con asientos plegados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo, asiento delantero del acompañante deportivo y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 5,1 l/100km (mixto), 19,6 km/l  (mixto) y 1.020 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Botón E-Call (sistema llamada emergencia)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento ajustable 18 posiciones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete diseño ST-Line"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Invierno"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ice Pack 66: SYNC 2.5 Pantalla 8\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ice Pack 76: SYNC 3 Pantalla 8\" sin navegador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alarma perimétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alfombra reversible en compartimento de carga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Familiar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería exclusiva ST-Line negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo panorámico Open - Air"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Chrome (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Desert (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales privacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gancho de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Magnetic (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Agate (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura especial Rojo Fantastic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Gris Mangetic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Blanca"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Perla Moondust (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Portón trasero manos libres con entrada sin lleve"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Fantastic (premium)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Race (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto mini"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cluster Digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Head-Up Display"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de visión trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Parking"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Tecnológico"
+  }
+]

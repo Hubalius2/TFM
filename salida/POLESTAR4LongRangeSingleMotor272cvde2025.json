@@ -1,0 +1,450 @@
+[
+  {
+    "feature": "Car",
+    "value": "POLESTAR 4"
+  },
+  {
+    "feature": "Precio",
+    "value": "65900"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "272 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "526 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "200 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "Long Range Single Motor"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Altura máxima",
+    "value": "1544 mm"
+  },
+  {
+    "feature": "Distancia total",
+    "value": "4839 mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "526 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2232 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "272 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "272 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "200 kW"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "600 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "100 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor síncrono de imanes permanentes CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga rápida (200.0 kW)",
+    "value": "30 min (10% - 80%)"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.1 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "200 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: SEA, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 200 km/h de velocidad máxima, 7,1 segs de aceleración 0-100 km/h y 200 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 272 CV ( CEE ) 200 kW y 343 Nm de par máximo ; 272 CV (potencia máx. motor eléctrico), 200 kW (potencia máx. motor eléctrico) y 343 Nm (torque máx. motor eléctrico) potencia con combustible primario, potencia máxima de 30 minutos kW 75 y potencia máxima de 30 minutos hp / PS 102"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de multibrazo (multi-link) con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora y ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 15,40 \" con información por vista de satélite, control mediante pantalla táctil y información de tráfico 39,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 11.437,19, 0,00 y 11.437,19 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático y sensor de oscuridad luces de carretera activas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico ajustable eléctricamente, en altura y en profundidad controles táctiles"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtrado de iones y filtro de pólen controles en pantalla táctil, calefacción eléctrica y bomba de calor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona con mandos traseros para el climatizador de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave, memoria de posición de los asientos y ajustes programables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.839 mm de largo, 1.544 mm de alto, 166 mm de altura libre sobre el suelo sin carga, 2.999 mm de batalla, 1.697 mm de ancho de vía delantero, 1.710 mm de ancho de vía trasero, 2.139, 2.008, 84,2 y 79,1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.021 mm de altura entre banqueta-techo (delante), 961 mm de altura entre banqueta-techo (detrás), 1.073 mm de espacio para las piernas (delante), 930 mm de espacio para las piernas (detrás), 1.521 mm de anchura en los hombros (delante) y 1.429 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 526 litros (hasta las ventanas con asientos montados), 1.536 litros (hasta el techo con asientos plegados), 15 l de almacenamiento delantero y 0,5 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 20 pulgadas de diametro, 255 mm de ancho, 50 % de perfil y índice de velocidad: Y con índice de carga: 109 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 20 pulgadas de diámetro y 8,5 pulgadas de ancho bi-tono, 50,8 y 21,6"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( cuatro ajustes eléctricos ) térmico, memorizado, memorizado y memorizado de dos posiciones con ajuste manual del respaldo, ajuste memorizado de la inclinacion de la banqueta y ajuste manual del suplemento de la banqueta, asiento delantero del acompañante individual con ajuste eléctrico ( cuatro ajustes eléctricos ) térmico, eléctrico, ajuste eléctrico en altura y memorizado de dos posiciones con ajuste manual del respaldo y ajuste eléctrico de la inclinacion de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mist Tailored knit with Zinc deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventilated Nappa Leather Charcoal with Charcoal deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventilated Nappa Leather Zinc with Charcoal deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Body painted lower claddings"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Charcoal Bio-attributed MicroTech with Charcoal deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Charcoal Bio-attributed MicroTech with Zinc deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Electrochromic panoramic roof"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mist Tailored knit with Zinc deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pilot pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plus pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventilated Nappa Leather Charcoal with Charcoal deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ventilated Nappa Leather Zinc with Charcoal deco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "21\" Sport (265/45)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Electron (metallic)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Electron metallic paint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gold (premium metallic)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gold premium metallic paint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Magnesium (metallic)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Privacy glass on rear side windows"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pro pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Snow (premium metallic)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Snow premium metallic paint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Space (metallic)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Space metallic paint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Storm (metallic)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Storm metallic paint"
+  }
+]

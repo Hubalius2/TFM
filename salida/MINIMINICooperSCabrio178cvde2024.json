@@ -1,0 +1,694 @@
+[
+  {
+    "feature": "Car",
+    "value": "MINI MINI"
+  },
+  {
+    "feature": "Precio",
+    "value": "35450"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "178 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "215 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "230 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "44 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Cooper S Cabrio"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "3876 x 1727 x 1415mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "215 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1400 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "178 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "131 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "7.8 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "230 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado COOPER S (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo cabrio de 2 puertas, batalla corta, volante al lado izquierdo, código de plataforma: UKL1, carrocería & puertas (local): cabrio de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.998 cc ) , cuatro cilindros en línea con 82,0 mm de diámetro y 94,6 mm de carrera ; código del motor: B48A20M1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 230 km/h de velocidad máxima y 7,8 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 178 CV ( CEE ) 131 kW @ 5.000 rpm (potencia max) 280 Nm de par máximo @ 1.350 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el volante y levas en el volante palancas tras el volante , código transmisión: GD7F32AG"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces con subwoofer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 100 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 5.920,08, 1.339,07 y IVA de IVA IVA al 21,00 % 5.920,08 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en cuero y negro piano ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 3.876 mm de largo, 1.727 mm de ancho, 1.415 mm de alto, 115 mm de altura libre sobre el suelo sin carga, 2.495 mm de batalla, 1.485 mm de ancho de vía delantero, 1.485 mm de ancho de vía trasero, 10.800 mm de diámetro de giro entre bordillos, 1.928 y 75,9"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.010 mm de altura entre banqueta-techo (delante), 990 mm de altura entre banqueta-techo (detrás), 1.367 mm de anchura en las caderas (delante), 1.085 mm de anchura en las caderas (detrás), 1.295 mm de anchura en los hombros (delante) y 1.009 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 215 litros (hasta las ventanas con asientos montados) ( medición ISO ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 205 mm de ancho, 65 % de perfil y índice de velocidad: W con índice de carga: 87 y baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 16 pulgadas de diámetro y 7,0 pulgadas de ancho 40,6, 17,8 y 2EX"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual del suplemento de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible simétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 6,3 l/100km (mixto), 15,9 km/l  (mixto) y 698 Km de autonomía (combinado) (fuente: Manufacturer ) 6,2, 6,4, 16,1, 15,6, 6,3, 6,5, 15,9, 15,4, 38, 37, 37 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado John Cooper Works"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asistente de aparcamiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Premium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Premium Extra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Premium Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seaside Edition"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado Classic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos deportivos John Cooper Works"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Calefacción de los asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chester Satellite Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combinación Dinamica/cuero Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combinación Dinamica/tela Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combinación tela/leatherette Black Pearl"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combinación tela/leatherette Black Pearl/Light Chequered"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Chester Malt Brown"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Cross Punch"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Leatherette Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Light Chequered"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MINI Yours Leather"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Información del Tráfico en Tiempo Real (RTTI)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de altavoces HiFi Harman Kardon"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de navegación MINI"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de telefonía con carga inalámbrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acceso confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Always Open Timer"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Camden Extra Edition"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capota MINI Yours"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combinación Tela/leatherette Black Pearl Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero activo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control DSC"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Chester Malt Brown"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Chester Satellite Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Cross Punch Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Lounge MINI YOURS Carbol Black negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dinamica/cuero Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dispositivo de alarma"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros LED autoadaptables"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franjas plateadas en el capó"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Leatherette Carbon Black/Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz de ambiente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de compartimentos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de retrovisores exteriores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de visibilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piano Black Exterieur"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para Apple CarPlay - Racio Visual Boost"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil ampliada Bluetooth"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor interior, con ajuste automático anti-deslumbramiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Superficie interiore Silver Chequered"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Superficies interiores MINI Yours Aluminium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Supresión de franjas en el capó"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Double Stripe Carbon Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela/leatherette Light Chequered Carbon Blac"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante calefactable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante de cuero napa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17\", Pedal Spoke black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17\", Roulette Spoke 2 tonos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17\", Scissor Spoke 2 tonos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17\", Tentacle Spoke"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17\", Tentacle Spoke black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17\", Track Spoke black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "17'', Rail Spoke 2 tonos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "18\", Circuit Spoke 2 tonos con funcionamiento en caso de avería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "18\", MINI Yours British Spoke 2 tonos con funcionamiento en caso de avería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "18\", Pulse Spoke 2 tonos con funcionamiento en caso de avería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "18\", Pulse Spoke Negro con funcionamiento en caso de avería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Anagrama de modelo, supresión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Caperuzas de los espejos retrovisores plateadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carcasas de los espejos retrovisores en el color de la carrocería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Deflector de viento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enigmatic Black metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Franjas negras en el capó"
+  },
+  {
+    "feature": "Informacion",
+    "value": "John Cooper works Aerodynamic Kit"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Líneas blancas en el capó"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Melting Silver III"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Melting Silver III metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Midnight Black Metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada British Racing Green IV"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Island Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Nanuq White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Rooftop Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Zesty Yellow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores en blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores en Jet Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tornillos antirrobo para las llantas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Caja de cambios Steptronic Sport con doble embraguen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chasis adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuadro de instrumentos digital"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MINI Head-Up Display"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara para marcha atrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos con funcionamiento en caso de avería"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de fijación para asiento infantil ISOFIX"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Warning Triangle & First Aid Kit"
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "feature": "Car",
+    "value": "JEEP CHEROKEE"
+  },
+  {
+    "feature": "Precio",
+    "value": "40974"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "177 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "419 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "9.4 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "70 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "2.8 CRD Limited Auto"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4493 x 1839 x 1797mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "419 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1985 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Diesel \"Common rail\""
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Diésel"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Distribución",
+    "value": "Doble árbol de levas en cabeza (DOHC)"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "177 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "130 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "10.5 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "12.2 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "7.8 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "9.4 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado LIMITED (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Todoterreno con 5 puertas batalla corta, volante al lado izquierdo, código de plataforma: KJ y carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco y dos de ellos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 seleccionable con selección del 4x4 servoasistida, seleccionable con vehículo en movimiento, con sistema de control de descenso, selección manual y selec.man 4x2/4x4 con limite velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,8 litros ( 2.776 cc ) , 4 cilindros en línea con cuatro válvulas por cilindro, 94,0 mm de diámetro, 100,0 mm de carrera, relación de compresión: 17,5 y doble árbol de levas en cabeza (DOHC)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: diesel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima y 10,5 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 177 CV (DIN) - 130 kW @ 3.800 rpm , par máximo: 460 Nm @ 2.000 rpm"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble triángulo con barra estabilizadora y muelles helicoidales ; ruedas independientes, suspensión trasera de eje rígido con barra estabilizadora y muelles helicoidales ; ruedas rígidas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión automática con modo manual de cinco velocidades con paso a modo manual, palanca en suelo, 3,590 :1 relación de la primera velocidad, 2,190 :1 relación de la segunda velocidad, 1,410 :1 relación de la tercera velocidad, 1,000 :1 relación de la cuarta velocidad, 0,830 :1 relación de la quinta velocidad y 3,160 :1 relación de la marcha atrás , código transmisión: W5A580"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nueve altavoces ( Infinity )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Antena de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM/LW, RDS y cargador de 6 CDs y con lector de CD para MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con mandos en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cargador de 6 DVD en salpicadero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Molduras laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros, traseros 235 mm de ancho, 65 % de perfil, índice de velocidad: H y índice de carga: 103 tipo barro y nieve"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior lado conductor y acompañante eléctrico, desempañable y negro/gris (no pintado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales tintados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras de aleación ligera, 17 pulgadas de diámetro y 7,0 pulgadas de ancho"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto con llanta de aleación ligera y de tamaño normal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Frenos ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores distancia aparcamiento traseros con radar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina, delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, lado acompañante y asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos I.V.A. (16%), Impuesto de Matriculación (14,75%) y 36.352,08"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: duración 24 meses, distancia ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inmovilizador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luz maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros halógenos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros manual con sensor de luz ambiental"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces antiniebla delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia inc. apertura del maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multifuncional de aleación y cuero ajustable en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de partículas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado con climatizador automático auto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros ; dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador baja presión neumáticos con visualización de presión Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.493 mm de largo, 1.839 mm de ancho, 1.797 mm de alto, 189 mm de altura libre sobre el suelo sin carga, 2.694 mm de batalla, 1.549 mm de ancho de vía delantero, 1.549 mm de ancho de vía trasero y 10.800 mm de diámetro de giro entre bordillos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.024 mm de altura entre banqueta-techo (delante), 1.027 mm de altura entre banqueta-techo (detrás), 1.338 mm de anchura en las caderas (delante), 1.229 mm de anchura en las caderas (detrás), 1.036 mm de espacio para las piernas (delante), 982 mm de espacio para las piernas (detrás), 1.449 mm de anchura en los hombros (delante) y 1.436 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 419 litros (hasta las ventanas con asientos montados) y 1.404 litros (hasta el techo con asientos plegados)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en F ajustables en altura, tres reposacabezas en R ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste en altura y eléctrico ( 3 ajustes eléctricos ) con ajuste en altura de la banqueta eléctrico y eléctrico, asiento delantero del acompañante individual con respaldo plegable como mesa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas , tipo banco partido y orientados delantero, reclinables y abatibles en el suelo ; banqueta fija con respaldo abatible asimétrico manual"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ECE 99/100 : 12,2 l/100km (urbano), 7,8 l/100km (extraurbano), 9,4 l/100km (mixto), 745 y 463"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Stain Repel Beige"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Stain Repel Gris Pizarra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Piedra (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Brillante (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Brillante (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Jeep (metalizado)"
+  }
+]

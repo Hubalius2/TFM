@@ -1,0 +1,442 @@
+[
+  {
+    "feature": "Car",
+    "value": "VOLKSWAGEN ID.4"
+  },
+  {
+    "feature": "Precio",
+    "value": "60755"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "340 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "543 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "5.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Versión",
+    "value": "GTX 250kW 340CV 77kWh Automatico"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4582 x 1852 x 1637mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "543 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "2256 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Eléctrico"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "340 cv"
+  },
+  {
+    "feature": "Potencia máxima eléctrica",
+    "value": "340 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "250 kW"
+  },
+  {
+    "feature": "Consumo medio eléctrico WLTP",
+    "value": "17.1 kWh / 100km"
+  },
+  {
+    "feature": "Autonomía eléctrica WLTP",
+    "value": "515 km"
+  },
+  {
+    "feature": "Capacidad de la batería",
+    "value": "82 kWh"
+  },
+  {
+    "feature": "Tipo de motor eléctrico",
+    "value": "motor de inducción asíncrono de CA"
+  },
+  {
+    "feature": "Tipo de conector eléctrico",
+    "value": "CCS(Combo) / Tipo 2 Mennekes"
+  },
+  {
+    "feature": "Tiempo de carga rápida (175.0 kW)",
+    "value": "28 min (10% - 80%)"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "5.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "180 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GTX (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MEB, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con selección automática ( 4MOTION )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: eléctrico y Combustible primario: eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 180 km/h de velocidad máxima, 5,4 segs de aceleración 0-100 km/h y 180 km/h de velocidad máxima en modo eléctrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 340 CV ( CEE ) 250 kW ; 340 CV (potencia máx. motor eléctrico) y 250 kW (potencia máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio totalmente automático de una única velocidad con en la columna de dirección , código transmisión: EQ150-1K"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Siete altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio FM, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte, cargador y antena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 12,90 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 32,8 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 20 pulgadas de diametro, 235 mm de ancho, 50 % de perfil y índice de velocidad: T con índice de carga: 100 neumáticos con auto-sellado (datos del neumático oficiales de la marca), neumáticos traseros de 20 pulgadas de diametro, 255 mm de ancho, 45 % de perfil y índice de velocidad: T con índice de carga: 101 neumáticos con auto-sellado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura bicolor metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 20 pulgadas de diámetro y 8,0 pulgadas de ancho bi-tono, 50,8, 20,3 y 55K, llantas traseras en aluminio de 20 pulgadas de diámetro y 9,0 pulgadas de ancho bi-tono, 50,8, 22,9 y 55K"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros y traseros con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (0%), 10.544,12, 0,00 y IVA de IVA IVA al 21,00 % 10.544,12 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cinco )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, sensor de oscuridad y función de faros antiniebla luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con teléfono móvil (NFC) y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable en altura y en profundidad controles táctiles"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción eléctrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.582 mm de largo, 1.852 mm de ancho, 1.637 mm de alto, 2.769 mm de batalla, 1.587 mm de ancho de vía delantero, 1.562 mm de ancho de vía trasero, 11.600 mm de diámetro de giro entre paredes, 2.108, 38,1 y 83,0"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 1.066 mm de altura entre banqueta-techo (delante), 979 mm de altura entre banqueta-techo (detrás), 1.503 mm de anchura en las caderas (delante) y 1.494 mm de anchura en las caderas (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 543 litros (hasta las ventanas con asientos montados), 1.575 litros (hasta el techo con asientos plegados), 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo, térmico, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco partido de orientación delantera con banqueta fija, respaldo abatible asimétrico y comunicado con el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cable de carga de red para enchufe doméstico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Confort Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior Top-Sport \"Plus\" con volante en color negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Infotainment Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bomba de calor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Microfibra\"ArtVelours\" GTX Negro Soul-Rojo Tornado/Soul/Negro/Soul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asistencia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asistencia Plus incl. IQ.DRIVE con asistente de conducción Travel Assist"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete deportivo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete deportivo \"Plus\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Dusk metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Glaciar metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche para remolque con desbloqueo eléctrico y plegable manualmente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Ceres - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas \"Narvik\" de 21\" en color negro y torneado brillante, neumáticos Airstop®235/45 R21 delante ,255/40 R21 detrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas \"Narvik\" de 21\" en color negro, neumáticos Airstop®235/45 R21 delante ,255/40 R21 detrás"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Granadilla metalizado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Diseño Plus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada / Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura Rojo Intenso metalizado / Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Gris Ceres / Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Intenso metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Scale Silver metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía 1 año, máximo 80.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía 2 años, máximo 100.000 km"
+  }
+]

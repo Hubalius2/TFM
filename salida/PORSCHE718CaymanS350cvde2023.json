@@ -1,0 +1,326 @@
+[
+  {
+    "feature": "Car",
+    "value": "PORSCHE 718"
+  },
+  {
+    "feature": "Precio",
+    "value": "82151"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "350 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "425 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "285 km/h"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "9.6 L / 100km"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "64 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Cayman S"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "3"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4379 x 1801 x 1295mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "425 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "2"
+  },
+  {
+    "feature": "Peso",
+    "value": "1430 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "Horizontal"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "350 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "257 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "285 km/h"
+  },
+  {
+    "feature": "Consumo urbano",
+    "value": "13 L / 100km"
+  },
+  {
+    "feature": "Consumo extraurbano",
+    "value": "7.5 L / 100km"
+  },
+  {
+    "feature": "Consumo medio",
+    "value": "9.6 L / 100km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado CAYMAN S (clasificación JATO: deportivo S2)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo coupé de 3 puertas, batalla corta, volante al lado izquierdo, código de plataforma: 982, carrocería & puertas (local): coupé de 3 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,5 litros ( 2.497 cc ) , cuatro cilindros en horizontal con cuatro válvulas por cilindro, 102,0 mm de diámetro, 76,4 mm de carrera, relación de compresión: 9,5 y distribución variable ; código del motor: DDN 9,5"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 285 km/h de velocidad máxima y 4,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 350 CV ( CEE ) 257 kW @ 6.500 rpm (potencia max) 420 Nm de par máximo @ 1.900 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ocho altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, reproductor de CD, RDS, Tarjeta digital, radio digital y pantalla táctil pantalla a color, 0 y radio reproduce MP3"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con velocidad media, consumo medio y autonomía"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el maletero/parte inferior del portón desplegado eléctricamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 19 pulgadas de diametro, 235 mm de ancho, 40 % de perfil y índice de velocidad: Y (datos del neumático oficiales de la marca), neumáticos traseros de 19 pulgadas de diametro, 265 mm de ancho, 40 % de perfil y índice de velocidad: Y (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aleación ligera de 19 pulgadas de diámetro y 8,0 pulgadas de ancho 48,3 y 20,3, llantas traseras en aleación ligera de 19 pulgadas de diámetro y 10,0 pulgadas de ancho 48,3 y 25,4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 12.708,41 y 5.900,33"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y ilimitada km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces de lectura delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla Bi-Xenón y luz larga con bombilla Bi-Xenón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático y sensor de luz ambiental"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante de aleación y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con desmultiplicación variable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen y filtro de carbón activo combustión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.379 mm de largo, 1.801 mm de ancho, 1.295 mm de alto, 133 mm de altura libre sobre el suelo sin carga, 2.475 mm de batalla, 1.515 mm de ancho de vía delantero, 1.540 mm de ancho de vía trasero, 11.000 mm de diámetro de giro entre bordillos y 1.994"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 425 litros (hasta las ventanas con asientos montados) ( medición VDA )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo con ajuste eléctrico ( una ajuste eléctrico ) ajuste longitudinal manual y ajuste manual en altura con ajuste eléctrico del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( ECE 99/100 ): 13,0 l/100km (urbano), 7,5 l/100km (extraurbano), 9,6 l/100km (mixto), 7,7 km/l (urbano), 13,3 km/l  (extraurbano), 10,4 km/l  (mixto) y 667 Km de autonomía (combinado), consumo de combustible ( WLTP ICE ): 10,0 l/100km (mixto), 10,0 km/l  (mixto) y 640 Km de autonomía (combinado)"
+  }
+]

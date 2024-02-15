@@ -1,0 +1,582 @@
+[
+  {
+    "feature": "Car",
+    "value": "MASERATI GRECALE"
+  },
+  {
+    "feature": "Precio",
+    "value": "86360"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "300 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "535 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "5.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "240 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "64 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "GT L4 MHEV 300CV AWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4846 x 1948 x 1670mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "535 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1870 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "300 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "221 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "5.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "240 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado GT (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: GIORGIO, carrocería & puertas (local): todoterreno de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con con sistema de control de descenso y selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 2,0 litros ( 1.995 cc ) , cuatro cilindros en línea con 84,0 mm de diámetro y 90,0 mm de carrera ; código del motor: GMET4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 240 km/h de velocidad máxima y 5,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 300 CV ( (ISO) 221 kW @ 5.750 rpm (potencia max) 450 Nm de par máximo @ 2.000 rpm (par max) ; 14 CV (potencia máx. motor eléctrico) y 10 kW (potencia máx. motor eléctrico) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio automático con modo manual de ocho marchas con paso a modo manual, en la columna de dirección y levas en el volante palancas tras el volante , código transmisión: 8HP50"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Catorce altavoces ( otra ) con subwoofer y sonido surround"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital, radio por internet y pantalla táctil pantalla a color y 860 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 19 pulgadas de diametro, 235 mm de ancho, 55 % de perfil y índice de velocidad: Y con índice de carga: 101 (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 19 pulgadas de diámetro y 8,0 pulgadas de ancho 48,3, 20,3 y 35F"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (9,75%), 13.870,50, 6.439,88 y IVA de IVA IVA al 21,00 % 13.870,50 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtro de pólen y filtro de carbón activo controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave incluye bloqueo al alejarse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.846 mm de largo, 1.948 mm de ancho, 1.670 mm de alto, 202 mm de altura libre sobre el suelo sin carga, 2.901 mm de batalla, 1.621 mm de ancho de vía delantero, 1.694 mm de ancho de vía trasero, 12.425 mm de diámetro de giro entre paredes, 2.163, 40,8 y 85,2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores: 993 mm de espacio para las piernas (detrás), 1.462 mm de anchura en los hombros (delante) y 1.421 mm de anchura en los hombros (detrás)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 535 litros (hasta las ventanas con asientos montados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros ajustables en altura, tres reposacabezas en asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor individual con ajuste eléctrico ( cinco ajustes eléctricos ) memorizado, memorizado y eléctrico de dos direcciones con ajuste memorizado del respaldo, asiento delantero del acompañante individual con ajuste eléctrico ( cinco ajustes eléctricos ) eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera abatibles en el suelo con banqueta fija, respaldo abatible 40/20/40 y comunicado con el maletero con plegado remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 8,8 l/100km (mixto), 11,4 km/l  (mixto), 727 Km de autonomía (combinado), 8,8, 9,2, 11,4, 10,9, 27 y 26"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Iluminación ambiental en el salpicadero y los paneles de las puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos delanteros calefactados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos eléctricos de 12 posiciones con función de memoria para el conductor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Macrolámina de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Moldura de fibra de carbono de hilo de cobre de alto brillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Moldura de madera Piano Black de alto brillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Moldura de madera Radica de poro abierto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Piel Premium extendida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería interior de cuero de primera calidad - Chocolate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapicería interior en piel - Negro/Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido Premium Sonus Faber (14 altavoces)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de sonido Sonus Faber High Premium (21 altavoces)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climate Comfort Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Climate Comfort Pack + Trident"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cold Weather pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Columna de dirección ajustable eléctricamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Compulsory pack 1"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Full Premium color Chocolate"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Full Premium Negro/Gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "David Beckham Essential Label"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driver Assistance Level 2"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros matriciales adaptativos Full-LED Matrix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pantalla táctil de 12,3\" con Navi + pantalla de confort de 8,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de alarma"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar panorámico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Wereable Key"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bianco Astro (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Atmosfera (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu intenso (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bronzo Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristal laminado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cristales traseros de privacidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche de remolque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - 21\" Crio wheels in Glossy Black finishing - Overall 255/40 R21 - Summer B-Class"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - 21\" Crio wheels in Glossy White with diamond cut - Overall 255/40 R21 - Summer B-Class"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blu Atmosfera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Bronzo Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Grigio Lava Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Night Interaction"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Verde Royale"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Lava (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Lava Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de 20\" Etere Forged (Glossy Black)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas forjadas Etere de 20\" (Negro brillante)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nero Tempesta (metalizado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Night Interaction (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Bianco Astro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Blue Intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Grigio Lava"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Nero Tempesta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisores exteriores con atenuación automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rieles de techo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sport Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Royale (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete de asistencia técnica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en amarillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno pintadas en rojo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cámara de visión periférica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driver Assistance Level 1"
+  }
+]

@@ -1,0 +1,50 @@
+---
+title: "TFM_JsonToSQL"
+author: "Pablo Martin Sanchez"
+date: "2024-02-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Datos JSON a SQL
+
+## Librerias Utilizadas
+
+```{r librerias, echo=TRUE, output=FALSE, cache=TRUE}
+library(jsonlite)
+```
+
+
+## Cargar ficheros.
+```{r cargar_direcorio, echo=TRUE, output=FALSE, cache=TRUE}
+jsonDir <- "salida"
+archivos <- list.files(path = jsonDir, pattern = "*.json", full.names = TRUE)
+```
+
+## Dataset Fichas_tecnicas.
+
+Guardar los datos en el *dataframe* **fichas_tecnicas**
+```{r fichas_tecnicas, warning=FALSE, cache=TRUE, results='hide'}
+fichas_tecnicas <- data.frame()
+primero <- TRUE
+for (archivo in archivos){
+  print(archivo)
+  datos_json <- list()
+  data <- fromJSON(archivo)
+  datos_json <- c(datos_json, data)
+  if (primero){
+    fichas_tecnicas <- data.frame(t(datos_json$value))
+    colnames(fichas_tecnicas) <- datos_json$feature
+    primero <- FALSE
+  }else{
+    fichas_tecnicas <- rbind(fichas_tecnicas, datos_json$value)
+  }
+}
+```
+
+
+
+

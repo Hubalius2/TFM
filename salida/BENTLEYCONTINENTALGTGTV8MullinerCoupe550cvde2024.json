@@ -1,0 +1,922 @@
+[
+  {
+    "feature": "Car",
+    "value": "BENTLEY CONTINENTAL GT"
+  },
+  {
+    "feature": "Precio",
+    "value": "340156"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "550 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "358 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "318 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "90 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "GT V8 Mulliner Coupe"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4850 x 1966 x 1405mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "358 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "2165 kg con conductor"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "550 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "405 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Integral (AWD, 4WD, 4x4)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "318 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado MULLINER (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo coupé de 2 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MSB, carrocería & puertas (local): coupé de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción 4x4 permanente y seleccionable con selección automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 4,0 litros ( 3.993 cc ) , ocho cilindros en V con 84,5 mm de diámetro y 89,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 318 km/h de velocidad máxima y 4,0 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 550 CV ( CEE ) 405 kW @ 6.000 rpm (potencia max) 770 Nm de par máximo @ 2.000 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera de doble horquilla con barra estabilizadora mediante aire con ruedas independientes, suspensión trasera de multibrazo (multi-link) con barra estabilizadora mediante aire con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de ocho marchas con paso a modo manual de tipo manual sequencial con palanca en el volante y levas en el volante palancas tras el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diez altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 650 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía memoria interna/disco duro y pantalla a color de 8,00 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 20,3, 36 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el maletero/parte inferior del portón desplegado eléctricamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 22 pulgadas de diametro, 275 mm de ancho, 35 % de perfil y índice de velocidad: Y con índice de carga: 103 y reforzado (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor en color combinado con carrocería con ajuste eléctrico desempañable con antideslumbrante automático y intermitente integrado, retrovisor exterior del acompañante en color combinado con carrocería con ajuste eléctrico desempañable con ajuste hacia el suelo en marcha atrás automático, antideslumbrante automático y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 22 pulgadas de diámetro bi-tono, 55,9 y W28"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor y cámara, sensores de aparcamiento traseros con sensor y cámara, sensores de aparcamiento en los lados con cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor y acompañante inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores extensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 52.620,97, 36.959,96 y IVA de IVA IVA al 21,00 % 52.620,97 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo y función stop/go"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros dependiente de la velocidad con ajuste de altura automático, faros direccionales, sensor de oscuridad y función de faros antiniebla luces de carretera activas y matricial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Protección antirrobo volumétrica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función térmico de aluminio y cuero ajustable eléctricamente, en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital, filtrado de iones, filtro de pólen, filtro de carbón activo y difusor de fragancia calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave, arranque sin llave y memoria de posición de los asientos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.850 mm de largo, 1.966 mm de ancho, 1.405 mm de alto y 2.851 mm de batalla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 358 litros (hasta las ventanas con asientos montados) ( medición VDA ) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante deportivo con ajuste eléctrico ( ocho ajustes eléctricos ) térmico, activo, ventilado, memorizado, memorizado y memorizado de dos posiciones con ajuste memorizado del respaldo, ajuste memorizado de la inclinacion de la banqueta y ajuste memorizado del suplemento de la banqueta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo individual/deportivo térmicos de orientación delantera con banqueta fija, respaldo fijo y comunicado con el maletero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 12,1 l/100km (mixto), 8,3 km/l  (mixto), 744 Km de autonomía (combinado), 12,1, 12,1, 8,3, 8,3, 19,4, 5,2, 12,5, 8,0, 10,3, 9,7, 10,7, 10,7, 10,7, 9,3, 9,3, 9,3, 19, 19, 12, 19, 23, 22, 22 y 22"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Decorative Insert for Console - Engine Turned Aluminium"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Burr Walnut over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Crown Cut Walnut over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Dark Fiddleback Eucalyptus over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Dark Stained Burr Walnut over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Liquid Amber over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Open Pore Dark Burr Walnut over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Open Pore Koa over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Piano Linen over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dual Finish - Tamo Ash over Grand Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Semi-Aniline Leather to Seats and Door Inserts"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Burr Walnut"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Crown Cut Walnut"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Dark Fiddleback Eucalyptus"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Dark Stained Burr Walnut"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Diamond Brushed Aluminium - Dark Tint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Engine Turned Aluminium - Bright"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Engine Turned Aluminium - Dark Tint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - High Gloss Carbon Fibre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Liquid Amber"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Open Pore Crown Cut Walnut"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Open Pore Dark Burr Walnut"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Open Pore Koa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Piano Black"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Piano Linen - by Mulliner"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Single Finish - Tamo Ash"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Smoker's Specification"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bang & Olufsen for Bentley"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Naim For Bentley"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Remote Controlled Garage Door Opener"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Battery Charger-European Adaptor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Beluga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Brunel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Burnt Oak"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Camel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Cricket Ball"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Cumbrian Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Damson"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Hotspur"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Imperial Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Linen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Magnolia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Newmarket Tan"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Porpoise"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Portland"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley hide Saddle"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Chrome Pinstripe to Fascia and Door Waistrails"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Contrast Gear Lever and Steering Wheel Spokes - by Mulliner"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Contrast Seatbelts"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Contrast Stitching and Seat Piping"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Decorative Insert for Console - Cote De Geneve"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diamond Knurling"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Embroidered Bentley Emblems to Headrests"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hand Cross Stitching"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Heated Single Tone Hide Trimmed Steering Wheel (3 Spoke)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Heated Windshield"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Heated, Duo-Tone, 3 Spoke, Indented Hide Trimmed Steering Wheel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Heated, Single Tone, 3 Spoke, Indented Hide Trimmed Steering Wheel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mood Lighting Specification with Personalised Treadplates"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Bespoke Interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Blackline Specification"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Colour Specification"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paint Protection"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parking Heater"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Parking Heater with Remote Activation Function"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Standard Brakes with Red Callipers"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Valet key"
+  },
+  {
+    "feature": "Informacion",
+    "value": "22\" Mulliner Wheel Black Painted and Polished with Self Levelling Wheel Badge"
+  },
+  {
+    "feature": "Informacion",
+    "value": "22\" Mulliner Wheel Black Painted with Self Levelling Wheel Badge"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Apple Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Camel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Dark Cashmere"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Dark Granite"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Dark Sapphire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Hallmark"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Havana"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Marlin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Meteor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Midnight Emerald"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Moonbeam"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Onyx"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Portofino"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic Thunder"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley metallic White Sand"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley solid Beluga"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley solid Glacier White"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bentley solid St James Red"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Body-Coloured Exterior Mirror Housings"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Alpine Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Anthracite"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Apple Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Arabica"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Azure Purple"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Bentayga Bronze"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Black Crystal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Black Sapphire"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Black Velvet"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Blue Crystal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Brodgar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Bronze"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Burgundy"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Cricket Ball"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Cumbrian Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Damson"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Dragon Red II"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Extreme Silver"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Fountain Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Ice"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Jetstream II"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Kingfisher"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Magenta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Magnetic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Moroccan Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Neptune"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Orange Flame"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Pale Brodgar"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Passion Pink"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Peacock"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Rose Gold"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Sequin Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Silver Storm"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Silver Tempest"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended Range -Solid and Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Spectre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Sunburst Gold"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Titan Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Tungsten"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Verdant"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended range Windsor Blue"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended solid range Barnato"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended solid range British Racing Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended solid range Dove Grey"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended solid range Magnolia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extended solid range Monaco Yellow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Personal Commission - Pearlescent and 3 Coat Finishes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Personal Commission - Satin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Personal Commission- Solid"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Range - Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Range - Pearlescent and 3 Coat Finishes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mulliner Range - Satin"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Without front licence plate bracket"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carbon Ceramic Brakes with Black Painted Calipers"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carbon Ceramic Brakes with Red Painted Calipers"
+  },
+  {
+    "feature": "Informacion",
+    "value": "First Aid Kit in Addition to Warning Triangle"
+  }
+]

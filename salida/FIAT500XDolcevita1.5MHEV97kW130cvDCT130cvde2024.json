@@ -1,0 +1,394 @@
+[
+  {
+    "feature": "Car",
+    "value": "FIAT 500X"
+  },
+  {
+    "feature": "Precio",
+    "value": "30700"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "350 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "194 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "48 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Dolcevita 1.5 MHEV 97kW 130cv DCT"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "5"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4264 x 1796 x 1595mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "350 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "5"
+  },
+  {
+    "feature": "Peso",
+    "value": "1405 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Híbrido"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "130 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "96 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.4 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "194 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado DOLCEVITA (clasificación JATO: lujo L1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno con 5 puertas, batalla corta, volante al lado izquierdo, código de plataforma: SCCS, carrocería & puertas (local): crossover de 5 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.469 cc ) , cuatro cilindros en línea con 71,2 mm de diámetro y 92,2 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 194 km/h de velocidad máxima y 9,4 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 130 CV ( CEE ) 96 kW @ 3.750 rpm (potencia max) 240 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de siete marchas con paso a modo manual de tipo manual sequencial con palanca en el suelo , código transmisión: H730 300"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Seis altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital y pantalla táctil pantalla a color y 280 W"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón en el techo/parte superior del portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros y traseros de 16 pulgadas de diametro, 215 mm de ancho, 60 % de perfil y índice de velocidad: H con índice de carga: 95"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante negro/gris (no pintado) con ajuste eléctrico y intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en acero de 16 pulgadas de diámetro y 6,5 pulgadas de ancho 40,6, 16,5 y 128"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor, trasera (lado conductor), pasajero y trasera (lado pasajero) con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta trasera con portón"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag lateral de cortina delantero y trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor, cinturón de seguridad trasero en lado acompañante, cinturón de seguridad trasero en asiento central de 3 puntos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 5.126,84, 1.159,64 y IVA de IVA IVA al 21,00 % 5.126,84 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente de superficie compleja, bombilla halógena y luz larga con bombilla halógena"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura manual y sensor de oscuridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo solar de tejido ( de delante hacia atrás ) eléctrico y deslizante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en aluminio y cuero sintético ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque, elevalunas eléctricos traseros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.264 mm de largo, 1.796 mm de ancho, 1.595 mm de alto, 2.570 mm de batalla, 1.545 mm de ancho de vía delantero, 1.545 mm de ancho de vía trasero, 11.050 mm de diámetro de giro entre bordillos, 11.500 mm de diámetro de giro entre paredes, 2.025, 1.796, 37,7, 79,7 y 70,7"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 350 litros (hasta las ventanas con asientos montados) y 1.000 litros (hasta el techo con asientos plegados) ( medición propia del fabricante) 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual y ajuste longitudinal manual con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible asimétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP HEV modo ahorro de la batería ): 5,6 l/100km (mixto), 17,9 km/l  (mixto) y 857 Km de autonomía (combinado) (fuente: Euro 6.4 ) 5,6, 6,4, 17,9, 15,6, 42 y 37"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos Tapicería Negra con Fiat Monogram, sin logo 500 con capota beige"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos Tapicería Negra con Fiat Monogram, sin logo 500 con capota negra"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mopar Connect"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Mopar Connect (compensatorio)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Salpicadero gris"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Italia metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Venezia metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bicolor Azul Italia (con techo negro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bicolor Azul Venezia (con techo negro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bicolor Blanco Gelato (con techo negro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bicolor Rojo Passione (con techo negro)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Gelato sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Cinema sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Azul Venezia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Blanco Gelato"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Negro Cinema"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida Rojo Passione"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Passione sólida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto de emergencia"
+  }
+]

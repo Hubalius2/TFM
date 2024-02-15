@@ -1,0 +1,442 @@
+[
+  {
+    "feature": "Car",
+    "value": "VOLKSWAGEN T-ROC"
+  },
+  {
+    "feature": "Precio",
+    "value": "41410"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "284 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "205 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "50 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "Cabrio Style 1.5 TSI 110kW 150CV"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4271 x 1811 x 1527mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "284 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "4"
+  },
+  {
+    "feature": "Peso",
+    "value": "1529 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Manual"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "En lÍnea"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "150 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "110 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Delantera (FWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "9.6 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "205 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado STYLE (clasificación JATO: base B1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo todoterreno de 2 puertas, batalla corta, volante al lado izquierdo, código de plataforma: MQB, carrocería & puertas (local): cabrio de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo dos ventilados"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción delantera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 1,5 litros ( 1.498 cc ) , cuatro cilindros en línea con 74,5 mm de diámetro y 85,9 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: sin plomo 95 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 205 km/h de velocidad máxima y 9,6 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 150 CV ( CEE ) 110 kW @ 5.000 rpm (potencia max) 250 Nm de par máximo @ 1.500 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera tipo McPherson o similar con barra estabilizadora mediante muelle helicoidal con ruedas independientes, suspensión trasera de multibrazo (multi-link) y mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo manual con cambio totalmente manual de seis marchas con palanca en el suelo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio FM, RDS, radio digital y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros, traseros y en los lados con sensor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor, airbag frontal del acompañante desconectable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor, acompañante y ajustable en altura con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad trasero en lado conductor y lado acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación Isofix"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Start/Stop parada y arranque automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (4,75%), 6.915,20, 1.564,15 y IVA de IVA IVA al 21,00 % 6.915,20 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero con control de crucero adaptativo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( cuatro )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y función de faros antiniebla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Luces laterales maniobras/de bordillo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con mando a distancia y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función de aluminio y cuero ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con filtro de pólen y filtro de carbón activo calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros y traseros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.271 mm de largo, 1.811 mm de ancho, 1.527 mm de alto, 2.630 mm de batalla, 1.538 mm de ancho de vía delantero, 1.541 mm de ancho de vía trasero, 10.900 mm de diámetro de giro entre paredes, 2.018, 35,8 y 79,4"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 284 litros (hasta las ventanas con asientos montados), 0 l de almacenamiento delantero y 0,0 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 17 pulgadas de diametro, 215 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 91 y baja resitencia a la rodadura (datos del neumático oficiales de la marca), neumáticos traseros de 17 pulgadas de diametro, 215 mm de ancho, 55 % de perfil y índice de velocidad: V con índice de carga: 94 y baja resitencia a la rodadura (datos del neumático oficiales de la marca)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable con intermitente integrado"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras y traseras en aluminio de 17 pulgadas de diámetro y 7,0 pulgadas de ancho 43,2 y 17,8"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero con bisagras delanteras"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas en asientos delanteros y asientos traseros ajustables en altura"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos traseros de dos plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible simétrico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 6,3 l/100km (mixto), 15,9 km/l  (mixto) y 794 Km de autonomía (combinado)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipamiento de fumador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Confort"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inserciones decorativas \"Kings Red\" para tablero de instrumentos, consola central y guarnecidos de puertas delante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Inserciones decorativas \"Silver Silk\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interfaz de teléfono \"Comfort\" con función de carga por inducción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete Style España"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de navegación \"Discover Media\" con \"Streaming & Internet\""
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero Vienna Marrakech-Antracita/Negro Titanio/ Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Tecnologia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hola Vision"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete deportivo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tela Style Titanio-Ceramique/Negro Titanio/ Negro/Soul"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Ravenna Metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Turquesa - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco puro - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Enganche para remolque desmontable y con cierre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Gris Intenso Metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas de aleación \"Johannesburg\" 7J x 17 en Negro / torneado brillante, neumáticos 215/55 R17"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Negro Profundo efecto perla - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Petroleum Blue Metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura efecto perla"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura especial uniforme Blanco Puro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura metalizada Rojo Intenso"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Plata Marfil metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rojo Intenso Metalizado - Techo Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sky and Sand"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía 1 año, máximo 80.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Extensión de garantía 2 años, máximo 100.000 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rueda de repuesto, peso y espacio reducidos"
+  }
+]

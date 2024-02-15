@@ -1,0 +1,914 @@
+[
+  {
+    "feature": "Car",
+    "value": "MASERATI MC20"
+  },
+  {
+    "feature": "Precio",
+    "value": "276692"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "630 cv"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "100 litros"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "2.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "325 km/h"
+  },
+  {
+    "feature": "Capacidad del depósito",
+    "value": "60 litros"
+  },
+  {
+    "feature": "Versión",
+    "value": "V6 630CV Gasolina RWD"
+  },
+  {
+    "feature": "Nº de puertas",
+    "value": "2"
+  },
+  {
+    "feature": "Largo x ancho x alto",
+    "value": "4669 x 1965 x 1224mm"
+  },
+  {
+    "feature": "Volumen del maletero",
+    "value": "100 litros"
+  },
+  {
+    "feature": "Nº de plazas",
+    "value": "2"
+  },
+  {
+    "feature": "Peso",
+    "value": "1478 kg con conductor"
+  },
+  {
+    "feature": "Alimentación",
+    "value": "Gasolina- inyección directa"
+  },
+  {
+    "feature": "Caja de cambios",
+    "value": "Automático"
+  },
+  {
+    "feature": "Combustible",
+    "value": "Gasolina"
+  },
+  {
+    "feature": "Configuración",
+    "value": "en V"
+  },
+  {
+    "feature": "Potencia máxima",
+    "value": "630 cv"
+  },
+  {
+    "feature": "Wattios motor",
+    "value": "463 kW"
+  },
+  {
+    "feature": "Tracción",
+    "value": "Trasera (RWD)"
+  },
+  {
+    "feature": "Aceleración (0-100km/h)",
+    "value": "2.9 segundos"
+  },
+  {
+    "feature": "Velocidad Máxima",
+    "value": "325 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Acabado (clasificación JATO: deportivo S1)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Carrocería tipo coupé de 2 puertas, batalla corta, volante al lado izquierdo, carrocería & puertas (local): coupé de 2 puertas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuatro frenos de disco siendo cuatro ventilados con pinzas de freno pintadas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tracción trasera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Motor de 3,0 litros ( 2.992 cc ) , seis cilindros en V con 88,0 mm de diámetro y 82,0 mm de carrera"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Combustible: alto octanaje sin plomo 98 octanos y Combustible primario: gasolina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Prestaciones: 325 km/h de velocidad máxima y 2,9 segs de aceleración 0-100 km/h"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Potencia de 630 CV ( (ISO) 463 kW @ 7.500 rpm (potencia max) 730 Nm de par máximo @ 3.000 rpm (par max) potencia con combustible primario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Suspensión delantera, trasera de multibrazo (multi-link) con barra estabilizadora mediante muelle helicoidal con ruedas independientes"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Transmisión de tipo automático con cambio de doble embrague manual secuencial y automático de ocho marchas con paso a modo manual de tipo manual sequencial con en la columna de dirección y levas en el volante palancas tras el volante , código transmisión: TR-9080"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Siete altavoces"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo de audio con radio AM/FM, RDS, radio digital, radio por internet y pantalla táctil pantalla a color"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control remoto de audio en el volante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Preparación para teléfono móvil soporte y cargador"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ordenador de viaje con consumo medio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Navegador con datos vía internet y pantalla a color de 10,25 \" con información en 3D y con voz, control mediante pantalla táctil y información de tráfico 26,0, 36 y 36"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faldones laterales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Neumáticos delanteros de 20 pulgadas de diametro, 245 mm de ancho, 35 % de perfil y índice de velocidad: Y con índice de carga: 95 y reforzado (datos del neumático oficiales de la marca) y neumáticos de alto rendimiento, neumáticos traseros de 20 pulgadas de diametro, 305 mm de ancho, 30 % de perfil y índice de velocidad: Y con índice de carga: 103 y reforzado (datos del neumático oficiales de la marca) y neumáticos de alto rendimiento"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura solida"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Retrovisor exterior del conductor y acompañante pintado con ajuste eléctrico desempañable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Llantas delanteras en aluminio de 20 pulgadas de diámetro y 9,0 pulgadas de ancho 50,8, 22,9 y 1LR, llantas traseras en aluminio de 20 pulgadas de diámetro y 11,0 pulgadas de ancho 50,8, 27,9 y 1LR"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Puerta conductor y pasajero ( tijera )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "ABS"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sensores de aparcamiento delanteros con sensor, sensores de aparcamiento traseros con sensor y cámara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control electrónico de tracción"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbag frontal del conductor inteligente, airbag frontal del acompañante desconectable y inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Airbags laterales delanteros y protección para la cabeza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cinturón de seguridad delantero en asiento conductor y acompañante con pretensores"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de estabilidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Equipo reparación neumáticos"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Impuestos: I.V.A. (21%), Impuesto de Matriculación (14,75%), 42.803,25, 30.064,19 y 42.803,25 € de IVA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Garantía completa del vehículo: 36 meses y 9.999.999 km"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apertura a distancia del maletero con control remoto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Control de crucero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Testigo de cinturones ( dos )"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Faros con lente elipsoidal, bombilla LED y luz larga con bombilla LED"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Regulación de los faros con ajuste de altura automático, sensor de oscuridad y sensor de vehículos en sentido contrario"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cierre centralizado con apertura por tarjeta/llave inteligente y contról de los elevalunas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante multi-función en ante y fibra de carbono ajustable en altura y en profundidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dirección asistida eléctrica con endurecimiento progresivo s/velocidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de ventilación con pantalla digital y filtro de pólen controles en pantalla táctil y calefacción del motor"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aire acondicionado bizona de automático"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Limpiaparabrisas delantero con sensor de lluvia"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Lavafaros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevalunas eléctricos delanteros con dos de ellos de un solo toque"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Indicador de baja presion de los neumáticos con visualización de presión y sensor Montado en la llanta"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Memoria de posición"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tarjeta / llave inteligente con entrada sin llave y arranque sin llave"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones exteriores: 4.669 mm de largo, 1.965 mm de ancho, 1.224 mm de alto, 2.700 mm de batalla, 1.681 mm de ancho de vía delantero, 1.649 mm de ancho de vía trasero, 11.800 mm de diámetro de giro entre bordillos, 2.178 y 85,7"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dimensiones interiores:"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capacidad del compartimento de carga: 100 litros (hasta las ventanas con asientos montados) ( medición propia del fabricante) 50 l de almacenamiento delantero y 1,8 cu ft de almacenamiento delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Dos reposacabezas integrados en asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Apoyabrazos central delantero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asiento delantero del conductor y acompañante de competición con ajuste eléctrico ( cinco ajustes eléctricos ) eléctrico, ajuste eléctrico en altura y eléctrico de dos direcciones con ajuste eléctrico del respaldo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Consumo de combustible ( WLTP ICE ): 11,6 l/100km (mixto), 8,6 km/l  (mixto), 517 Km de autonomía (combinado), 11,6, 11,6, 8,6, 8,6, 20,8, 4,8, 11,9, 8,4, 9,8, 10,2, 9,6, 9,6, 9,6, 10,4, 10,4, 10,4, 20, 20, 11, 20, 24, 25, 25 y 25"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Diferencial autoblocante controlado electrónicamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Módulo de caja telemática (TBM) para conectividad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de escape doble tubo en acabado mate oscuro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcántara® extendido con efecto láser (centro del asiento, panel de la puerta)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcántara® extendido con efecto láser (centro del asiento, panel de la puerta)- Ghiaccio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Asientos de carrera monocasco aligerados 4 ajustes (2 ajustes eléctricos)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero de primera calidad e interiores en Alcantara® con costura y diseño de Chevron"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Función de calefacción para asientos delanteros"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Configuración de Alcántara y Cuero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Interior de Alcántara Extendido NUEVO para Fuoriserie"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Interiores Racing Alcantara"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Paquete interior de fibra de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Tapetes para maletero delantero/trasero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de Sonido Sonus Faber (12 altavoces)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcántara extendido con efecto láser"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alcántara extendido con efecto láser - Chiaccio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerón trasero de fibra de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Alerta de ángulo muerto y control activo trasero angulo muerto"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Batería (95h)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Capó de motor en fibra de carbono, exterior pintado en color de carrocería. Interior en fibra de carbono vista"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cubierta de motor de fibra de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero de primera calidad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Cuero de primera calidad con costura y diseño de Chevron"
+  },
+  {
+    "feature": "Informacion",
+    "value": "David Beckham Essential Label"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Elevador de suspensión"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Especificaciones para mercados adicionales"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Estribos de puertas de acero inoxidable"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Asiento monocromático Tan Fuoriserie"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Asientos de Respaldo de Color Fuoriserie"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blue Carbon Kit"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Asimétrica/Hiperverde"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Asimétrica/Rojo Corse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Asimétrica/Solido Agua Inteligente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Birdcage/Azul Emblema"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Birdcage/Bianco Alabastro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Birdcage/Rojo Corse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Doble Raya/Azul Emblema"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Doble Raya/Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Doble Raya/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Doble Raya/Rojo Corsa"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT MC12 Competition/Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT MC12 Competition/Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT MC12 Especial"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT MC12 Tributo"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Carrocería RHT Tipo 151/Rojo Corse y Azul Emblema"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Livery - Logotipo FuoriSerie en pintura exterior - Blanco"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE Livery - Logotipo FuoriSerie en pintura exterior - Negro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "HomeLink®"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Logotipo del Tridente bordado en el reposacabezas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MC20 Notte - Birdcage Wheels Matte Black Diamond cut in White Gold"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MC20 Notte - Logo interior"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MC20 Notte - MC20 Notte - Logos exteriores en White Gold Matte (Tridente, logos laterales, script Maserati)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "MC20 Notte Pack"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Carbono Interior Light"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pack Exterior Carbon Fibre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color AMARILLO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color AZUL"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color NEGRO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color PLATA"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color ROJO"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Respaldo de fibra de carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Servicios de conectividad (Europa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de Alarma de Seguridad"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Techo Fibra de Carbono"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Volante regulable electricamente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20'' MMXX (Glossy Black Diamond Cut)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20\" Birdcage (Glossy Black Diamond Cut)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20\" Llanta de aleación forjadas (Acabado brillante en corte de diamante Miron)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "20\" Llanta de aleación forjadas Corsa (Mate Oscuro Miron)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Ai Aqua Rainbow (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Aquamarina (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azul Pastel (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Azzurro Astro Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bianco (mate)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bianco Pastel (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Bianco Tristrato (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blanco Alabastro (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu (tricapa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Corse Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Denim (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Graphite Metallic (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Maserati (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Blu Victory (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Digital Mint (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Espejos exteriores con atenuación automática"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Exclusiva Giallo (tricapa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Exclusiva Rosso (tricapa)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Ai Aqua Rainbow"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Aquamarina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Azul Pastel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Azzurro Astro Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Bianco Alabastro"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Bianco Pastel"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Bianco Tristrato"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blu Corse Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blu Denim"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blu Graphite Metallic"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blu Maserati"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Blu Victory"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Digital Mint"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Giallo Genio Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Hypergreen"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Liquid Metal Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Llantas 20\" Tridente negro brillante"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Llantas 20\" Tridente negro mate pulido a máquina"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - MC20 Notte - Nero Essenza Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Military Teal Matte"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Night Interaction"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Orange Zest"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Powder Nude Texturized"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Resplandor Naranja"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Rose Gold Liquid Metal"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Urban Green"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Verde Royale"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Vintage Ochre"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Giallo Genio Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Grigio Incognito (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Hypergreen (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Liquid Metal Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Metal Líquido (dos capas)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Military Teal Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nero Essenza (sólido)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Nero Essenza Matte (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Night Interaction (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Orange Zest (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura de dos capas - Grigio Mistero"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura de tres capas - Blu Infinito"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura exclusiva de tres capas - Giallo Genio"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura exclusiva de tres capas - Rosso Vincente"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura mate - Bianco Audace"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pintura sólida - Nero Essenza"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Powder Nude Texturized (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Resplandor Naranja (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Rose Gold Liguid Metallic (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Urban Green (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Verde Royale (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Vintage Ochre (FUORISERIE)"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Pinzas de freno Azul Clásico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Pinzas de freno Blancas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Pinzas de freno Lima"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Pinzas de freno Naranjas"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Pinzas de freno Rojo Corse"
+  },
+  {
+    "feature": "Informacion",
+    "value": "FUORISERIE - Pinzas de Freno Rosso Anodizzato"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Pinzas de freno en color NEGRO MATTE"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Sistema de frenos Carbo cerámico"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Driver Assistance Package"
+  },
+  {
+    "feature": "Informacion",
+    "value": "Kit de reparación FIX&GO"
+  }
+]
