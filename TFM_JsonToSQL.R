@@ -179,7 +179,8 @@ ft_pro <- ft_pro %>%
   mutate(id = seq_along(Brand))
 
 aux <- anadir_feature(ft_pro, "bluetooth")
-aux <- anadir_feature(ft_pro, "navegador")
+aux_2 <- anadir_feature(ft_pro, "navegador")
+aux$navegador = aux_2$navegador
 
 #La funcion buscar feature devuelve las columnas donde aparece la palabra introducida
 existe_radio <- buscar_feature(ft_pro, "radio")
@@ -221,17 +222,18 @@ for (i in 1:nrow(versiones)) {
 sum 
 
 
-fichas_tecnicas_final <- ft_pro[, c("Brand", "Model", "Precio", "Caja de cambios", "Combustible", "Potencia_Maxima_CV",
+fichas_tecnicas_final <- aux[, c("Brand", "Model", "Precio", "Caja de cambios", "Combustible", "Potencia_Maxima_CV",
                                     "Tracción", "Vol_Maletero_Litros", "Aceleracion_(0_100km/h)_s",
                                     "Velocidad_Máxima_km/h","Versión", "Nº de puertas",
                                     "Largo_mm", "Ancho_mm", "Alto_mm",
                                     "Nº de plazas","Peso_con_conductor_kg", "Potencia máxima eléctrica",
                                     "Wattios_motor", "Consumo_medio_eléctrico_WLTP", "Autonomía_eléctrica_WLTP",
                                     "Carga_min", "Depósito_litros", "Consumo_medio_L/100km",
-                                    "Consumo_urbano_L/100km", "Consumo_extraurbano_L/100km")]
+                                    "Consumo_urbano_L/100km", "Consumo_extraurbano_L/100km",
+                                    "bluetooth", "navegador")]
 
 
-csv <- read.csv("car_data.csv")
+csv <- read.csv("car_data_format.csv", sep = ";")
 
 versiones <- as.data.frame(unique(csv$title))
 
@@ -247,7 +249,9 @@ csv_ <- csv_ %>%
          | brand == "MERCEDES-BENZ")
 
 
-
+csv_ <- as.data.frame(csv_$url_true)
+write.csv(csv_, "urls.csv", row.names = FALSE)
+write.csv(aux, "fichas_tecnicas26.csv", row.names = FALSE)
 
 
 
