@@ -1,0 +1,17 @@
+{
+  "name": "coches-api-requester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getRequests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+
+}
