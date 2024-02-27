@@ -2,6 +2,7 @@ library(jsonlite)
 library(purrr)
 library(tidyr)
 library(tidyverse)
+library(jsonlite)
 
 # Directorio que contiene los archivos JSON
 directorio <- "salida"
@@ -255,32 +256,711 @@ write.csv(aux, "fichas_tecnicas26.csv", row.names = FALSE)
 
 
 
+#------------------------------------------------------------------------------
+
+adJsons <- list.files(path = "API Requests/adJSONs")
+
+archivos_json <- adJsons[grepl("\\.json$", adJsons)]
+
+recorrer_json <- function(json, prefijo = "") {
+  propiedades <- character()  # Crear un vector para almacenar las propiedades
+  
+  for (propiedad in names(json)) {
+    clave_completa <- ifelse(nchar(prefijo) > 0, paste(prefijo, propiedad, sep = "$"), propiedad)
+    # Verificar si la propiedad es un objeto JSON
+    if (is.list(json[[propiedad]])) {
+      # Si es un objeto JSON, llamar recursivamente a la función con ese objeto y combinar los vectores resultantes
+      propiedades <- c(propiedades, recorrer_json(json[[propiedad]], prefijo = clave_completa))
+    } else {
+      propiedades <- c(propiedades, clave_completa)  # Agregar la propiedad al vector solo si no es un objeto JSON
+    }
+  }
+  
+  return(propiedades)  # Devolver el vector de propiedades
+}
 
 
+fichas_tecnicas_prueba <-  data.frame(matrix(nrow = 0, ncol = 1000))
+fichas_tecnicas_features <- c()
+primer_archivo <- TRUE
+for (archivo_json in archivos_json) {
+  ruta_json <- file.path("API Requests/adJSONs", archivo_json)
+  datos_json <- fromJSON(ruta_json)
+  if(primer_archivo){
+    fichas_tecnicas_features <- recorrer_json(datos_json,"")
+    primer_archivo <- FALSE
+  }else{
+    nuevas_columnas <- recorrer_json(datos_json,"")
+    no_pertecen <- setdiff(nuevas_columnas, fichas_tecnicas_features)
+    fichas_tecnicas_features <- c(fichas_tecnicas_features, no_pertecen)
+  }
+}
 
+colnames(fichas_tecnicas_prueba) <- fichas_tecnicas_features
+indices <- grep("NA", colnames(fichas_tecnicas_prueba), fixed = TRUE)
+fichas_tecnicas_prueba <- fichas_tecnicas_prueba[, -indices]
 
+ficha_json <- function(json, prefijo = "") {
+  propiedades <- list()  # Crear una lista para almacenar las propiedades
+  
+  for (propiedad in names(json)) {
+    clave_completa <- ifelse(nchar(prefijo) > 0, paste(prefijo, propiedad, sep = "$"), propiedad)
+    
+    # Verificar si la propiedad es un objeto JSON
+    if (is.list(json[[propiedad]])) {
+      # Si es un objeto JSON, llamar recursivamente a la función con ese objeto y guardar el resultado en la lista de propiedades
+      sub_propiedades <- ficha_json(json[[propiedad]], prefijo = clave_completa)
+      propiedades[[clave_completa]] <- sub_propiedades
+    } else {
+      # Si no es un objeto JSON, guardar el valor en la lista de propiedades
+      propiedades[[clave_completa]] <- json[[propiedad]]
+    }
+  }
+  return(propiedades)  # Devolver la lista de propiedades
+}
 
+ficha_json <- function(json, prefijo = "") {
+  propiedades <- list()  # Crear una lista para almacenar las propiedades
+  
+  for (propiedad in names(json)) {
+    clave_completa <- ifelse(nchar(prefijo) > 0, paste(prefijo, propiedad, sep = "$"), propiedad)
+    
+    # Verificar si la propiedad es un objeto JSON
+    if (is.list(json[[propiedad]])) {
+      # Si es un objeto JSON, llamar recursivamente a la función con ese objeto y guardar el resultado en la lista de propiedades
+      sub_propiedades <- ficha_json(json[[propiedad]], prefijo = clave_completa)
+      propiedades <- c(propiedades, sub_propiedades)
+    } else {
+      # Si no es un objeto JSON, guardar el par clave-valor en la lista de propiedades
+      propiedades[[clave_completa]] <- json[[propiedad]]
+    }
+  }
+  return(propiedades)  # Devolver la lista de propiedades
+}
 
+is_empty <- function(x) {
+  is.null(x) || length(x) == 0
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+primer_archivo <- TRUE
+for (archivo_json in archivos_json) {
+  print(archivo_json)
+  ruta_json <- file.path("API Requests/adJSONs", archivo_json)
+  datos_json <- fromJSON(ruta_json)
+  
+  if (primer_archivo) {
+    primer_archivo <- FALSE
+    dataCar <- data.frame(
+      id = ifelse(!is_empty(datos_json$ad$id), datos_json$ad$id, " - "),
+      title = ifelse(!is.null(datos_json$ad$title), datos_json$ad$title, " - "),
+      photos = ifelse(
+        !is_empty(datos_json$ad$photos),
+        datos_json$ad$photos[1],
+        " - "
+      ),
+      url = ifelse(!is.null(datos_json$ad$url), datos_json$ad$url, " - "),
+      price = ifelse(!is_empty(datos_json$ad$price), datos_json$ad$price[[1]], " - "),
+      vehicleyear = ifelse(
+        !is.null(datos_json$ad$vehicle$year),
+        datos_json$ad$vehicle$year,
+        " - "
+      ),
+      vehiclekm = ifelse(
+        !is.null(datos_json$ad$vehicle$km),
+        datos_json$ad$vehicle$km,
+        " - "
+      ),
+      vehiclecolor = ifelse(
+        !is.null(datos_json$ad$vehicle$color),
+        datos_json$ad$vehicle$color,
+        " - "
+      ),
+      vehiclecolorId = ifelse(
+        !is.null(datos_json$ad$vehicle$colorId),
+        datos_json$ad$vehicle$colorId,
+        " - "
+      ),
+      vehicleisCertified = ifelse(
+        !is.null(datos_json$vehicle$isCertified),
+        datos_json$vehicle$isCertified,
+        " - "
+      ),
+      certificatedProgramId = ifelse(
+        !is.null(datos_json$ad$vehicle$certificatedProgramId),
+        datos_json$ad$vehicle$certificatedProgramId,
+        " - "
+      ),
+      hasVehicleHistory =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$hasVehicleHistory),
+          datos_json$ad$vehicle$hasVehicleHistory,
+          " - "
+        ),
+      makeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$makeId),
+          datos_json$ad$vehicle$specs$makeId,
+          " - "
+        ),
+      make =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$make),
+          datos_json$ad$vehicle$specs$make,
+          " - "
+        ),
+      modelId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$modelId),
+          datos_json$ad$vehicle$specs$modelId,
+          " - "
+        ),
+      model =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$model),
+          datos_json$ad$vehicle$specs$model,
+          " - "
+        ),
+      versionId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$versionId),
+          datos_json$ad$vehicle$specs$versionId,
+          " - "
+        ),
+      version =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$version),
+          datos_json$ad$vehicle$specs$version,
+          " - "
+        ),
+      uniqueVehicleId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$uniqueVehicleId),
+          datos_json$ad$vehicle$specs$uniqueVehicleId,
+          " - "
+        ),
+      bodyTypeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$bodyTypeId),
+          datos_json$ad$vehicle$specs$bodyTypeId,
+          " - "
+        ),
+      doors =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$doors),
+          datos_json$ad$vehicle$specs$doors,
+          " - "
+        ),
+      power =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$power),
+          datos_json$ad$vehicle$specs$power,
+          " - "
+        ),
+      transmissionTypeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$transmissionTypeId),
+          datos_json$ad$vehicle$specs$transmissionTypeId,
+          " - "
+        ),
+      fuelTypeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$fuelTypeId),
+          datos_json$ad$vehicle$specs$fuelTypeId,
+          " - "
+        ),
+      seatingCapacity =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$seatingCapacity),
+          datos_json$ad$vehicle$specs$seatingCapacity,
+          " - "
+        ),
+      professionalSellerId =
+        ifelse(
+          !is.null(datos_json$ad$professionalSeller$id),
+          datos_json$ad$professionalSeller$id,
+          " - "
+        ),
+      externalAdId =
+        ifelse(
+          !is.null(datos_json$ad$externalAdId),
+          datos_json$ad$externalAdId,
+          " - "
+        ),
+      isTradable =
+        ifelse(
+          !is.null(datos_json$ad$isTradable),
+          datos_json$ad$isTradable,
+          " - "
+        ),
+      province =
+        ifelse(
+          !is.null(datos_json$professionalSeller$location$province),
+          datos_json$professionalSeller$location$province,
+          " - "
+        ),
+      provinceId =
+        ifelse(
+          !is.null(datos_json$professionalSeller$location$provinceId),
+          datos_json$professionalSeller$location$provinceId,
+          " - "
+        ),
+      year =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$year),
+          datos_json$vehicleSpecs$year,
+          " - "
+        ),
+      numberOfDoors =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$numberOfDoors),
+          datos_json$vehicleSpecs$numberOfDoors,
+          " - "
+        ),
+      numberOfSeats =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$numberOfSeats),
+          datos_json$vehicleSpecs$numberOfSeats,
+          " - "
+        ),
+      horsePower =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$horsePower),
+          datos_json$vehicleSpecs$horsePower,
+          " - "
+        ),
+      start =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$start),
+          datos_json$vehicleSpecs$start,
+          " - "
+        ),
+      end =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$end),
+          datos_json$vehicleSpecs$end,
+          " - "
+        ),
+      dimensionsInMillimeterswidth =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$dimensionsInMillimeters$width),
+          datos_json$vehicleSpecs$dimensionsInMillimeters$width,
+          " - "
+        ),
+      dimensionsInMillimetersheight =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$dimensionsInMillimeters$height),
+          datos_json$vehicleSpecs$dimensionsInMillimeters$height,
+          " - "
+        ),
+      dimensionsInMillimeterslength =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$dimensionsInMillimeters$length),
+          datos_json$vehicleSpecs$dimensionsInMillimeters$length,
+          " - "
+        ),
+      trunkCapacityInLiters =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$trunkCapacityInLiters),
+          datos_json$vehicleSpecs$trunkCapacityInLiters,
+          " - "
+        ),
+      weight =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$weight),
+          datos_json$vehicleSpecs$weight,
+          " - "
+        ),
+      tankCapacityInLiters =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$tankCapacityInLiters),
+          datos_json$vehicleSpecs$tankCapacityInLiters,
+          " - "
+        ),
+      consumptionurban =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$consumption$urban),
+          datos_json$vehicleSpecs$consumption$urban,
+          " - "
+        ),
+      consumptionmixed =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$consumption$mixed),
+          datos_json$vehicleSpecs$consumption$mixed,
+          " - "
+        ),
+      consumptionextraUrban =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$consumption$extraUrban),
+          datos_json$vehicleSpecs$consumption$extraUrban,
+          " - "
+        ),
+      maxSpeed =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$maxSpeed),
+          datos_json$vehicleSpecs$maxSpeed,
+          " - "
+        ),
+      acceleration =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$acceleration),
+          datos_json$vehicleSpecs$acceleration,
+          " - "
+        ),
+      manufacturerPrice =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$manufacturerPrice),
+          datos_json$vehicleSpecs$manufacturerPrice,
+          " - "
+        ),
+      co2EmissionsGramsPerKm =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$co2EmissionsGramsPerKm),
+          datos_json$vehicleSpecs$co2EmissionsGramsPerKm,
+          " - "
+        ),
+      batteryVoltage =
+        ifelse(
+          !is.null(
+            datos_json$vehicleSpecs$electricFeatures$powerSource$batteryVoltage$value
+          ),
+          datos_json$vehicleSpecs$electricFeatures$powerSource$batteryVoltage$value,
+          "-"
+        ),
+      batteryKWH =
+        ifelse(
+          !is.null(
+            datos_json$vehicleSpecs$electricFeatures$powerSource$maximumBatteryKWH$value
+          ),
+          datos_json$vehicleSpecs$electricFeatures$powerSource$maximumBatteryKWH$value,
+          "-"
+        ),
+      chargingTime =
+        ifelse(
+          !is_empty(
+            datos_json$vehicleSpecs$electricFeatures$chargingInformation
+          ),
+          datos_json$vehicleSpecs$electricFeatures$chargingInformation$standardMode$duration$value,
+          "-"
+        ),
+      chargingTimeFast =
+        ifelse(
+          !is_empty(
+            datos_json$vehicleSpecs$electricFeatures$chargingInformation
+          ),
+          datos_json$vehicleSpecs$electricFeatures$chargingInformation$fastMode$duration$value,
+          "-"
+        )
+    )
+    
+  }else {
+    coche2 <- data.frame(
+      id = ifelse(!is_empty(datos_json$ad$id), datos_json$ad$id, " - "),
+      title = ifelse(!is.null(datos_json$ad$title), datos_json$ad$title, " - "),
+      photos = ifelse(
+        !is_empty(datos_json$ad$photos),
+        datos_json$ad$photos[1],
+        " - "
+      ),
+      url = ifelse(!is.null(datos_json$ad$url), datos_json$ad$url, " - "),
+      price = ifelse(!is_empty(datos_json$ad$price), datos_json$ad$price[[1]], " - "),
+      vehicleyear = ifelse(
+        !is.null(datos_json$ad$vehicle$year),
+        datos_json$ad$vehicle$year,
+        " - "
+      ),
+      vehiclekm = ifelse(
+        !is.null(datos_json$ad$vehicle$km),
+        datos_json$ad$vehicle$km,
+        " - "
+      ),
+      vehiclecolor = ifelse(
+        !is.null(datos_json$ad$vehicle$color),
+        datos_json$ad$vehicle$color,
+        " - "
+      ),
+      vehiclecolorId = ifelse(
+        !is.null(datos_json$ad$vehicle$colorId),
+        datos_json$ad$vehicle$colorId,
+        " - "
+      ),
+      vehicleisCertified = ifelse(
+        !is.null(datos_json$vehicle$isCertified),
+        datos_json$vehicle$isCertified,
+        " - "
+      ),
+      certificatedProgramId = ifelse(
+        !is.null(datos_json$ad$vehicle$certificatedProgramId),
+        datos_json$ad$vehicle$certificatedProgramId,
+        " - "
+      ),
+      hasVehicleHistory =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$hasVehicleHistory),
+          datos_json$ad$vehicle$hasVehicleHistory,
+          " - "
+        ),
+      makeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$makeId),
+          datos_json$ad$vehicle$specs$makeId,
+          " - "
+        ),
+      make =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$make),
+          datos_json$ad$vehicle$specs$make,
+          " - "
+        ),
+      modelId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$modelId),
+          datos_json$ad$vehicle$specs$modelId,
+          " - "
+        ),
+      model =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$model),
+          datos_json$ad$vehicle$specs$model,
+          " - "
+        ),
+      versionId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$versionId),
+          datos_json$ad$vehicle$specs$versionId,
+          " - "
+        ),
+      version =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$version),
+          datos_json$ad$vehicle$specs$version,
+          " - "
+        ),
+      uniqueVehicleId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$uniqueVehicleId),
+          datos_json$ad$vehicle$specs$uniqueVehicleId,
+          " - "
+        ),
+      bodyTypeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$bodyTypeId),
+          datos_json$ad$vehicle$specs$bodyTypeId,
+          " - "
+        ),
+      doors =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$doors),
+          datos_json$ad$vehicle$specs$doors,
+          " - "
+        ),
+      power =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$power),
+          datos_json$ad$vehicle$specs$power,
+          " - "
+        ),
+      transmissionTypeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$transmissionTypeId),
+          datos_json$ad$vehicle$specs$transmissionTypeId,
+          " - "
+        ),
+      fuelTypeId =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$fuelTypeId),
+          datos_json$ad$vehicle$specs$fuelTypeId,
+          " - "
+        ),
+      seatingCapacity =
+        ifelse(
+          !is.null(datos_json$ad$vehicle$specs$seatingCapacity),
+          datos_json$ad$vehicle$specs$seatingCapacity,
+          " - "
+        ),
+      professionalSellerId =
+        ifelse(
+          !is.null(datos_json$ad$professionalSeller$id),
+          datos_json$ad$professionalSeller$id,
+          " - "
+        ),
+      externalAdId =
+        ifelse(
+          !is.null(datos_json$ad$externalAdId),
+          datos_json$ad$externalAdId,
+          " - "
+        ),
+      isTradable =
+        ifelse(
+          !is.null(datos_json$ad$isTradable),
+          datos_json$ad$isTradable,
+          " - "
+        ),
+      province =
+        ifelse(
+          !is.null(datos_json$professionalSeller$location$province),
+          datos_json$professionalSeller$location$province,
+          " - "
+        ),
+      provinceId =
+        ifelse(
+          !is.null(datos_json$professionalSeller$location$provinceId),
+          datos_json$professionalSeller$location$provinceId,
+          " - "
+        ),
+      year =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$year),
+          datos_json$vehicleSpecs$year,
+          " - "
+        ),
+      numberOfDoors =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$numberOfDoors),
+          datos_json$vehicleSpecs$numberOfDoors,
+          " - "
+        ),
+      numberOfSeats =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$numberOfSeats),
+          datos_json$vehicleSpecs$numberOfSeats,
+          " - "
+        ),
+      horsePower =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$horsePower),
+          datos_json$vehicleSpecs$horsePower,
+          " - "
+        ),
+      start =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$start),
+          datos_json$vehicleSpecs$start,
+          " - "
+        ),
+      end =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$end),
+          datos_json$vehicleSpecs$end,
+          " - "
+        ),
+      dimensionsInMillimeterswidth =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$dimensionsInMillimeters$width),
+          datos_json$vehicleSpecs$dimensionsInMillimeters$width,
+          " - "
+        ),
+      dimensionsInMillimetersheight =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$dimensionsInMillimeters$height),
+          datos_json$vehicleSpecs$dimensionsInMillimeters$height,
+          " - "
+        ),
+      dimensionsInMillimeterslength =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$dimensionsInMillimeters$length),
+          datos_json$vehicleSpecs$dimensionsInMillimeters$length,
+          " - "
+        ),
+      trunkCapacityInLiters =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$trunkCapacityInLiters),
+          datos_json$vehicleSpecs$trunkCapacityInLiters,
+          " - "
+        ),
+      weight =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$weight),
+          datos_json$vehicleSpecs$weight,
+          " - "
+        ),
+      tankCapacityInLiters =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$tankCapacityInLiters),
+          datos_json$vehicleSpecs$tankCapacityInLiters,
+          " - "
+        ),
+      consumptionurban =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$consumption$urban),
+          datos_json$vehicleSpecs$consumption$urban,
+          " - "
+        ),
+      consumptionmixed =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$consumption$mixed),
+          datos_json$vehicleSpecs$consumption$mixed,
+          " - "
+        ),
+      consumptionextraUrban =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$consumption$extraUrban),
+          datos_json$vehicleSpecs$consumption$extraUrban,
+          " - "
+        ),
+      maxSpeed =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$maxSpeed),
+          datos_json$vehicleSpecs$maxSpeed,
+          " - "
+        ),
+      acceleration =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$acceleration),
+          datos_json$vehicleSpecs$acceleration,
+          " - "
+        ),
+      manufacturerPrice =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$manufacturerPrice),
+          datos_json$vehicleSpecs$manufacturerPrice,
+          " - "
+        ),
+      co2EmissionsGramsPerKm =
+        ifelse(
+          !is.null(datos_json$vehicleSpecs$co2EmissionsGramsPerKm),
+          datos_json$vehicleSpecs$co2EmissionsGramsPerKm,
+          " - "
+        ),
+      batteryVoltage =
+        ifelse(
+          !is.null(
+            datos_json$vehicleSpecs$electricFeatures$powerSource$batteryVoltage$value
+          ),
+          datos_json$vehicleSpecs$electricFeatures$powerSource$batteryVoltage$value,
+          "-"
+        ),
+      batteryKWH =
+        ifelse(
+          !is.null(
+            datos_json$vehicleSpecs$electricFeatures$powerSource$maximumBatteryKWH$value
+          ),
+          datos_json$vehicleSpecs$electricFeatures$powerSource$maximumBatteryKWH$value,
+          "-"
+        ),
+      chargingTime =
+        ifelse(
+          !is.null(
+            datos_json$vehicleSpecs$electricFeatures$chargingInformation$standardMode$duration$value
+          ),
+          datos_json$vehicleSpecs$electricFeatures$chargingInformation$standardMode$duration$value,
+          "-"
+        ),
+      chargingTimeFast =
+        ifelse(
+          !is.null(
+            datos_json$vehicleSpecs$electricFeatures$chargingInformation$fastMode$duration$value
+          ),
+          datos_json$vehicleSpecs$electricFeatures$chargingInformation$fastMode$duration$value,
+          "-"
+        )
+    )
+    dataCar = rbind(dataCar, coche2)
+    
+  }
+  print("-----")
+  #
+  
+}
 
 
 

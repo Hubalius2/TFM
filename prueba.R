@@ -139,3 +139,23 @@ for (lista in dataframes_por_columnas){
   print('______________________')
   write.csv(df1, file.path(carpeta_salida, paste0(nombre, ".csv")), row.names = FALSE)
 }
+
+##############################
+ficha_json <- function(json, prefijo = "") {
+  propiedades <- list()  # Crear una lista para almacenar las propiedades
+  
+  for (propiedad in names(json)) {
+    clave_completa <- ifelse(nchar(prefijo) > 0, paste(prefijo, propiedad, sep = "$"), propiedad)
+    
+    # Verificar si la propiedad es un objeto JSON
+    if (is.list(json[[propiedad]])) {
+      # Si es un objeto JSON, llamar recursivamente a la función con ese objeto y guardar el resultado en la lista de propiedades
+      sub_propiedades <- ficha_json(json[[propiedad]], prefijo = clave_completa)
+      propiedades[[clave_completa]] <- sub_propiedades
+    } else {
+      # Si no es un objeto JSON, guardar el valor en la lista de propiedades
+      propiedades[[clave_completa]] <- json[[propiedad]]
+    }
+  }
+  return(propiedades)  # Devolver la lista de propiedades
+}
