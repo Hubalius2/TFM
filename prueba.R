@@ -159,3 +159,97 @@ ficha_json <- function(json, prefijo = "") {
   }
   return(propiedades)  # Devolver la lista de propiedades
 }
+
+##############################
+car_SQL <- data.frame()
+for (i in 1:nrow(dataCar)) {
+  print(i)
+  if (toupper(dataCar[i, "make"]) %in% marcas_unicas$make) {
+    #if (dataCar[i, "model"] %in% modelos_unicas$model) {
+    #if (dataCar[i, "version"] %in% versiones_unicas$version) {
+    car_SQL <- rbind(car_SQL, dataCar[i, ])
+    #print(dataCar[i, "title"])
+    #}
+    #}
+  }
+}
+
+##############################
+for (i in 1:nrow(csv)){
+  title_match <- dataCar$id[dataCar$title == csv[i, "title"]]
+  print(title_match)
+  if(csv[i, "title"] %in% dataCar$title){
+    #print(csv[i, "title"])
+    csv[i, "ficha_id"] <-  dataCar$id[dataCar$title == csv[i, "title"]]
+  }else{
+    csv[i, "ficha_id"] <-  "0"
+  }
+}
+
+total <- 0
+for (i in 1:nrow(csv)){
+  if(csv[i, "ficha_id"] > 0){
+    #print(csv[i, "title"])
+    total <- total + 1
+  }
+}
+
+
+# Instala y carga el paquete FNN si aún no lo has hecho
+install.packages("FNN")
+library(FNN)
+
+# Crea un dataframe con los datos de los clientes
+clientes <- data.frame(
+  Cliente = 1:10,
+  Edad = c(30, 35, 25, 22, 28, 32, 40, 38, 45, 50),
+  MontoCompra = c(100, 80, 60, 40, 90, 70, 120, 110, 130, 150)
+)
+
+# Normaliza los datos para evitar sesgos por diferentes escalas
+clientes_norm <- scale(clientes[, -1])  # excluye la columna Cliente para la normalización
+
+# Define un nuevo cliente con el que queremos encontrar vecinos cercanos
+nuevo_cliente <- c(35, 85)  # Edad = 35, Monto de Compra = 85
+
+# Encuentra los vecinos más cercanos usando el algoritmo de vecinos más cercanos (KNN)
+k <- 3  # Número de vecinos más cercanos a buscar
+vecinos <- get.knnx(clientes_norm, matrix(nuevo_cliente, ncol = 2), k = k)
+
+# Imprime los vecinos más cercanos
+print(vecinos)
+
+
+
+# Definir las dos listas
+lista_ventas <- c("creationdate", "brand", "model", "version", "title", "url", "km", "year", "cubiccapacity", "mainprovince", "makeid", "modelid", "fueltypeid", "fueltype", "bodytypeid", "environmentallabel", "drivenwheelsid", "transmissiontypeid", "price_amount", "warranty_months", "offertype_id", "offertype_literal", "pack_legacyid", "pack_type", "url_true", "ficha_id")
+lista_referencia <- c("creationdate", "url", "km", "provinceid", "environmentallabel", "price_amount", "url_true", "ficha_id")
+
+# Encontrar los elementos de lista_ventas que no están en lista_referencia
+elementos_faltantes_ventas <- setdiff(lista_ventas, lista_referencia)
+
+# Mostrar los elementos faltantes
+print(elementos_faltantes_ventas)
+
+
+
+#---------------------------------------------------
+
+
+# Definir la tabla de reemplazo para quitar acentos
+tabla_reemplazo <- "áéíóúüñÁÉÍÓÚÜÑ"
+sin_acentos <- "aeiouunAEIOUUN"
+
+# Función para quitar acentos de una cadena
+
+# Encontrar los elementos que están en toWrite$mainprovince pero no en provincias_unicas$province
+elementos_toWrite <- toupper(unique(toWrite$mainprovince))
+elementos_provincias_unicas <- toupper(unique(provincias_unicas$province))
+elementos_no_coincidentes <- setdiff(elementos_toWrite, elementos_provincias_unicas)
+
+# Mostrar los elementos que no coinciden
+print(elementos_no_coincidentes)
+
+toWrite_clean <- toWrite  
+toWrite_clean <- iconv(toWrite, "UTF-8", "ASCII")
+

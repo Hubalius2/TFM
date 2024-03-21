@@ -962,10 +962,13 @@ for (archivo_json in archivos_json) {
   
 }
 
+write.csv(dataCar, "carData_Final.csv", row.names = TRUE)
 
 
+coincidencias <- merge(csv, dataCar, by.x = "title", by.y = "title")
 
-
+# Contar las coincidencias
+numero_de_coincidencias <- sum(coincidencias$title == coincidencias$title)
 
 
 

@@ -1,0 +1,162 @@
+Ficha Tecnica  
+  
+  id INTEGER PRIMARY KEY, Mantener
+  photos VARCHAR(255), Mantener
+  url VARCHAR(255), Quitar
+  price VARCHAR(255), Quitar 
+  vehicleyear VARCHAR(255), Mantener
+  vehiclekm VARCHAR(255), ¿Quitar?
+  vehiclecolor VARCHAR(255), Cotejada
+  vehiclecolorid VARCHAR(255), Cotejada
+  makeid INTEGER REFERENCES marcas(makeid), 
+  modelid INTEGER REFERENCES modelos(modelid), 
+  versionid INTEGER REFERENCES versiones(versionid),
+  vehicleiscertified VARCHAR(255), Quitar 
+  certificatedprogramid VARCHAR(255), Quitar
+  hasvehiclehistory VARCHAR(255), Quitar 
+  uniquevehicleid VARCHAR(255), Quitar
+  bodytypeid VARCHAR(255), Cotejada
+  doors VARCHAR(255), lista
+  power VARCHAR(255), lista
+  transmissiontypeid VARCHAR(255), cotejada
+  fueltypeid VARCHAR(255), cotejada
+  seatingcapacity VARCHAR(255), 
+  professionalsellerid VARCHAR(255), quitar
+  externaladid VARCHAR(255), quitar
+  istradable VARCHAR(255), quitar
+  province VARCHAR(255), quitar -> desde ventas
+  provinceid VARCHAR(255), quitar -> desde ventas
+  year VARCHAR(255), repetida
+  numberofdoors VARCHAR(255), repetida
+  numberofseats VARCHAR(255), repetida 
+  horsepower VARCHAR(255), 
+  start VARCHAR(255), 
+  end_ VARCHAR(255), 
+  dimensionsinmillimeterswidth VARCHAR(255), mantener
+  dimensionsinmillimetersheight VARCHAR(255), mantener
+  dimensionsinmillimeterslength VARCHAR(255), mantener
+  trunkcapacityinliters VARCHAR(255), mantener 
+  weight VARCHAR(255), mantener
+  tankcapacityinliters VARCHAR(255), mantener
+  consumptionurban VARCHAR(255), mantener
+  consumptionmixed VARCHAR(255), mantener
+  consumptionextraurban VARCHAR(255), mantener
+  maxspeed VARCHAR(255), mantener
+  acceleration VARCHAR(255), mantener 
+  manufacturerprice VARCHAR(255), mantener
+  co2emissionsgramsperkm VARCHAR(255), mantener
+  batteryvoltage VARCHAR(255), mantener 
+  batterykwh VARCHAR(255), mantener
+  chargingtime VARCHAR(255), mantener 
+  chargingtimefast VARCHAR(255) mantener
+
+Venta
+  
+  creationDate VARCHAR(255), mantener
+  km VARCHAR(255), mantener
+  year VARCHAR(255), mantener
+  cubicCapacity VARCHAR(255), quitar
+  mainProvince VARCHAR(255), quitar
+  fuelTypeId VARCHAR(255), quitar
+  fuelType VARCHAR(255), quitar
+  environmentalLabel VARCHAR(255),
+  drivenWheelsId VARCHAR(255), Quitar
+  transmissionTypeId VARCHAR(255), Quitar
+  price_amount VARCHAR(255),
+  warranty_months VARCHAR(255), Quitar
+  offerType_id VARCHAR(255), Quitar
+  offerType_literal VARCHAR(255), Quitar
+  pack_legacyId VARCHAR(255), Quitar
+  pack_type VARCHAR(255), Quitar
+  url_true VARCHAR(255), mantener
+  ficha_id INTEGER REFERENCES fichas_tecnicas(id) 
+  
+  body type id -> 
+    1 turismo
+    2 coupe
+    3 descapotable
+    4 turismo_familiar
+    5 monovolumen
+    6 todoterreno
+    7 pick_up
+    8 furgoneta
+    9
+    
+    15 Camiones
+    16 cabeza tractora
+    18 Camion
+    19 Camion 
+    20 Camion 
+    25 camion
+    26 camion
+    27 camion gancho
+    28 GRUA
+    
+  transmision ->
+    1 automatica
+    2 manual 
+    
+  combustible ->
+    1 diesel 
+    2 gasolina
+    3 electrico
+    4 hibrido
+    5 hibrido_enchufable
+    6 gas_licuado_(GLP)
+    7 gas_natural_(CNG)
+    
+  color ->
+    1 Amarillo
+    2 Azul
+    3 Beige
+    4 Blanco
+    5 Granate
+    6 Gris
+    7 Marron
+    8 Naranja
+    9 Negro
+    10 Rojo
+    11 Rosa
+    12 Verde
+    13 
+  id INTEGER PRIMARY KEY,
+  photos VARCHAR(255), 
+  url VARCHAR(255), 
+  vehicleyear VARCHAR(255), 
+  vehiclecolorid VARCHAR(255), 
+  makeid INTEGER REFERENCES marcas(makeid), 
+  modelid INTEGER REFERENCES modelos(modelid), 
+  versionid INTEGER REFERENCES versiones(versionid),
+  bodytypeid VARCHAR(255), 
+  doors VARCHAR(255), 
+  power VARCHAR(255), 
+  transmissiontypeid VARCHAR(255), 
+  fueltypeid VARCHAR(255), 
+  seatingcapacity VARCHAR(255),  
+  horsepower VARCHAR(255), 
+  dimensionsinmillimeterswidth VARCHAR(255), 
+  dimensionsinmillimetersheight VARCHAR(255), 
+  dimensionsinmillimeterslength VARCHAR(255), 
+  trunkcapacityinliters VARCHAR(255), 
+  weight VARCHAR(255), 
+  tankcapacityinliters VARCHAR(255), 
+  consumptionurban VARCHAR(255), 
+  consumptionmixed VARCHAR(255), 
+  consumptionextraurban VARCHAR(255), 
+  maxspeed VARCHAR(255), 
+  acceleration VARCHAR(255), 
+  manufacturerprice VARCHAR(255), 
+  co2emissionsgramsperkm VARCHAR(255), 
+  batteryvoltage VARCHAR(255), 
+  batterykwh VARCHAR(255), 
+  chargingtime VARCHAR(255), 
+  chargingtimefast VARCHAR(255)
+    
+  creationDate VARCHAR(255), mantener
+  km VARCHAR(255), mantener
+  year VARCHAR(255), mantener
+  environmentalLabel VARCHAR(255),
+  price_amount VARCHAR(255),
+  url_true VARCHAR(255), mantener
+  ficha_id INTEGER REFERENCES fichas_tecnicas(id)   
+   
