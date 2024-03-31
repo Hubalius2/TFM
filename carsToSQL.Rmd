@@ -434,6 +434,89 @@ dbWriteTable(pgConn, name = "colores",
 rm(colores_df)
 ```
 
+## Crear tabla etiqueta_medioambiental
+
+```{sql connection=pgConn, message=FALSE, warning=FALSE, eval=FALSE}
+CREATE TABLE etiqueta_medioambiental (
+  etiqueta_type_id SERIAL PRIMARY KEY,
+  etiqueta_type VARCHAR(255) UNIQUE
+  );
+```
+
+
+```{r writecolores_df, eval=FALSE, echo=TRUE, cache=TRUE}
+etiquetas_df <- data.frame(
+  etiqueta_type_id = c(1, 2, 3, 4, 5),
+  etiqueta_type = c("C", "B", "ECO", "0", "")
+)
+
+dbWriteTable(pgConn, name = "etiqueta_medioambiental",
+             value = etiquetas_df,
+             append=TRUE,
+             field.types=NULL,
+             batch_rows = 5000)
+
+rm(etiquetas_df)
+```
+
+## Crear tabla horas
+
+```{sql connection=pgConn, message=FALSE, warning=FALSE, eval=FALSE}
+CREATE TABLE horas (
+  hora_id SERIAL PRIMARY KEY,
+  hora TIME UNIQUE
+  );
+```
+
+
+```{r writehoras_df, eval=FALSE, echo=TRUE, cache=TRUE}
+
+horas_del_dia <- c()
+for (hora in 0:23) {
+  for (minuto in 0:59) {
+    horas_del_dia <- c(horas_del_dia, sprintf("%02d:%02d", hora, minuto))
+  }
+}
+horas_df <- data.frame(hora = horas_del_dia)
+horas_df$hora_id <- seq_len(nrow(horas_df))
+
+dbWriteTable(pgConn, name = "horas",
+             value = horas_df,
+             append=TRUE,
+             field.types=NULL,
+             batch_rows = 5000)
+
+rm(etiquetas_df)
+```
+
+## Crear tabla dias
+
+```{sql connection=pgConn, message=FALSE, warning=FALSE, eval=FALSE}
+CREATE TABLE dias (
+  dia_id SERIAL PRIMARY KEY,
+  dia DATE UNIQUE
+  );
+```
+
+
+```{r writedias_df, eval=FALSE, echo=TRUE, cache=TRUE}
+
+fechas <- seq(as.Date("1900-01-01"), as.Date("2030-12-31"), by = "day")
+
+fechas_formateadas <- format(fechas, "%Y-%m-%d")
+
+fechas_df <- data.frame(dia = fechas_formateadas)
+fechas_df$dia_id <- seq_len(nrow(fechas_df))
+
+dbWriteTable(pgConn, name = "dias",
+             value = fechas_df,
+             append=TRUE,
+             field.types=NULL,
+             batch_rows = 5000)
+
+rm(fechas_df)
+```
+
 
 ## Crear tabla fichas tecnicas
 
@@ -571,13 +654,14 @@ create_table_query <- paste("CREATE TABLE ventas (",
 
 ```{sql connection=pgConn, message=FALSE, warning=FALSE, eval=FALSE}
 CREATE TABLE ventas (
-  creationdate VARCHAR(255),
-  url VARCHAR(255),
+  venta_id SERIAL PRIMARY KEY,
+  dia_venta_id INTEGER REFERENCES dias(dia_id),
+  hora_venta_id INTEGER REFERENCES horas(hora_id),
   km VARCHAR(255),
   provinceid INTEGER REFERENCES provincias(provinceid),
-  environmentallabel VARCHAR(255),
+  etiqueta_type_id INTEGER REFERENCES etiqueta_medioambiental(etiqueta_type_id),
   price_amount VARCHAR(255),
-  url_true VARCHAR(255),
+  url VARCHAR(255),
   ficha_id INTEGER REFERENCES fichas_tecnicas(id)
   );
 ```
@@ -630,6 +714,11 @@ toWrite$mainprovince <- gsub("A Coruña", "A Coruna", toWrite$mainprovince, fixe
 toWrite$mainprovince <- gsub("Guipúzcoa", "Guipuzcoa", toWrite$mainprovince, fixed = TRUE)
 toWrite$mainprovince <- trimws(toWrite$mainprovince)
 
+toWrite <- separate(toWrite, creationdate, into = c("dia_venta_id", "hora_venta_id"), sep = " ")
+toWrite$dia_venta_id <- as.Date(toWrite$dia_venta_id, format = "%d/%m/%Y")
+toWrite$dia_venta_id <- format(toWrite$dia_venta_id, "%Y-%m-%d")
+
+
 for (i in 1:nrow(toWrite)) {
   if ((toupper(toWrite[i, "mainprovince"]) %in% toupper(provincias_unicas$province))) {
     #print(paste(toWrite[i, "mainprovince"]))
@@ -639,20 +728,42 @@ for (i in 1:nrow(toWrite)) {
     print(paste("No coincide: ", toWrite[i, "creationdate"], "  -  ", toWrite[i, "mainprovince"]))
     toWrite[i, "mainprovince"] <- 0
   }
-}
-
-names(toWrite)[names(toWrite) == "url_true"] <- "url"
-names(toWrite)[names(toWrite) == "mainprovince"] <- "provinceid"
-toWrite$provinceid <- iconv(toWrite$provinceid, "UTF-8", "latin1")
-toWrite$url <- iconv(toWrite$url, "UTF-8", "latin1")
-dbWriteTable(pgConn, name = "ventas",
-             value = toWrite,
-             append=TRUE,
-             field.types=NULL,
-             batch_rows = 5000)
-
-rm(toWrite)
-
+  if(toWrite[i, "environmentallabel"] %in% etiquetas_df$etiqueta_type){
+    toWrite[i, "environmentallabel"] <- 
+      etiquetas_df$etiqueta_type_id[toWrite[i, "environmentallabel"] == etiquetas_df$etiqueta_type]
+  }else{
+    toWrite[i, "environmentallabel"] <- 5
+  }
+  
+  if(toWrite[i, "dia_venta_id"] %in% fechas_df$dia){
+    toWrite[i, "dia_venta_id"] <- 
+      fechas_df$dia_id[toWrite[i, "dia_venta_id"] == fechas_df$dia]
+  }
+  if(toWrite[i, "hora_venta_id"] %in% horas_df$hora){
+    toWrite[i, "hora_venta_id"] <- 
+      horas_df$hora_id[toWrite[i, "hora_venta_id"] == horas_df$hora]
+  }else{
+    if(paste0("0",toWrite[i, "hora_venta_id"]) %in% horas_df$hora){
+      toWrite[i, "hora_venta_id"] <- 
+        horas_df$hora_id[paste0("0",toWrite[i, "hora_venta_id"]) == horas_df$hora]
+    }
+  }
+} 
+  names(toWrite)[names(toWrite) == "url_true"] <- "url"
+  names(toWrite)[names(toWrite) == "mainprovince"] <- "provinceid"
+  names(toWrite)[names(toWrite) == "environmentallabel"] <- "etiqueta_type_id"
+  toWrite$provinceid <- iconv(toWrite$provinceid, "UTF-8", "latin1")
+  toWrite$url <- iconv(toWrite$url, "UTF-8", "latin1")
+  toWrite$id <- seq(from = 1, to = nrow(toWrite))
+  names(toWrite)[names(toWrite) == "id"] <- "venta_id"
+  dbWriteTable(pgConn, name = "ventas",
+               value = toWrite,
+               append=TRUE,
+               field.types=NULL,
+               batch_rows = 5000)
+  
+  rm(toWrite)
+  
 ```
 
 

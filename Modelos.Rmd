@@ -1,0 +1,254 @@
+---
+title: "Modelos"
+author: "Pablo Martin Sanchez"
+date: "2024-03-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Librerias
+
+```{r Funcion para libreiras, eval=TRUE, echo=TRUE, results='hide'}
+ipak <- function(pkg){
+  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+  if(length(new.pkg))
+    install.packages(new.pkg, dependecies=TRUE)
+  sapply(pkg, require, character.only = TRUE)
+}
+
+```
+
+```{r}
+libreries <- c("RPostgres", "RODBC", "odbc", "DBI", "dplyr", "readr",
+               "rlang", "stringr","tidyverse","ggplot2", "doParallel", "foreach"
+               ,"stringi", "utf8","tm", "tidymodels")
+ipak(libreries)
+```
+
+
+## Cargar base de datos.
+
+```{r pgConn_Covid, eval=TRUE, echo=TRUE, cache=TRUE}
+pgConn <- dbConnect(RPostgres::Postgres(), dbname = 'TFM_Coches',
+                    host = '127.0.0.1',
+                    port = 5432, # or any other specified by your own)
+                    user = 'postgres',
+                    password = "9170")
+dbListTables(pgConn)
+```
+
+## Cargar datos.
+
+```{r}
+query <- "select  v.price_amount, m.make, 
+	ft.manufacturerprice, v.km, ft.vehicleyear, 
+	em.etiqueta_type  , p.province, 
+	ft.horsepower, ft.maxspeed, ft.acceleration, 
+	com.combustible_type, b.body_type, t.transmision_type,
+	ft.doors, ft.seatingcapacity, c.colores_type,   
+	ft.dimensionsinmillimeterswidth, ft.dimensionsinmillimetersheight,
+	ft.dimensionsinmillimeterslength, ft.weight, 
+	ft.tankcapacityinliters, ft.trunkcapacityinliters, 
+	ft.consumptionurban, ft.consumptionmixed, ft.consumptionextraurban,  
+	ft.co2emissionsgramsperkm, ft.batteryvoltage, ft.batterykwh,
+	ft.chargingtime, ft.chargingtimefast 
+	from ventas v 
+	inner join provincias p on v.provinceid = p.provinceid
+	inner join fichas_tecnicas ft on v.ficha_id = ft.id
+	inner join colores c on ft.vehiclecolorid = c.colores_type_id
+	inner join transmision t on ft.transmissiontypeid = t.transmision_type_id 
+	inner join bodytype b on ft.bodytypeid = b.body_type_id
+	inner join combustible com on ft.fueltypeid = com.combustible_type_id 
+	inner join etiqueta_medioambiental em on v.etiqueta_type_id = em.etiqueta_type_id
+	inner join marcas m on ft.makeid = m.makeid ;"
+ventas_df <- dbGetQuery(pgConn, query)
+
+# Mostrar los primeros registros del dataframe
+head(ventas_df)
+write.csv(ventas_df, "ventas_dataframe.csv")
+ventas_df_copy <- ventas_df
+ventas_df <- ventas_df_copy
+```
+## Tipos de datos.
+
+```{r}
+tipos_de_dato <- sapply(ventas_df, typeof)
+print(tipos_de_dato)
+```
+```{r}
+ventas_df$price_amount <- as.numeric(ventas_df$price_amount)
+ventas_df$manufacturerprice <- as.numeric(ventas_df$manufacturerprice)
+ventas_df$km <- as.numeric(ventas_df$km)
+ventas_df$km [is.na(ventas_df$km)] <- 0
+ventas_df$vehicleyear <- as.numeric(ventas_df$vehicleyear)
+ventas_df$horsepower <- as.numeric(ventas_df$horsepower)
+ventas_df$maxspeed <- as.numeric(ventas_df$maxspeed)
+ventas_df$acceleration <- as.numeric(ventas_df$acceleration)
+ventas_df$doors <- as.numeric(ventas_df$doors)
+ventas_df$seatingcapacity <- as.numeric(ventas_df$seatingcapacity)
+ventas_df$dimensionsinmillimeterswidth <- as.numeric(ventas_df$dimensionsinmillimeterswidth)
+ventas_df$dimensionsinmillimetersheight <- as.numeric(ventas_df$dimensionsinmillimetersheight)
+ventas_df$dimensionsinmillimeterslength <- as.numeric(ventas_df$dimensionsinmillimeterslength)
+ventas_df$weight <- as.numeric(ventas_df$weight)
+ventas_df$trunkcapacityinliters <- as.numeric(ventas_df$trunkcapacityinliters)
+ventas_df$tankcapacityinliters <- as.numeric(ventas_df$tankcapacityinliters)
+ventas_df$consumptionurban <- as.numeric(ventas_df$consumptionurban)
+ventas_df$consumptionmixed <- as.numeric(ventas_df$consumptionmixed)
+ventas_df$consumptionextraurban <- as.numeric(ventas_df$consumptionextraurban)
+ventas_df$co2emissionsgramsperkm <- as.numeric(ventas_df$co2emissionsgramsperkm)
+ventas_df$batteryvoltage <- as.numeric(ventas_df$batteryvoltage)
+ventas_df$batterykwh <- as.numeric(ventas_df$batterykwh)
+ventas_df$chargingtime <- as.numeric(ventas_df$chargingtime)
+ventas_df$chargingtimefast <- as.numeric(ventas_df$chargingtimefast)
+# Cambiar NA por 0 en la columna "columna_a_modificar" usando el operador de asignación condicional
+#df$columna_a_modificar[is.na(df$columna_a_modificar)] <- 0
+
+```
+
+```{r}
+ventas_df$make <- as.factor(ventas_df$make)
+levels(ventas_df$make)
+ventas_df$etiqueta_type <- as.factor(ventas_df$etiqueta_type)
+levels(ventas_df$etiqueta_type)
+ventas_df$province <- as.factor(ventas_df$province)
+levels(ventas_df$province)
+ventas_df$transmision_type <- as.factor(ventas_df$transmision_type)
+levels(ventas_df$transmision_type)
+ventas_df$body_type <- as.factor(ventas_df$body_type)
+levels(ventas_df$body_type)
+ventas_df$combustible_type <- as.factor(ventas_df$combustible_type)
+levels(ventas_df$combustible_type)
+ventas_df$colores_type <- as.factor(ventas_df$colores_type)
+levels(ventas_df$colores_type)
+```
+
+```{r}
+tipos_de_dato <- sapply(ventas_df, typeof)
+print(tipos_de_dato)
+
+```
+
+
+## Histograma precio
+```{r}
+ggplot(ventas_df, aes(x = price_amount)) +
+  geom_histogram(binwidth = 5000, fill = "skyblue", color = "black") +
+  labs(title = "Distribución de precio venta",
+       x = "Precio",
+       y = "Frecuencia")
+```
+
+Eliminar coches que tienen un precio mayor a 150000€, se consideran outliers.
+
+```{r}
+ventas_df <- ventas_df[ventas_df$price_amount <= 150000, ]
+ggplot(ventas_df, aes(x = price_amount)) +
+  geom_histogram(binwidth = 5000, fill = "skyblue", color = "black") +
+  labs(title = "Distribución de precio venta",
+       x = "Precio",
+       y = "Frecuencia")
+```
+
+## Datos training y test.
+
+Se crea una nueva columna con el precio del coche en formato log10.
+Se divide el dataset en 2 partes:
+
+-   Conjunto training con un 75% de los datos.
+-   Conjunto test con 25% de los datos.
+
+Se estratifican los split según el precio de venta.
+Se crean tres objetos de validación cruzada:
+
+-   **Trial**: Prueba Inicial del Algoritmo.
+-   **Tuning**: Para tunear los parámetros.
+-   **Assessment**: Comprobación de los parámetros tuneados.
+
+Se crea un vector con las métricas que se van a calcular y 
+comparar de los algoritmos. (**RSME**, **MAE** y **RSQ**)
+
+## 
+```{r training_test, echo=TRUE, cache=TRUE}
+set.seed(123)
+ventas_df <- ventas_df |> 
+  mutate(lPrice = log10(price_amount))
+ventas_split <- rsample::initial_split(ventas_df, prop = 3/4, strata = lPrice)
+ventas_training <- rsample::training(ventas_split)
+ventas_test <- rsample::testing(ventas_split)
+
+k1 <- 5
+k2 <- 1
+
+set.seed(456)
+ventas_trial <- rsample::vfold_cv(ventas_training, v = k1, repeats = k2)
+
+set.seed(789)
+ventas_tuning <- rsample::vfold_cv(ventas_training, v = k1, repeats = k2)
+
+set.seed(345)
+ventas_assesment <- rsample::vfold_cv(ventas_training, v = k1, repeats = k2)
+
+metricS <- metric_set(rmse, mae, rsq)
+```
+
+
+## Receta.
+Se crea una receta sobre los datos de training.
+
+-   Se eliminan las columnas de precio en euros y precio en dólares australianos.
+-   Se elimina la columna **CylindersinEngine** porque la información está repetida.
+-   Se eliminan los features con varianza cercana a cero y varianza cero.
+-   Se aplica **Box-Cox** a los kilómetros recorridos por el coche.
+-   Se crean dummy para todas las variables tipo factor.
+-   Se normalizan los predictores numéricos.
+
+```{r rec_boosting, echo=TRUE, cache=TRUE}
+rec_ventas <- recipe(lPrice ~ ., data = ventas_training) |>
+  step_rm(price_amount) |>
+  step_rm(manufacturerprice) |>
+  step_nzv(all_predictors()) |>
+  step_zv(all_predictors()) |>
+  step_BoxCox(km) |>
+  step_dummy(all_nominal_predictors(), one_hot = FALSE) |>
+  step_normalize(all_numeric_predictors())
+```
+
+# Boosting_Tree
+
+## Modelo y Workflow
+
+Se crea un primer modelo con los siguientes parámetros para probar el
+rendimiento de **boosting_tree.**
+
+```{r boosting_model_wkfl, echo=TRUE, cache=TRUE}
+rf_model <- rand_forest(mtry = 10,  trees = 500,  min_n = 20) |>  
+  set_engine("ranger", importance = "impurity") |>
+  set_mode("regression")
+rf_wflow_trial <-  workflow() |>
+  add_model(boosting_model) |>
+  add_recipe(rec_ventas)
+```
+
+## Fit trial.
+
+Se calculan las métricas para el objeto de validación cruzada con los 
+datos de **trial**.
+
+```{r boosting_fit, echo=TRUE, cache=TRUE}
+
+cl <- makePSOCKcluster(8)
+registerDoParallel(cl)
+
+rf_trial <-fit_resamples(rf_wflow_trial, 
+                           ventas_trial,  
+                           metrics = metricS)
+stopCluster(cl)
+
+rf_trial_re <- collect_metrics(rf_trial)
+rf_trial_re$Tipo <- "Trial"
+rf_trial_re <- rf_trial_re[, c("Tipo", ".metric", "mean")]
+rf_trial_re
+```

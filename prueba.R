@@ -253,3 +253,4 @@ print(elementos_no_coincidentes)
 toWrite_clean <- toWrite  
 toWrite_clean <- iconv(toWrite, "UTF-8", "ASCII")
 
+ventas_df
