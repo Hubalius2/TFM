@@ -24,7 +24,7 @@ ipak <- function(pkg){
 ```{r}
 libreries <- c("RPostgres", "RODBC", "odbc", "DBI", "dplyr", "readr",
                "rlang", "stringr","tidyverse","ggplot2", "doParallel", "foreach"
-               ,"stringi", "utf8","tm", "tidymodels")
+               ,"stringi", "utf8","tm", "tidymodels", "VIM","parallel")
 ipak(libreries)
 ```
 
@@ -173,9 +173,14 @@ comparar de los algoritmos. (**RSME**, **MAE** y **RSQ**)
 ## 
 ```{r training_test, echo=TRUE, cache=TRUE}
 set.seed(123)
-ventas_df <- ventas_df |> 
+ventas_df_combustible <- subset(ventas_df, combustible_type == "diesel" | combustible_type == "gasolina") |> 
   mutate(lPrice = log10(price_amount))
-ventas_split <- rsample::initial_split(ventas_df, prop = 3/4, strata = lPrice)
+
+ventas_df_combustible <- ventas_df_combustible[, !(names(ventas_df_combustible) %in% 
+                                                     c("batteryvoltage", "batterykwh", 
+                                                       "chargingtimefast", "chargingtime"))]
+
+ventas_split <- rsample::initial_split(ventas_df_combustible, prop = 3/4, strata = lPrice)
 ventas_training <- rsample::training(ventas_split)
 ventas_test <- rsample::testing(ventas_split)
 
@@ -205,15 +210,25 @@ Se crea una receta sobre los datos de training.
 -   Se crean dummy para todas las variables tipo factor.
 -   Se normalizan los predictores numéricos.
 
+```{r}
+ventas_training_imputed <- knn.impute(ventas_training)
+```
+
+
 ```{r rec_boosting, echo=TRUE, cache=TRUE}
 rec_ventas <- recipe(lPrice ~ ., data = ventas_training) |>
   step_rm(price_amount) |>
   step_rm(manufacturerprice) |>
+  # step_rm(batterykwh) |>
+  # step_rm(batteryvoltage) |>
+  # step_rm(chargingtimefast) |>
+  # step_rm(chargingtime) |>
   step_nzv(all_predictors()) |>
   step_zv(all_predictors()) |>
-  step_BoxCox(km) |>
+  step_YeoJohnson(km) |>
   step_dummy(all_nominal_predictors(), one_hot = FALSE) |>
-  step_normalize(all_numeric_predictors())
+  step_normalize(all_numeric_predictors()) |>
+  step_impute_knn(all_numeric_predictors())
 ```
 
 # Boosting_Tree
@@ -228,7 +243,7 @@ rf_model <- rand_forest(mtry = 10,  trees = 500,  min_n = 20) |>
   set_engine("ranger", importance = "impurity") |>
   set_mode("regression")
 rf_wflow_trial <-  workflow() |>
-  add_model(boosting_model) |>
+  add_model(rf_model) |>
   add_recipe(rec_ventas)
 ```
 
@@ -252,3 +267,242 @@ rf_trial_re$Tipo <- "Trial"
 rf_trial_re <- rf_trial_re[, c("Tipo", ".metric", "mean")]
 rf_trial_re
 ```
+
+
+
+```{r fit_boosting_vip, echo=TRUE, cache=TRUE}
+boosting <- fit(final_Wflow_boosting, car_data_training)
+rf_trial |> 
+  extract_fit_parsnip() |>
+  vip::vip()
+```
+
+
+
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
+
+```{r}
+set.seed(123)
+ventas_df_combustible <- subset(ventas_df, combustible_type == "diesel" | combustible_type == "gasolina") |> 
+  mutate(lPrice = log10(price_amount))
+
+ventas_df_combustible <- ventas_df_combustible[, !(names(ventas_df_combustible) %in% 
+                                                     c("batteryvoltage", "batterykwh", 
+                                                       "chargingtimefast", "chargingtime"))]
+#Imputar 
+
+num_cores <- 8
+ventas_df_combustible_split <- split(ventas_df_combustible, 1:num_cores)
+
+# Inicializar el clúster paralelo
+cl <- makeCluster(num_cores)
+clusterExport(cl, "kNN")
+# Ejecutar la imputación kNN en paralelo
+ventas_df_combustible_imputed_list <- parLapply(cl, ventas_df_combustible_split, function(df_part) {
+  kNN(df_part, variable = c("manufacturerprice"), k = 6)
+})
+
+# Cerrar el clúster paralelo
+stopCluster(cl)
+
+# Combinar los resultados en un solo dataframe
+ventas_df_combustible_imputed <- do.call(rbind, ventas_df_combustible_imputed_list)
+
+```
+
+
+```{r}
+#Imputar 
+
+num_cores <- 8
+ventas_df_combustible_split <- split(ventas_df_combustible_imputed, 1:num_cores)
+
+# Inicializar el clúster paralelo
+cl <- makeCluster(num_cores)
+clusterExport(cl, "kNN")
+# Ejecutar la imputación kNN en paralelo
+ventas_df_combustible_imputed_list <- parLapply(cl, ventas_df_combustible_split, function(df_part) {
+  kNN(df_part, variable = c("horsepower","maxspeed","acceleration"), k = 6)
+})
+
+# Cerrar el clúster paralelo
+stopCluster(cl)
+
+# Combinar los resultados en un solo dataframe
+ventas_df_combustible_imputed <- do.call(rbind, ventas_df_combustible_imputed_list)
+```
+```{r}
+#Imputar 
+ventas_df_combustible_split <- split(ventas_df_combustible_imputed, 1:num_cores)
+
+cl <- makeCluster(num_cores)
+clusterExport(cl, "kNN")
+ventas_df_combustible_imputed_list <- parLapply(cl, ventas_df_combustible_split, function(df_part) {
+  kNN(df_part, variable = c("dimensionsinmillimeterswidth","dimensionsinmillimetersheight",
+                            "dimensionsinmillimeterslength"), k = 6)
+})
+stopCluster(cl)
+
+ventas_df_combustible_imputed <- do.call(rbind, ventas_df_combustible_imputed_list)
+```
+
+
+```{r}
+#Imputar 
+ventas_df_combustible_split <- split(ventas_df_combustible_imputed, 1:num_cores)
+
+cl <- makeCluster(num_cores)
+clusterExport(cl, "kNN")
+ventas_df_combustible_imputed_list <- parLapply(cl, ventas_df_combustible_split, function(df_part) {
+  kNN(df_part, variable = c("weight","tankcapacityinliters",
+                            "consumptionurban"), k = 6)
+})
+stopCluster(cl)
+
+ventas_df_combustible_imputed <- do.call(rbind, ventas_df_combustible_imputed_list)
+```
+
+```{r}
+#Imputar 
+ventas_df_combustible_split <- split(ventas_df_combustible_imputed, 1:num_cores)
+
+cl <- makeCluster(num_cores)
+clusterExport(cl, "kNN")
+ventas_df_combustible_imputed_list <- parLapply(cl, ventas_df_combustible_split, function(df_part) {
+  kNN(df_part, variable = c("consumptionmixed","consumptionextraurban",
+                            "co2emissionsgramsperkm"), k = 6)
+})
+stopCluster(cl)
+
+ventas_df_combustible_imputed <- do.call(rbind, ventas_df_combustible_imputed_list)
+```
+
+```{r}
+#Imputar 
+ventas_df_combustible_split <- split(ventas_df_combustible_imputed, 1:num_cores)
+
+cl <- makeCluster(num_cores)
+clusterExport(cl, "kNN")
+ventas_df_combustible_imputed_list <- parLapply(cl, ventas_df_combustible_split, function(df_part) {
+  kNN(df_part, variable = c("seatingcapacity","doors",
+                            "trunkcapacityinliters"), k = 6)
+})
+stopCluster(cl)
+
+ventas_df_combustible_imputed <- do.call(rbind, ventas_df_combustible_imputed_list)
+```
+
+
+```{r}
+set.seed(123)
+ventas_split <- rsample::initial_split(ventas_df_combustible_imputed, prop = 3/4, strata = lPrice)
+ventas_training <- rsample::training(ventas_split)
+ventas_test <- rsample::testing(ventas_split)
+
+k1 <- 5
+k2 <- 1
+
+set.seed(456)
+ventas_trial <- rsample::vfold_cv(ventas_training, v = k1, repeats = k2)
+
+set.seed(789)
+ventas_tuning <- rsample::vfold_cv(ventas_training, v = k1, repeats = k2)
+
+set.seed(345)
+ventas_assesment <- rsample::vfold_cv(ventas_training, v = k1, repeats = k2)
+
+metricS <- metric_set(rmse, mae, rsq)
+```
+
+
+```{r}
+rec_ventas <- recipe(lPrice ~ ., data = ventas_training) |>
+  step_rm(price_amount) |>
+  step_rm(manufacturerprice) |>
+  # step_rm(batterykwh) |>
+  # step_rm(batteryvoltage) |>
+  # step_rm(chargingtimefast) |>
+  # step_rm(chargingtime) |>
+  step_nzv(all_predictors()) |>
+  step_zv(all_predictors()) |>
+  step_YeoJohnson(km) |>
+  step_dummy(all_nominal_predictors(), one_hot = FALSE) |>
+  step_normalize(all_numeric_predictors())
+```
+
+```{r, echo=TRUE, cache=TRUE}
+rf_model <- rand_forest(mtry = 10,  trees = 500,  min_n = 20) |>  
+  set_engine("ranger", importance = "impurity") |>
+  set_mode("regression")
+rf_wflow_trial <-  workflow() |>
+  add_model(rf_model) |>
+  add_recipe(rec_ventas)
+```
+
+
+```{r}
+cl <- makePSOCKcluster(8)
+registerDoParallel(cl)
+
+rf_trial <-fit_resamples(rf_wflow_trial, 
+                           ventas_trial,  
+                           metrics = metricS)
+stopCluster(cl)
+
+rf_trial_re <- collect_metrics(rf_trial)
+rf_trial_re$Tipo <- "Trial"
+rf_trial_re <- rf_trial_re[, c("Tipo", ".metric", "mean")]
+rf_trial_re
+```
+
+# Tuneado
+
+```{r tune_model_wklw, echo=TRUE, cache=TRUE}
+random_model_tune <- rand_forest(trees = tune()) |>
+  set_engine("ranger", importance = "impurity") |>
+  set_mode("regression")
+
+wflow_random_tune <- workflow() |>
+  add_model(random_model_tune) |>
+  add_recipe(rec_ventas)
+
+wflow_random_tune
+```
+
+```{r random_tuning_1, echo=TRUE, cache=TRUE}
+wflow_random_tune_param <- extract_parameter_set_dials(wflow_random_tune) |>
+  finalize(ventas_training)
+
+set.seed(456)
+grid_random_tune_expand <- expand.grid(trees = seq(100, 2000, 100))
+grid_random_tune_expand
+```
+
+```{r random_tuning_2, echo=TRUE, cache=TRUE, eval=TRUE}
+cl <- makePSOCKcluster(8)
+registerDoParallel(cl)
+
+random_reg_tune_parallel <- tune_grid(
+  wflow_random_tune,
+  ventas_tuning,
+  grid = grid_random_tune_expand,
+  metrics = metricS,
+  control = control_grid(parallel_over = "everything")
+)
+stopCluster(cl)
+```
+
+```{r random_tuning_3, echo=TRUE, cache=TRUE}
+random_reg_tune_parallel |>
+  collect_metrics()
+```
+
+
+
+
+
